@@ -1,0 +1,38 @@
+{
+    "timestamp": "2026-07-08T10:41:17.517313",
+    "dataset": "GSE141910",
+    "raw_tar_path": "/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE141910/GSE141910_RAW.tar",
+    "metadata_path": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_sample_metadata_raw.csv",
+    "metadata_shape": [
+        366,
+        10
+    ],
+    "metadata_columns": [
+        "gse_id",
+        "gsm_id",
+        "title",
+        "source_name_ch1",
+        "organism_ch1",
+        "characteristics_ch1",
+        "description",
+        "platform_id",
+        "supplementary_file",
+        "rough_group_label"
+    ],
+    "detected_gsm_column": "gsm_id",
+    "tar_total_files": 366,
+    "tar_csv_gz_files": 366,
+    "representative_member_name": "GSM4215858_C00039.csv.gz",
+    "representative_member_size_bytes": 170288,
+    "read_mode": "pd.read_csv_default_comma",
+    "representative_preview_shape": [
+        20,
+        2
+    ],
+    "representative_preview_columns": [
+        "Unnamed: 0",
+        "C00039"
+    ],
+    "preview_csv_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_single_raw_file_preview_CODE10.csv",
+    "next_step": "Use detected columns to build full GSE141910 expression/count matrix across all 366 samples."
+}

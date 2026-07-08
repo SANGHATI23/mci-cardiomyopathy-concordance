@@ -1,0 +1,43 @@
+{
+    "timestamp": "2026-07-08T10:56:04.169931",
+    "dataset": "GSE141910",
+    "step": "Step 3 differential expression completion",
+    "status": "COMPLETE_FOR_HCM_AND_DCM_ARMS",
+    "matrix_ensembl_shape": [
+        20781,
+        366
+    ],
+    "matrix_gene_symbol_shape": [
+        18513,
+        366
+    ],
+    "total_samples": 366,
+    "total_missing_expression_values": 0,
+    "unique_target_symbols": 75,
+    "matched_target_symbols": 71,
+    "missing_target_symbols": [
+        "CASR",
+        "MHRT",
+        "RPL36A-HNRNPH2",
+        "SCO2"
+    ],
+    "hcm_samples_used": 194,
+    "hcm_n_HCM": 28,
+    "hcm_n_Control": 166,
+    "hcm_genes_tested": 18513,
+    "hcm_FDR_lt_0_05": 6762,
+    "hcm_target_rows_matched": 47,
+    "hcm_target_rows_total": 50,
+    "hcm_H4_rows_matched": 15,
+    "hcm_H4_rows_total": 15,
+    "dcm_samples_used": 332,
+    "dcm_n_DCM": 166,
+    "dcm_n_Control": 166,
+    "dcm_genes_tested": 18513,
+    "dcm_FDR_lt_0_05": 12171,
+    "dcm_target_rows_matched": 49,
+    "dcm_target_rows_total": 51,
+    "dcm_H4_rows_matched": 7,
+    "dcm_H4_rows_total": 7,
+    "manifest_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE141910/GSE141910_STEP3_DE_file_manifest_CODE15.csv"
+}

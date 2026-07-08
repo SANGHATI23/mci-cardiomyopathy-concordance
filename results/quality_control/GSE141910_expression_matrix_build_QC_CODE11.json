@@ -1,0 +1,45 @@
+{
+    "timestamp": "2026-07-08T10:43:12.283199",
+    "dataset": "GSE141910",
+    "raw_tar_path": "/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE141910/GSE141910_RAW.tar",
+    "metadata_path": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_sample_metadata_raw.csv",
+    "metadata_shape": [
+        366,
+        10
+    ],
+    "csv_gz_members_found": 366,
+    "expression_matrix_shape": [
+        20781,
+        366
+    ],
+    "gene_rows": 20781,
+    "sample_columns": 366,
+    "metadata_sample_count": 366,
+    "metadata_only_gsms": [],
+    "file_only_gsms": [],
+    "expression_columns_match_metadata_order": true,
+    "total_missing_expression_values": 0,
+    "first_5_gene_ids": [
+        "ENSG00000000003",
+        "ENSG00000000005",
+        "ENSG00000000419",
+        "ENSG00000000457",
+        "ENSG00000000460"
+    ],
+    "first_5_sample_ids": [
+        "GSM4215858",
+        "GSM4215859",
+        "GSM4215860",
+        "GSM4215861",
+        "GSM4215862"
+    ],
+    "group_counts": {
+        "possible_control": 166,
+        "possible_DCM": 166,
+        "possible_HCM": 28,
+        "unknown": 6
+    },
+    "matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE141910_expression_matrix_ensembl_raw.csv",
+    "design_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_analysis_design_table_initial.csv",
+    "member_manifest_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_matrix_build_member_manifest_CODE11.csv"
+}

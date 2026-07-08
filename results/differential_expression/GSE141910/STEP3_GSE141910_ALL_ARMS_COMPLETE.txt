@@ -1,0 +1,7 @@
+STEP3 GSE141910 all modeled arms complete.
+Timestamp: 2026-07-08T10:56:04.169931
+Completed arms: HCM vs Control; DCM vs Control.
+Gene-symbol matrix shape: [18513, 366]
+HCM arm: 28 HCM + 166 Control; FDR<0.05=6762; target rows matched=47/50.
+DCM arm: 166 DCM + 166 Control; FDR<0.05=12171; target rows matched=49/51.
+Unknown samples excluded from primary DE arms.

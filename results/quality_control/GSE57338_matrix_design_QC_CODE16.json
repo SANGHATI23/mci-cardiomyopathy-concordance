@@ -1,0 +1,48 @@
+{
+    "timestamp": "2026-07-08T11:00:00.846155",
+    "dataset": "GSE57338",
+    "gse_title": "RNA-Seq Identifies Novel Myocardial Gene Expression Signatures of Heart Failure [microarray]",
+    "n_gsm_samples": 313,
+    "n_gpl_platforms": 1,
+    "metadata_shape": [
+        313,
+        10
+    ],
+    "expression_matrix_shape": [
+        33297,
+        313
+    ],
+    "feature_rows": 33297,
+    "sample_columns": 313,
+    "metadata_sample_count": 313,
+    "metadata_only_samples": [],
+    "matrix_only_samples": [],
+    "expression_columns_match_metadata_order": true,
+    "total_missing_expression_values": 0,
+    "rough_group_counts": {
+        "possible_DCM_or_heart_failure": 177,
+        "possible_control": 136
+    },
+    "primary_dcm_control_counts": {
+        "possible_DCM_or_heart_failure": 177,
+        "possible_control": 136
+    },
+    "first_5_feature_ids": [
+        "7892501",
+        "7892502",
+        "7892503",
+        "7892504",
+        "7892505"
+    ],
+    "first_5_sample_ids": [
+        "GSM1379812",
+        "GSM1379813",
+        "GSM1379814",
+        "GSM1379815",
+        "GSM1379816"
+    ],
+    "raw_metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE57338_sample_metadata_raw_CODE16.csv",
+    "design_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE57338_analysis_design_table_CODE16.csv",
+    "expression_matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE57338_expression_matrix_raw_CODE16.csv",
+    "group_scan_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE57338_group_scan_CODE16.csv"
+}

@@ -1,0 +1,30 @@
+{
+    "timestamp": "2026-07-08T10:46:57.377103",
+    "dataset": "GSE141910",
+    "input_ensembl_matrix": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE141910_expression_matrix_ensembl_raw.csv",
+    "input_ensembl_shape": [
+        20781,
+        366
+    ],
+    "unique_ensembl_ids": 20781,
+    "annotation_rows": 20786,
+    "mapped_with_gene_symbol": 18534,
+    "notfound_count": 951,
+    "expression_rows_with_gene_symbols": 18529,
+    "gene_symbol_matrix_shape": [
+        18513,
+        366
+    ],
+    "unique_target_symbols": 75,
+    "matched_target_symbols": 71,
+    "missing_target_symbols_count": 4,
+    "missing_target_symbols": [
+        "CASR",
+        "MHRT",
+        "RPL36A-HNRNPH2",
+        "SCO2"
+    ],
+    "annotation_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE141910_ensembl_to_gene_symbol_annotation.csv",
+    "gene_symbol_matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE141910_expression_matrix_gene_symbol.csv",
+    "target_match_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_target_gene_symbol_match_summary_CODE12.csv"
+}

@@ -1,0 +1,33 @@
+{
+    "timestamp": "2026-07-08T10:52:28.265301",
+    "dataset": "GSE141910",
+    "contrast": "DCM_vs_Control",
+    "model": "expression ~ DCM_status",
+    "log2FC_definition": "DCM minus Control",
+    "input_gene_symbol_matrix": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE141910_expression_matrix_gene_symbol.csv",
+    "input_design_table": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_analysis_design_table_initial.csv",
+    "input_target_universe": "/content/drive/MyDrive/MCI_Project/data/processed/clinvar/mci_target_gene_universe.csv",
+    "expression_matrix_shape_full": [
+        18513,
+        366
+    ],
+    "expression_matrix_shape_dcm_control": [
+        18513,
+        332
+    ],
+    "n_samples_used": 332,
+    "n_DCM": 166,
+    "n_Control": 166,
+    "n_genes_tested": 18513,
+    "FDR_lt_0_05": 12171,
+    "FDR_lt_0_10": 13128,
+    "nominal_p_lt_0_05": 12671,
+    "target_DCM_rows": 51,
+    "target_DCM_rows_matched": 49,
+    "target_DCM_rows_not_matched": 2,
+    "H4_DCM_rows": 7,
+    "H4_DCM_rows_matched": 7,
+    "full_de_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE141910/GSE141910_DCM_vs_Control_disease_only_DE_gene_level.csv",
+    "target_de_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE141910/GSE141910_DCM_vs_Control_disease_only_DE_locked_MCI_target_genes.csv",
+    "h4_snapshot_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE141910/GSE141910_DCM_vs_Control_H4_prespecified_target_DE_snapshot.csv"
+}

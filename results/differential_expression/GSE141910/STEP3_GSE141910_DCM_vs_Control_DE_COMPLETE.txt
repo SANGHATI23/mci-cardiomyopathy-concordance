@@ -1,0 +1,6 @@
+STEP3 GSE141910 DCM vs Control differential expression complete.
+Timestamp: 2026-07-08T10:52:28.265301
+Samples used: 332; DCM: 166; Control: 166
+Genes tested: 18513
+FDR < 0.05 genes: 12171
+Target DCM rows matched: 49 / 51

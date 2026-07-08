@@ -1,0 +1,6 @@
+STEP3 GSE141910 HCM vs Control differential expression complete.
+Timestamp: 2026-07-08T10:49:49.804009
+Samples used: 194; HCM: 28; Control: 166
+Genes tested: 18513
+FDR < 0.05 genes: 6762
+Target HCM rows matched: 47 / 50
