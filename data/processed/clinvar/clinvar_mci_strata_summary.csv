@@ -1,0 +1,5 @@
+disease_group,stratum,prespecified_genes,genes_found_in_clinvar_plp,total_plp_variants
+DCM,DCM_RNA_processing,4,4,120
+DCM,DCM_TTN_related,3,3,1113
+HCM,HCM_non_sarcomeric,7,5,104
+HCM,HCM_sarcomeric,8,8,654

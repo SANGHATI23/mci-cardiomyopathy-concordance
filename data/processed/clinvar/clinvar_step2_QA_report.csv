@@ -1,0 +1,19 @@
+section,metric,value
+Variant extraction,Total variant-gene rows,3899
+Variant extraction,Unique genes in variant file,106
+Variant extraction,Disease groups in variant file,DCM; HCM; HCM;DCM
+Clean gene file,Rows in cleaned gene file,115
+Clean gene file,Unique genes in cleaned gene file,75
+Target universe,Rows in final target universe,101
+Target universe,Unique genes in final target universe,75
+Target universe by disease,DCM total genes,51
+Target universe by disease,DCM strict ClinVar genes,51
+Target universe by disease,DCM pre-specified H4 genes,7
+Target universe by disease,HCM total genes,50
+Target universe by disease,HCM strict ClinVar genes,48
+Target universe by disease,HCM pre-specified H4 genes,15
+H4 stratum completeness,DCM_RNA_processing,4/4 found under strict ClinVar filter
+H4 stratum completeness,DCM_TTN_related,3/3 found under strict ClinVar filter
+H4 stratum completeness,HCM_non_sarcomeric,5/7 found under strict ClinVar filter
+H4 stratum completeness,HCM_sarcomeric,8/8 found under strict ClinVar filter
+H4 missing genes,Missing pre-specified genes,HCM:HCM_non_sarcomeric:RBM20; HCM:HCM_non_sarcomeric:BAG3

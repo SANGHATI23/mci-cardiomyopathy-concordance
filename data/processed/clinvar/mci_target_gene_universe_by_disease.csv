@@ -1,0 +1,3 @@
+disease_group,total_genes,strict_clinvar_genes,prespecified_h4_genes
+DCM,51,51,7
+HCM,50,48,15

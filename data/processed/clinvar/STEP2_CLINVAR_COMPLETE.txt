@@ -1,0 +1,18 @@
+STEP 2 COMPLETE — ClinVar HCM/DCM P/LP gene extraction
+=====================================================
+
+Completed at: 2026-07-08T08:18:56.569162
+
+Locked Step 2 outputs:
+- Variant-level ClinVar file: /content/drive/MyDrive/MCI_Project/data/processed/clinvar/clinvar_hcm_dcm_plp_variants.csv
+- Clean ClinVar gene file: /content/drive/MyDrive/MCI_Project/data/processed/clinvar/clinvar_hcm_dcm_plp_genes_clean.csv
+- Pre-specified H4 strata file: /content/drive/MyDrive/MCI_Project/data/processed/clinvar/clinvar_mci_prespecified_strata.csv
+- Final MCI target gene universe: /content/drive/MyDrive/MCI_Project/data/processed/clinvar/mci_target_gene_universe.csv
+- QA report: /content/drive/MyDrive/MCI_Project/data/processed/clinvar/clinvar_step2_QA_report.csv
+- Locked Excel workbook: /content/drive/MyDrive/MCI_Project/data/processed/clinvar/clinvar_step2_locked_gene_lists.xlsx
+
+Interpretation:
+- HCM and DCM ClinVar P/LP genes were extracted using review weight >=2.
+- Non-canonical LOC/AS1/DT artifacts were excluded from the cleaned working gene list.
+- Pre-specified H4 genes were retained even when absent under strict HCM ClinVar filtering.
+- Missing strict-filter H4 genes are documented, not silently dropped.

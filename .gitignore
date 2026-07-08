@@ -237,3 +237,9 @@ data/raw/geo_supplementary/
 # Runtime/cache files
 # Secrets
 *.token
+# Raw large downloads
+data/raw/clinvar/*.vcf.gz
+data/raw/clinvar/*.tbi
+# Secrets / tokens
+*.secret
+# Python / notebook cache

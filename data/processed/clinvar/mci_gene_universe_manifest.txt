@@ -1,0 +1,18 @@
+MCI Target Gene Universe Manifest
+================================
+
+Created: 2026-07-08T08:17:08.283815
+Project: Molecular Concordance Index, Basu and Narayan 2026
+
+Inputs:
+- /content/drive/MyDrive/MCI_Project/data/processed/clinvar/clinvar_hcm_dcm_plp_genes_clean.csv
+- /content/drive/MyDrive/MCI_Project/data/processed/clinvar/clinvar_mci_prespecified_strata.csv
+
+Outputs:
+- /content/drive/MyDrive/MCI_Project/data/processed/clinvar/mci_target_gene_universe.csv
+- /content/drive/MyDrive/MCI_Project/data/processed/clinvar/mci_target_gene_universe_by_disease.csv
+
+Definition:
+- Includes all cleaned ClinVar HCM/DCM P/LP genes with review weight >=2.
+- Also includes all pre-specified H4 genes, even if absent under strict ClinVar filtering.
+- Genes absent under strict ClinVar filtering are retained only for transparent preregistered tracking.
