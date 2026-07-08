@@ -276,3 +276,20 @@ data/processed/expression_matrices/*expression_matrix*
 data/processed/expression_matrices/*matrix*
 !data/processed/expression_matrices/*annotation*.csv
 !data/processed/expression_matrices/*QC*.csv
+
+
+# MCI safety rules
+data/raw/
+data/external/gtex_v8/*.gct.gz
+data/external/gtex_v8/GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
+*.vcf
+*.vcf.gz
+*.tar
+*.tar.gz
+*.zip
+*.env
+*token*
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+

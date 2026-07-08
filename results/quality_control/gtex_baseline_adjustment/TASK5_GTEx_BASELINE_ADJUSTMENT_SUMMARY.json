@@ -1,0 +1,16 @@
+{
+  "task": "Task 5 - GTEx baseline adjustment",
+  "project": "MCI cardiomyopathy concordance",
+  "input_mci_file": "results/mci_scores/TASK4_FINAL_REAL_HCM_MCI_SCORE_TABLE_WITH_BOOTSTRAP_CI.csv",
+  "input_de_file": "results/mci_scores/TASK4_CODE23_HCM_only_clean_DE_input_used_for_MCI.csv",
+  "gtex_release": "GTEx v8",
+  "gtex_tissue": "Heart - Left Ventricle",
+  "gtex_expression_scale": "log2(TPM+1)",
+  "n_mci_genes": 49,
+  "n_genes_with_gtex_sigma": 48,
+  "n_genes_with_disease_sigma": 47,
+  "n_low_confidence_genes": 46,
+  "formula": "Adj_MCI = MCI * (1 + log2((sigma_disease / sigma_GTEx) + 1))",
+  "low_confidence_rule": "sigma_disease / sigma_GTEx <= 1.0",
+  "output_file": "results/mci_scores/TASK5_FINAL_HCM_MCI_WITH_GTEx_BASELINE_ADJUSTMENT.csv"
+}

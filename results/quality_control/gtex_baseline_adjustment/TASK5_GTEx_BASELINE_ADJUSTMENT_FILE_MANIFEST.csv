@@ -1,0 +1,6 @@
+file,purpose,github_safe
+results/mci_scores/TASK5_FINAL_HCM_MCI_WITH_GTEx_BASELINE_ADJUSTMENT.csv,Final HCM MCI table with GTEx baseline adjustment,True
+results/mci_scores/TASK5_FINAL_GTEx_LOW_CONFIDENCE_GENES.csv,Genes flagged low-confidence by GTEx baseline rule,True
+results/quality_control/gtex_baseline_adjustment/TASK5_GTEx_v8_Left_Ventricle_sigma_by_gene.csv,GTEx LV sigma by Task 4 gene,True
+results/quality_control/gtex_baseline_adjustment/TASK5_HCM_sigma_disease_from_Task4_DE_input.csv,Disease sigma from HCM cohort log2FC values,True
+results/quality_control/gtex_baseline_adjustment/TASK5_GTEx_BASELINE_ADJUSTMENT_SUMMARY.json,Machine-readable Task 5 summary,True
