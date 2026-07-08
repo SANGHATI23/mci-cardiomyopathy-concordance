@@ -1,0 +1,23 @@
+{
+  "task": "Task 4",
+  "code": "CODE24",
+  "analysis": "Pre-specified H4 test: HCM sarcomeric vs non-sarcomeric MCI",
+  "timestamp": "2026-07-08T20:08:47.678836",
+  "input_mci_file": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_REAL_HCM_MCI_scores_primary.csv",
+  "h4_gene_table": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE24_H4_HCM_sarcomeric_vs_non_sarcomeric_gene_table.csv",
+  "h4_summary": "/content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE24_H4_HCM_stratum_summary.csv",
+  "h4_result": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE24_H4_HCM_MannWhitney_result.csv",
+  "n_sarcomeric": 8,
+  "n_non_sarcomeric": 7,
+  "median_MCI_sarcomeric": 0.34245846662279644,
+  "median_MCI_non_sarcomeric": 0.6431434629210778,
+  "mean_MCI_sarcomeric": 0.441447827649046,
+  "mean_MCI_non_sarcomeric": 0.5642361075192938,
+  "delta_median_non_sarco_minus_sarco": 0.3006849962982814,
+  "delta_mean_non_sarco_minus_sarco": 0.12278827987024776,
+  "mann_whitney_U": 19.5,
+  "p_value_directional_less": 0.1770547053999298,
+  "p_value_two_sided": 0.3541094107998596,
+  "rank_biserial_effect_size_less_positive": 0.3035714285714286,
+  "interpretation": "H4 is directionally supported but not statistically significant at p < 0.05. Sarcomeric genes show lower median MCI than non-sarcomeric genes, but the current small pre-specified H4 gene set limits power."
+}

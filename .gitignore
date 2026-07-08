@@ -258,3 +258,21 @@ data/processed/expression_matrices/*log2CPM*.csv
 *.tar.gz
 *token*
 *secret*
+
+
+# Added by CODE 27 Task 4 safe push
+# MCI project safety rules
+data/external/
+*.vcf
+*.vcf.gz
+*.sam
+*.h5
+*.h5ad
+*.rds
+*.RData
+**/.ipynb_checkpoints/
+# Large processed expression matrices stay local/Drive/Zenodo
+data/processed/expression_matrices/*expression_matrix*
+data/processed/expression_matrices/*matrix*
+!data/processed/expression_matrices/*annotation*.csv
+!data/processed/expression_matrices/*QC*.csv

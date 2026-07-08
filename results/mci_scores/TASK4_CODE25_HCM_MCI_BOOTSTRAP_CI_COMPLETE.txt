@@ -1,0 +1,13 @@
+TASK 4 CODE 25 COMPLETE: Bootstrap 95% CIs computed for real HCM MCI scores.
+Timestamp: 2026-07-08T20:14:04.395266
+
+MCI with bootstrap CI: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE25_REAL_HCM_MCI_scores_primary_with_bootstrap_CI.csv
+Bootstrap summary: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE25_HCM_MCI_bootstrap_summary.csv
+Bootstrap draws long table: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE25_HCM_MCI_bootstrap_draws_long.csv
+Bootstrap majority tier counts: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE25_HCM_MCI_bootstrap_majority_tier_counts.csv
+Tier stability counts: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE25_HCM_MCI_tier_stability_counts.csv
+CI width summary: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE25_HCM_MCI_CI_width_summary.csv
+Summary JSON: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE25_HCM_MCI_bootstrap_CI_summary.json
+
+Bootstrap iterations: 1000
+Random seed: 20260708

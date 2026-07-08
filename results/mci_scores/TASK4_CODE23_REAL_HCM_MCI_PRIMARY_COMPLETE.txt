@@ -1,0 +1,15 @@
+TASK 4 CODE 23 COMPLETE: First real HCM MCI scores computed.
+Timestamp: 2026-07-08T20:05:45.503522
+
+Primary MCI score table: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_REAL_HCM_MCI_scores_primary.csv
+Wide per-cohort MCI table: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_REAL_HCM_MCI_scores_primary_wide_per_cohort.csv
+HCM-only clean DE input used: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_HCM_only_clean_DE_input_used_for_MCI.csv
+Summary JSON: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE23_REAL_HCM_MCI_summary.json
+
+Formula used:
+MCI_g = 0.40*D_g + 0.35*S_g + 0.25*R_g
+
+Tier thresholds:
+HIGH: MCI >= 0.70
+MODERATE: 0.45 <= MCI < 0.70
+UNSTABLE: MCI < 0.45

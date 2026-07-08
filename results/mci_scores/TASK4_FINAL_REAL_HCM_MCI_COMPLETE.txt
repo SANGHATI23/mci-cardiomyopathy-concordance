@@ -1,0 +1,14 @@
+TASK 4 COMPLETE FOR PRIMARY HCM MCI.
+Timestamp: 2026-07-08T20:18:19.495306
+
+Main result:
+- Real HCM MCI score table: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_FINAL_REAL_HCM_MCI_SCORE_TABLE_WITH_BOOTSTRAP_CI.csv
+- H4 HCM gene table: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_FINAL_H4_HCM_GENE_TABLE_WITH_CI.csv
+- H4 Mann-Whitney result: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE24_H4_HCM_MannWhitney_result.csv
+- Final interpretation summary: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_FINAL_HCM_MCI_INTERPRETATION_SUMMARY.txt
+- Final manifest: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_FINAL_HCM_MCI_FILE_MANIFEST.csv
+- Final summary JSON: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_FINAL_HCM_MCI_SUMMARY.json
+
+Next recommended task:
+- Create manuscript figures for HCM MCI distribution, H4 stratum comparison, and gene-level concordance profiles.
+- Then proceed to GTEx baseline adjustment.

@@ -1,0 +1,30 @@
+{
+  "task": "Task 4",
+  "code": "CODE23",
+  "analysis": "First real HCM Molecular Concordance Index scoring",
+  "timestamp": "2026-07-08T20:05:45.494331",
+  "input_file": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE22_unified_HCM_DE_input_for_MCI.csv",
+  "hcm_only_rows_before_score_eligibility": 150,
+  "hcm_score_eligible_rows": 139,
+  "hcm_clean_gene_cohort_rows_used": 139,
+  "n_unique_hcm_genes_scored_or_attempted": 49,
+  "n_genes_with_3_cohorts": 43,
+  "n_genes_with_2_cohorts": 4,
+  "n_genes_with_1_cohort": 2,
+  "tier_counts": {
+    "UNSTABLE": 21,
+    "HIGH": 18,
+    "MODERATE": 8,
+    "INSUFFICIENT_COHORT_COVERAGE": 2
+  },
+  "formula": "MCI_g = 0.40*D_g + 0.35*S_g + 0.25*R_g",
+  "D_g": "proportion of cohort pairs with concordant log2FC sign",
+  "S_g": "1 - min(CV(log2FC)/2.0, 1.0), using SD(log2FC)/abs(mean(log2FC))",
+  "R_g": "proportion of available cohorts with FDR < 0.05",
+  "tier_thresholds": {
+    "HIGH": "MCI >= 0.70",
+    "MODERATE": "0.45 <= MCI < 0.70",
+    "UNSTABLE": "MCI < 0.45",
+    "INSUFFICIENT_COHORT_COVERAGE": "fewer than 2 cohorts available or missing component"
+  }
+}

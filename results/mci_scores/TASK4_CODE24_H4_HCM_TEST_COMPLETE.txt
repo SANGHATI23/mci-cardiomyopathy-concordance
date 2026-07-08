@@ -1,0 +1,10 @@
+TASK 4 CODE 24 COMPLETE: H4 HCM sarcomeric vs non-sarcomeric MCI test completed.
+Timestamp: 2026-07-08T20:08:47.692197
+
+Input MCI file: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_REAL_HCM_MCI_scores_primary.csv
+H4 gene table: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE24_H4_HCM_sarcomeric_vs_non_sarcomeric_gene_table.csv
+H4 stratum summary: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE24_H4_HCM_stratum_summary.csv
+H4 Mann-Whitney result: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE24_H4_HCM_MannWhitney_result.csv
+H4 JSON summary: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE24_H4_HCM_test_summary.json
+
+Interpretation: H4 is directionally supported but not statistically significant at p < 0.05. Sarcomeric genes show lower median MCI than non-sarcomeric genes, but the current small pre-specified H4 gene set limits power.

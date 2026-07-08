@@ -1,0 +1,12 @@
+TASK 4 CODE 22 COMPLETE: Unified HCM DE input table created for MCI scoring.
+Timestamp: 2026-07-08T20:03:12.346024
+
+Unified input: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE22_unified_HCM_DE_input_for_MCI.csv
+Gene coverage QC: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE22_HCM_gene_coverage_before_MCI.csv
+Selected source files: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE22_selected_HCM_DE_input_files.csv
+Read QC: /content/drive/MyDrive/MCI_Project/results/quality_control/mci_scores/TASK4_CODE22_HCM_input_read_QC.csv
+
+Primary HCM cohorts included:
+- GSE36961 HCM vs Control
+- GSE249925 HCM vs Control
+- GSE141910 HCM vs Control

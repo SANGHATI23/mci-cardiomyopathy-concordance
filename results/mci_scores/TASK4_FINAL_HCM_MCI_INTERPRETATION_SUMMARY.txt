@@ -1,0 +1,33 @@
+TASK 4 FINAL HCM MCI SUMMARY
+
+Timestamp: 2026-07-08T20:18:19.183321
+
+Primary result:
+Real HCM Molecular Concordance Index scores were computed for 49 HCM target genes using the three completed primary HCM cohorts:
+GSE36961, GSE249925, and GSE141910 HCM.
+
+Coverage:
+- 43 genes had full 3-cohort HCM coverage.
+- 47 genes received bootstrap 95% confidence intervals.
+
+Tier distribution:
+- HIGH MCI: 18
+- MODERATE MCI: 8
+- UNSTABLE MCI: 21
+- INSUFFICIENT_COHORT_COVERAGE: 2
+
+H4 result:
+The pre-specified H4 comparison was directionally supported but not statistically significant.
+Sarcomeric median MCI = 0.3424584666227964
+Non-sarcomeric median MCI = 0.6431434629210778
+Directional Mann-Whitney p-value = 0.1770547053999298
+Two-sided Mann-Whitney p-value = 0.3541094107998596
+
+Interpretation:
+Sarcomeric genes showed lower median MCI than non-sarcomeric genes, matching the pre-specified H4 direction.
+However, the directional Mann-Whitney test did not reach p < 0.05, likely reflecting the small locked H4 gene-set size.
+This should be reported as a directional but not statistically significant H4 result at the current primary HCM stage.
+
+Important caveat:
+Bootstrap confidence intervals are wide because the primary HCM MCI currently uses only three cohorts.
+The bootstrap is useful for tier-stability diagnostics but should not be overinterpreted as high-powered uncertainty estimation.

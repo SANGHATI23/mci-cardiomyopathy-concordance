@@ -1,0 +1,31 @@
+{
+  "task": "Task 4",
+  "status": "COMPLETE_FOR_PRIMARY_HCM_MCI",
+  "timestamp": "2026-07-08T20:18:19.477968",
+  "primary_hcm_cohorts": [
+    "GSE36961",
+    "GSE249925",
+    "GSE141910_HCM"
+  ],
+  "n_hcm_genes_scored": 49,
+  "n_genes_with_3_cohort_coverage": 43,
+  "n_genes_with_bootstrap_CI": 47,
+  "tier_counts": {
+    "HIGH": 18,
+    "MODERATE": 8,
+    "UNSTABLE": 21,
+    "INSUFFICIENT_COHORT_COVERAGE": 2
+  },
+  "h4_result": {
+    "median_MCI_sarcomeric": 0.3424584666227964,
+    "median_MCI_non_sarcomeric": 0.6431434629210778,
+    "mean_MCI_sarcomeric": 0.441447827649046,
+    "mean_MCI_non_sarcomeric": 0.5642361075192938,
+    "directional_p_value": 0.1770547053999298,
+    "two_sided_p_value": 0.3541094107998596,
+    "interpretation_direction": "supports_H4_direction",
+    "significant_at_0_05_directional": false
+  },
+  "main_output": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_FINAL_REAL_HCM_MCI_SCORE_TABLE_WITH_BOOTSTRAP_CI.csv",
+  "manifest": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_FINAL_HCM_MCI_FILE_MANIFEST.csv"
+}

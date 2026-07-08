@@ -1,0 +1,4 @@
+cohort,selected_file,size_MB,priority_score
+GSE36961,results/differential_expression/GSE36961/GSE36961_disease_only_DE_locked_MCI_target_genes.csv,0.069,105
+GSE249925,results/differential_expression/GSE249925/GSE249925_disease_only_log2CPM_DE_locked_MCI_target_genes.csv,0.0765,105
+GSE141910,results/differential_expression/GSE141910/GSE141910_HCM_vs_Control_disease_only_DE_locked_MCI_target_genes.csv,0.0334,120

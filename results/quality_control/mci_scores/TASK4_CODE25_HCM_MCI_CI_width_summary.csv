@@ -1,0 +1,2 @@
+n_genes_with_bootstrap_CI,median_CI95_width,mean_CI95_width,min_CI95_width,max_CI95_width,n_CI_crosses_HIGH_0_70,n_CI_crosses_MODERATE_0_45
+47,0.4373554275755479,0.48965893607708755,0.03821620428210237,0.8666666666666667,37,21

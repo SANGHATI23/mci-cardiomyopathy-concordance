@@ -1,0 +1,4 @@
+cohort,source_file,n_rows,n_unique_genes,n_score_eligible_rows,missing_required_columns
+GSE36961,/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE36961/GSE36961_disease_only_DE_locked_MCI_target_genes.csv,101,75,89,
+GSE249925,/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE249925/GSE249925_disease_only_log2CPM_DE_locked_MCI_target_genes.csv,101,75,97,
+GSE141910,/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE141910/GSE141910_HCM_vs_Control_disease_only_DE_locked_MCI_target_genes.csv,50,50,47,

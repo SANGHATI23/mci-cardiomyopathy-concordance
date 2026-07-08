@@ -1,0 +1,33 @@
+{
+  "task": "Task 4",
+  "code": "CODE25",
+  "analysis": "Bootstrap 95% confidence intervals for real HCM MCI scores",
+  "timestamp": "2026-07-08T20:14:04.379690",
+  "input_mci_file": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_REAL_HCM_MCI_scores_primary.csv",
+  "input_clean_hcm_de_file": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_HCM_only_clean_DE_input_used_for_MCI.csv",
+  "output_mci_with_ci_file": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE25_REAL_HCM_MCI_scores_primary_with_bootstrap_CI.csv",
+  "bootstrap_unit": "available cohort-level DE rows per gene",
+  "bootstrap_iterations": 1000,
+  "random_seed": 20260708,
+  "n_genes_total": 49,
+  "n_genes_with_bootstrap_CI": 47,
+  "bootstrap_majority_tier_counts": {
+    "UNSTABLE": 21,
+    "HIGH": 19,
+    "MODERATE": 7,
+    "INSUFFICIENT_COHORT_COVERAGE": 2
+  },
+  "tier_stability_counts": {
+    "PRIMARY_TIER_MATCHES_BOOTSTRAP_MAJORITY": 48,
+    "PRIMARY_TIER_DIFFERS_FROM_BOOTSTRAP_MAJORITY": 1
+  },
+  "ci_width_summary": {
+    "n_genes_with_bootstrap_CI": 47,
+    "median_CI95_width": 0.4373554275755479,
+    "mean_CI95_width": 0.48965893607708755,
+    "min_CI95_width": 0.03821620428210237,
+    "max_CI95_width": 0.8666666666666667,
+    "n_CI_crosses_HIGH_0_70": 37,
+    "n_CI_crosses_MODERATE_0_45": 21
+  }
+}
