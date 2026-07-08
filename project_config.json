@@ -1,0 +1,36 @@
+{
+    "project_name": "Molecular Concordance Index Cardiomyopathy Project",
+    "short_name": "MCI_Project",
+    "author": "Sanghati Basu",
+    "disease_focus": [
+        "Hypertrophic Cardiomyopathy",
+        "Dilated Cardiomyopathy"
+    ],
+    "primary_hcm_datasets": [
+        "GSE36961",
+        "GSE249925",
+        "GSE141910",
+        "GSE160997"
+    ],
+    "primary_dcm_datasets": [
+        "GSE57338"
+    ],
+    "baseline_reference": "GTEx v8 Left Ventricle",
+    "clinvar_filter": {
+        "condition": [
+            "Hypertrophic Cardiomyopathy",
+            "Dilated Cardiomyopathy"
+        ],
+        "classification": [
+            "Pathogenic",
+            "Likely pathogenic"
+        ],
+        "review_status_minimum": "multiple submitters / expert panel / practice guideline"
+    },
+    "mci_formula": "MCI_g = 0.40*D_g + 0.35*S_g + 0.25*R_g",
+    "mci_tiers": {
+        "high": "MCI >= 0.70",
+        "moderate": "0.45 <= MCI < 0.70",
+        "unstable": "MCI < 0.45"
+    }
+}

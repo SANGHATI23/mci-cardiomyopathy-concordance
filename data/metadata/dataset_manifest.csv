@@ -1,0 +1,6 @@
+geo_accession,disease,cases_n,controls_n,platform,role,notes
+GSE36961,HCM,106,39,Illumina Microarray,primary_mci,"Largest HCM cohort; age, sex, LVEF metadata reported"
+GSE249925,HCM,97,23,Illumina RNA-seq,primary_mci,"Stage, medication, partial genotype metadata reported"
+GSE141910,HCM,28,166,Illumina HiSeq 2500,primary_mci_and_genotype_stratified,Partial MYH7/MYBPC3 genotype metadata; Tier A genotype analysis
+GSE160997,HCM,18,5,Illumina HiSeq 2000,sensitivity_flag,Smallest cohort; control n below primary threshold; use carefully
+GSE57338,DCM,177,136,Illumina Microarray,dcm_generalization,Primary DCM generalization arm
