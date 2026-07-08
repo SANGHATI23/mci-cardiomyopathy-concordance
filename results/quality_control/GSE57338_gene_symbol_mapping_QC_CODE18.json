@@ -1,0 +1,57 @@
+{
+    "timestamp": "2026-07-08T11:24:01.619226",
+    "dataset": "GSE57338",
+    "platform_id": "GPL11532",
+    "raw_matrix_path": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE57338_expression_matrix_raw_CODE16.csv",
+    "raw_matrix_shape": [
+        33297,
+        313
+    ],
+    "platform_table_shape": [
+        33297,
+        12
+    ],
+    "platform_columns": [
+        "ID",
+        "GB_LIST",
+        "SPOT_ID",
+        "seqname",
+        "RANGE_GB",
+        "RANGE_STRAND",
+        "RANGE_START",
+        "RANGE_STOP",
+        "total_probes",
+        "gene_assignment",
+        "mrna_assignment",
+        "category"
+    ],
+    "detected_platform_id_column": "ID",
+    "symbol_like_columns": [
+        "gene_assignment"
+    ],
+    "annotation_rows": 33297,
+    "annotation_rows_with_gene_symbol": 22148,
+    "unique_mapped_gene_symbols": 20450,
+    "expression_rows_with_gene_symbols": 22148,
+    "gene_symbol_matrix_shape": [
+        20450,
+        313
+    ],
+    "unique_target_symbols": 75,
+    "matched_target_symbols": 67,
+    "missing_target_symbols_count": 8,
+    "missing_target_symbols": [
+        "CEP85L",
+        "MHRT",
+        "MT-TI",
+        "MT-TL1",
+        "RBM20",
+        "RPL36A-HNRNPH2",
+        "SSUH2",
+        "TARID"
+    ],
+    "annotation_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE57338_platform_feature_gene_symbol_annotation_CODE18.csv",
+    "gene_symbol_matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE57338_expression_matrix_gene_symbol_CODE18.csv",
+    "target_match_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE57338_target_gene_symbol_match_summary_CODE18.csv",
+    "platform_preview_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE57338_platform_table_preview_CODE18.csv"
+}

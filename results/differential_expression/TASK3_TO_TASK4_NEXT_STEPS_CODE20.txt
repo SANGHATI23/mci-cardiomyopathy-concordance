@@ -1,0 +1,17 @@
+NEXT STEPS AFTER TASK 3
+=======================
+
+1. Push GitHub-safe Task 3 outputs only.
+   Do not push large expression/count matrices or raw GEO/ClinVar archives.
+
+2. Create unified HCM DE input table for MCI.
+   Inputs: GSE36961, GSE249925, GSE141910 HCM target-gene DE outputs.
+
+3. Run first real HCM Molecular Concordance Index scoring.
+   Compute direction agreement, effect-size consistency, statistical reproducibility, and MCI tier.
+
+4. Run H4 sarcomeric vs non-sarcomeric test after real MCI table is created.
+
+5. Use GSE141910 DCM and GSE57338 DCM/HF outputs for DCM generalization after primary HCM MCI is stable.
+
+6. Treat GSE160997 only as optional sensitivity after extreme-count QC cleanup.

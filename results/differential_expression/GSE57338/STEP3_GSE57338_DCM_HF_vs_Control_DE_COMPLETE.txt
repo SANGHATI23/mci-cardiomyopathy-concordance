@@ -1,0 +1,7 @@
+STEP3 GSE57338 DCM/HF vs Control differential expression complete.
+Timestamp: 2026-07-08T11:27:43.471284
+Samples used: 313; DCM/HF: 177; Control: 136
+Genes tested: 20450
+FDR < 0.05 genes: 10922
+Target DCM rows matched: 46 / 51
+H4 DCM rows matched: 6 / 7

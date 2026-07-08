@@ -250,3 +250,11 @@ data/raw/clinvar/*.tbi
 # Large processed matrices - keep local / Drive / Zenodo, not GitHub
 data/processed/expression_matrices/*.csv
 results/differential_expression/*/*normalized_counts*.csv
+# MCI large local-only data artifacts
+data/raw/**
+data/processed/expression_matrices/*expression_matrix*.csv
+data/processed/expression_matrices/*count_matrix*.csv
+data/processed/expression_matrices/*log2CPM*.csv
+*.tar.gz
+*token*
+*secret*

@@ -1,0 +1,60 @@
+{
+    "timestamp": "2026-07-08T11:27:43.471284",
+    "dataset": "GSE57338",
+    "contrast": "DCM_HF_vs_Control",
+    "model": "expression ~ DCM_HF_status",
+    "log2FC_definition": "DCM/HF minus Control",
+    "input_gene_symbol_matrix": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE57338_expression_matrix_gene_symbol_CODE18.csv",
+    "input_design_table": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE57338_analysis_design_table_CODE16.csv",
+    "input_target_universe": "/content/drive/MyDrive/MCI_Project/data/processed/clinvar/mci_target_gene_universe.csv",
+    "expression_matrix_shape_full": [
+        20450,
+        313
+    ],
+    "expression_matrix_shape_dcm_control": [
+        20450,
+        313
+    ],
+    "n_samples_used": 313,
+    "n_DCM_HF": 177,
+    "n_Control": 136,
+    "n_genes_tested": 20450,
+    "FDR_lt_0_05": 10922,
+    "FDR_lt_0_10": 12043,
+    "nominal_p_lt_0_05": 11798,
+    "target_DCM_rows": 51,
+    "target_DCM_rows_matched": 46,
+    "target_DCM_rows_not_matched": 5,
+    "H4_DCM_rows": 7,
+    "H4_DCM_rows_matched": 6,
+    "missing_DCM_target_rows": [
+        {
+            "gene_symbol": "RBM20",
+            "disease_group": "DCM",
+            "stratum": "DCM_RNA_processing"
+        },
+        {
+            "gene_symbol": "CEP85L",
+            "disease_group": "DCM",
+            "stratum": NaN
+        },
+        {
+            "gene_symbol": "MHRT",
+            "disease_group": "DCM",
+            "stratum": NaN
+        },
+        {
+            "gene_symbol": "MT-TI",
+            "disease_group": "DCM",
+            "stratum": NaN
+        },
+        {
+            "gene_symbol": "TARID",
+            "disease_group": "DCM",
+            "stratum": NaN
+        }
+    ],
+    "full_de_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE57338/GSE57338_DCM_HF_vs_Control_disease_only_DE_gene_level.csv",
+    "target_de_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE57338/GSE57338_DCM_HF_vs_Control_disease_only_DE_locked_MCI_target_genes.csv",
+    "h4_snapshot_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE57338/GSE57338_DCM_HF_vs_Control_H4_prespecified_target_DE_snapshot.csv"
+}

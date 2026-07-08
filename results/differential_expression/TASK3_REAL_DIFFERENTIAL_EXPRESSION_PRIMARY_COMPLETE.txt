@@ -1,0 +1,17 @@
+TASK 3 REAL DIFFERENTIAL EXPRESSION PRIMARY COMPLETE.
+Timestamp: 2026-07-08T11:31:07.284568
+
+Completed primary HCM DE cohorts:
+- GSE36961 HCM vs Control
+- GSE249925 HCM vs Control
+- GSE141910 HCM vs Control
+
+Completed DCM/generalization DE cohorts:
+- GSE141910 DCM vs Control
+- GSE57338 DCM/HF vs Control
+
+Sensitivity-only cohort:
+- GSE160997 is not counted as primary complete because controls n=5 and extreme count QC is needed.
+
+Next task:
+- Task 4: compute real HCM MCI scores from the three completed HCM DE inputs.
