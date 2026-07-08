@@ -1,0 +1,8 @@
+TASK 6 COMPLETE: Bootstrap confidence intervals for primary HCM MCI
+Execution date: 2026-07-08T21:56:04.261823
+Bootstrap iterations per eligible gene: 1000
+Random seed: 20260708
+Genes with bootstrap CI: 47
+Median CI width: 0.34598684077968234
+Mean CI width: 0.32763353620482694
+Main output: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv
