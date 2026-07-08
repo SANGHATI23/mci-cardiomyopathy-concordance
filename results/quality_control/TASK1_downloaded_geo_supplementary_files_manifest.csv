@@ -1,0 +1,6 @@
+gse_id,level,url,local_path,filename,file_size_mb,status
+GSE36961,series,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36961/suppl/GSE36961_non-normalized.txt.gz,/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE36961/GSE36961_non-normalized.txt.gz,GSE36961_non-normalized.txt.gz,36.609,downloaded
+GSE249925,series,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE249nnn/GSE249925/suppl/GSE249925_20231208-For-GEO-Raw-Counts.tsv.gz,/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE249925/GSE249925_20231208-For-GEO-Raw-Counts.tsv.gz,GSE249925_20231208-For-GEO-Raw-Counts.tsv.gz,6.645,downloaded
+GSE141910,series,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE141nnn/GSE141910/suppl/GSE141910_RAW.tar,/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE141910/GSE141910_RAW.tar,GSE141910_RAW.tar,57.246,downloaded
+GSE160997,series,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE160nnn/GSE160997/suppl/GSE160997_RAW.tar,/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE160997/GSE160997_RAW.tar,GSE160997_RAW.tar,159.844,downloaded
+GSE57338,series,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57338/suppl/GSE57338_RAW.tar,/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE57338/GSE57338_RAW.tar,GSE57338_RAW.tar,1355.439,downloaded

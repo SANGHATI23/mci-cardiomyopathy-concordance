@@ -1,0 +1,30 @@
+{
+    "timestamp": "2026-07-08T07:09:19.349297",
+    "gse_id": "GSE249925",
+    "planned_role": "Primary HCM RNA-seq cohort",
+    "disease_focus": "HCM",
+    "title": "Human Hypertrophic Cardiomyopathy mRNA Profiling.",
+    "n_gsm_samples": 120,
+    "n_platforms": 1,
+    "platform_ids": [
+        "GPL24676"
+    ],
+    "first_gsm_id": "GSM7967163",
+    "first_gsm_table_shape": [
+        0,
+        0
+    ],
+    "first_gsm_table_columns": [],
+    "platform_table_shapes": {
+        "GPL24676": [
+            0,
+            0
+        ]
+    },
+    "platform_table_columns": {
+        "GPL24676": []
+    },
+    "raw_metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE249925_sample_metadata_raw.csv",
+    "group_scan_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE249925_metadata_group_scan.csv",
+    "status": "completed"
+}

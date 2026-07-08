@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-07-08T06:51:50.720118",
+    "gse_id": "GSE36961",
+    "n_samples": 145,
+    "n_features_after_zero_variance_filter": 37846,
+    "pc1_variance_percent": 8.39067708819429,
+    "pc2_variance_percent": 5.873858852794762,
+    "pc3_variance_percent": 3.1539999906123897,
+    "pc4_variance_percent": 2.4193645743830112,
+    "pc5_variance_percent": 2.0787926692595056,
+    "pca_scores_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE36961_pca_scores.csv",
+    "pca_figure_output": "/content/drive/MyDrive/MCI_Project/results/figures/GSE36961_pca_hcm_vs_control.png",
+    "status": "completed"
+}

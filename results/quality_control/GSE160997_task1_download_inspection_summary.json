@@ -1,0 +1,30 @@
+{
+    "timestamp": "2026-07-08T07:09:25.427306",
+    "gse_id": "GSE160997",
+    "planned_role": "Small HCM sensitivity cohort",
+    "disease_focus": "HCM",
+    "title": "RNA-seq transcriptome profiling and whole exome sequencing data on Hypertrophic cardiomyopathy (HCM) patients",
+    "n_gsm_samples": 41,
+    "n_platforms": 1,
+    "platform_ids": [
+        "GPL11154"
+    ],
+    "first_gsm_id": "GSM4887610",
+    "first_gsm_table_shape": [
+        0,
+        0
+    ],
+    "first_gsm_table_columns": [],
+    "platform_table_shapes": {
+        "GPL11154": [
+            0,
+            0
+        ]
+    },
+    "platform_table_columns": {
+        "GPL11154": []
+    },
+    "raw_metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE160997_sample_metadata_raw.csv",
+    "group_scan_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE160997_metadata_group_scan.csv",
+    "status": "completed"
+}

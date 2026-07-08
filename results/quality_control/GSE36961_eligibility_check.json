@@ -1,0 +1,11 @@
+{
+    "timestamp": "2026-07-08T06:43:39.584734",
+    "gse_id": "GSE36961",
+    "hcm_n": 106,
+    "control_n": 39,
+    "minimum_required_cases": 8,
+    "minimum_required_controls": 8,
+    "eligible_for_primary_mci": true,
+    "clean_metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE36961_sample_metadata_clean.csv",
+    "status": "completed"
+}

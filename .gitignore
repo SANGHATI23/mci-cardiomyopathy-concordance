@@ -228,3 +228,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 >>>>>>> eaf8ef09bdc6480c9c28f89e13475ccd01d27c59
+# Large raw downloaded data - do not commit to GitHub
+data/raw/geo/
+data/raw/geo_supplementary/
+*.tar
+*.gz
+*.zip
+# Runtime/cache files
+# Secrets
+*.token

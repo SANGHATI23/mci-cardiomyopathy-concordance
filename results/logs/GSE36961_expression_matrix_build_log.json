@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-07-08T06:46:24.828600",
+    "gse_id": "GSE36961",
+    "n_features_rows": 37846,
+    "n_samples_columns": 145,
+    "metadata_sample_count": 145,
+    "samples_in_both_count": 145,
+    "metadata_only_count": 0,
+    "matrix_only_count": 0,
+    "missing_values_total": 0,
+    "raw_expression_matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE36961_expression_matrix_raw.csv",
+    "ordered_expression_matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE36961_expression_matrix_ordered.csv",
+    "status": "completed"
+}

@@ -1,0 +1,30 @@
+{
+    "timestamp": "2026-07-08T07:09:23.001069",
+    "gse_id": "GSE141910",
+    "planned_role": "Primary HCM RNA-seq cohort / genotype-enriched cohort",
+    "disease_focus": "HCM",
+    "title": "RNA sequencing of the left ventricle from non-failing donors and heart failure samples from the MAGNet consortium",
+    "n_gsm_samples": 366,
+    "n_platforms": 1,
+    "platform_ids": [
+        "GPL16791"
+    ],
+    "first_gsm_id": "GSM4215858",
+    "first_gsm_table_shape": [
+        0,
+        0
+    ],
+    "first_gsm_table_columns": [],
+    "platform_table_shapes": {
+        "GPL16791": [
+            0,
+            0
+        ]
+    },
+    "platform_table_columns": {
+        "GPL16791": []
+    },
+    "raw_metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_sample_metadata_raw.csv",
+    "group_scan_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_metadata_group_scan.csv",
+    "status": "completed"
+}

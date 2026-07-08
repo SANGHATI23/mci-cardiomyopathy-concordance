@@ -1,0 +1,8 @@
+{
+    "timestamp": "2026-07-08T06:43:39.635513",
+    "step": "clean_sample_metadata",
+    "gse_id": "GSE36961",
+    "output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE36961_sample_metadata_clean.csv",
+    "eligible_for_primary_mci": true,
+    "status": "completed"
+}

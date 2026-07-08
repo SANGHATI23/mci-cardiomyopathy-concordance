@@ -1,0 +1,10 @@
+{
+    "timestamp": "2026-07-08T06:39:03.178102",
+    "step": "inspect_geo_metadata",
+    "gse_id": "GSE36961",
+    "gsm_sample_count": 145,
+    "gpl_platform_count": 1,
+    "metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE36961_sample_metadata_raw.csv",
+    "qc_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE36961_metadata_group_scan.csv",
+    "status": "completed"
+}

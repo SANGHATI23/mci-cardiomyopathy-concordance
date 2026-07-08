@@ -1,0 +1,31 @@
+{
+    "timestamp": "2026-07-08T06:44:58.587735",
+    "gse_id": "GSE36961",
+    "n_samples": 145,
+    "platform_ids": [
+        "GPL15389"
+    ],
+    "first_gsm_id": "GSM907203",
+    "first_gsm_table_shape": [
+        37846,
+        3
+    ],
+    "first_gsm_table_columns": [
+        "ID_REF",
+        "VALUE",
+        "Pval"
+    ],
+    "first_platform_id": "GPL15389",
+    "platform_table_shape": [
+        37846,
+        5
+    ],
+    "platform_table_columns": [
+        "ID",
+        "ORF",
+        "GENE_ID",
+        "UNIGENE_ID",
+        "SPOT_ID"
+    ],
+    "status": "completed"
+}

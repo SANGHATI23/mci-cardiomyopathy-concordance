@@ -1,0 +1,5 @@
+disease_group,sex,sample_count
+Control,female,20
+Control,male,19
+HCM,female,52
+HCM,male,54

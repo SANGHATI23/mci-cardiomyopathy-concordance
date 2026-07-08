@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-07-08T07:21:10.607528",
+    "task": "Task 1 - download GEO supplementary files",
+    "input_candidate_file": "/content/drive/MyDrive/MCI_Project/results/quality_control/TASK1_geo_useful_expression_file_candidates.csv",
+    "download_manifest": "/content/drive/MyDrive/MCI_Project/results/quality_control/TASK1_downloaded_geo_supplementary_files_manifest.csv",
+    "supplementary_directory": "/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary",
+    "datasets_attempted": [
+        "GSE141910",
+        "GSE160997",
+        "GSE249925",
+        "GSE36961",
+        "GSE57338"
+    ],
+    "failed_count": 0,
+    "status": "completed"
+}

@@ -1,0 +1,20 @@
+{
+    "timestamp": "2026-07-08T06:47:53.055139",
+    "gse_id": "GSE36961",
+    "expression_rows_features": 37846,
+    "expression_columns_samples": 145,
+    "design_rows_samples": 145,
+    "all_expression_columns_match_design_order": true,
+    "hcm_n": 106,
+    "control_n": 39,
+    "female_n": 72,
+    "male_n": 73,
+    "age_non_missing_n": 142,
+    "age_missing_n": 3,
+    "total_missing_expression_values": 0,
+    "mean_sample_mean_expression": 6.708728037697993,
+    "mean_sample_sd_expression": 1.2834305996092406,
+    "design_table_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE36961_analysis_design_table.csv",
+    "sample_qc_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE36961_sample_expression_qc.csv",
+    "status": "completed"
+}
