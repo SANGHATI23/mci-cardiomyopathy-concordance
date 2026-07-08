@@ -1,0 +1,24 @@
+{
+    "step": "MCI Step 3 Code 11 GSE160997 file inspection before DE",
+    "timestamp": "2026-07-08T10:10:02.071737",
+    "cohort": "GSE160997",
+    "raw_supplementary_folder": "/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE160997",
+    "raw_supplementary_folder_exists": true,
+    "n_raw_supplementary_files": 1,
+    "metadata_files": {
+        "GSE160997_sample_metadata_raw.csv": true,
+        "GSE160997_sample_metadata_clean.csv": false,
+        "GSE160997_analysis_design_table.csv": false
+    },
+    "n_existing_processed_expression_files": 0,
+    "existing_processed_expression_files": [],
+    "raw_file_inspection_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE160997_CODE11_raw_file_inspection.csv",
+    "metadata_summary": {
+        "group_scan_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE160997_CODE11_metadata_group_scan.csv",
+        "group_counts": {
+            "possible_HCM": 36,
+            "possible_control": 5
+        }
+    },
+    "status": "completed"
+}

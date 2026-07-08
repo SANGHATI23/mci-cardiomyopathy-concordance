@@ -1,0 +1,12 @@
+{
+    "step": "MCI Step 3 Code 7 GSE249925 corrected sex missing count",
+    "timestamp": "2026-07-08T09:53:00.624840",
+    "cohort": "GSE249925",
+    "n_samples": 120,
+    "old_sex_missing_or_blank_count": 240,
+    "corrected_sex_missing_count": 120,
+    "age_years_missing_count": 120,
+    "summary_updated": "/content/drive/MyDrive/MCI_Project/results/quality_control/differential_expression/GSE249925_FINAL_DE_for_MCI_summary.json",
+    "decision_note_updated": "/content/drive/MyDrive/MCI_Project/results/quality_control/differential_expression/GSE249925_covariate_adjustment_decision_note.txt",
+    "status": "completed"
+}

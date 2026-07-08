@@ -1,0 +1,38 @@
+{
+    "step": "MCI Step 3 Code 12 GSE160997 raw count matrix build",
+    "timestamp": "2026-07-08T10:15:04.654325",
+    "raw_tar_path": "/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE160997/GSE160997_RAW.tar",
+    "raw_metadata_path": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE160997_sample_metadata_raw.csv",
+    "n_tar_count_members": 41,
+    "n_successfully_read_samples": 41,
+    "n_read_errors": 0,
+    "n_gene_rows": 44310,
+    "n_full_metadata_samples": 41,
+    "n_count_samples": 41,
+    "n_matched_metadata_count_samples": 41,
+    "n_metadata_only_samples": 0,
+    "n_count_only_samples": 0,
+    "n_hcm_control_design_samples": 41,
+    "n_hcm_control_available_samples": 41,
+    "hcm_control_group_counts": {
+        "HCM": 36,
+        "Control": 5
+    },
+    "count_distribution": {
+        "min_count": 0,
+        "max_count": 5069674022691,
+        "total_counts_all_samples": 468520707580624,
+        "median_library_size": 10945348.0,
+        "min_library_size": 4117714,
+        "max_library_size": 35618784856884
+    },
+    "full_count_matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE160997_count_matrix_gene_id_raw_counts_all_samples.csv",
+    "hcm_control_count_matrix_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE160997_count_matrix_gene_id_raw_counts_HCM_Control.csv",
+    "clean_metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE160997_sample_metadata_clean.csv",
+    "design_table_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE160997_analysis_design_table.csv",
+    "available_design_table_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE160997_analysis_design_table_available_samples.csv",
+    "member_manifest_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE160997_CODE12_member_read_manifest.csv",
+    "read_errors_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE160997_CODE12_read_errors.csv",
+    "library_size_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE160997_CODE12_sample_library_sizes.csv",
+    "status": "completed"
+}

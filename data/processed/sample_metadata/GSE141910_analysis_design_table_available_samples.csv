@@ -1,0 +1,195 @@
+gsm_id,gse_id,title,source_name_ch1,organism_ch1,characteristics_ch1,platform_id,disease_group,disease_binary_HCM_vs_Control,sex,sex_binary_male_vs_female,age_years,rough_group_label
+GSM4215858,GSE141910,C00039,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 18,GPL16791,Control,0.0,Male,1,18.0,possible_control
+GSM4215859,GSE141910,C00055,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 26,GPL16791,Control,0.0,Male,1,26.0,possible_control
+GSM4215860,GSE141910,C00074,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 17,GPL16791,Control,0.0,Male,1,17.0,possible_control
+GSM4215861,GSE141910,C00085,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 59,GPL16791,Control,0.0,Female,0,59.0,possible_control
+GSM4215862,GSE141910,C00105,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 59,GPL16791,Control,0.0,Female,0,59.0,possible_control
+GSM4215863,GSE141910,C00120,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 50,GPL16791,Control,0.0,Male,1,50.0,possible_control
+GSM4215864,GSE141910,C00132,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 15,GPL16791,Control,0.0,Male,1,15.0,possible_control
+GSM4215865,GSE141910,C00158,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 53,GPL16791,Control,0.0,Female,0,53.0,possible_control
+GSM4215866,GSE141910,C00168,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 62,GPL16791,Control,0.0,Female,0,62.0,possible_control
+GSM4215867,GSE141910,C00186,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 16,GPL16791,Control,0.0,Female,0,16.0,possible_control
+GSM4215868,GSE141910,C00188,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 51,GPL16791,Control,0.0,Male,1,51.0,possible_control
+GSM4215869,GSE141910,C00190,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 25,GPL16791,Control,0.0,Male,1,25.0,possible_control
+GSM4215870,GSE141910,C00192,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 54,GPL16791,Control,0.0,Male,1,54.0,possible_control
+GSM4215871,GSE141910,C00193,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 62,GPL16791,Control,0.0,Female,0,62.0,possible_control
+GSM4215872,GSE141910,C00195,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 75,GPL16791,Control,0.0,Male,1,75.0,possible_control
+GSM4215873,GSE141910,C00196,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 62,GPL16791,Control,0.0,Female,0,62.0,possible_control
+GSM4215874,GSE141910,C00197,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 58,GPL16791,Control,0.0,Male,1,58.0,possible_control
+GSM4215875,GSE141910,C00198,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 33,GPL16791,Control,0.0,Male,1,33.0,possible_control
+GSM4215876,GSE141910,C00199,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 67,GPL16791,Control,0.0,Female,0,67.0,possible_control
+GSM4215877,GSE141910,C00202,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 58,GPL16791,Control,0.0,Female,0,58.0,possible_control
+GSM4215880,GSE141910,C01631,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 38,GPL16791,HCM,1.0,Female,0,38.0,possible_HCM
+GSM4215887,GSE141910,C01862,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 21,GPL16791,HCM,1.0,Female,0,21.0,possible_HCM
+GSM4215932,GSE141910,C02242,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 48,GPL16791,HCM,1.0,Female,0,48.0,possible_HCM
+GSM4215941,GSE141910,C02312,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 65,GPL16791,HCM,1.0,Male,1,65.0,possible_HCM
+GSM4215950,GSE141910,C02351,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 30,GPL16791,HCM,1.0,Female,0,30.0,possible_HCM
+GSM4215951,GSE141910,C02352,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 53,GPL16791,HCM,1.0,Female,0,53.0,possible_HCM
+GSM4215954,GSE141910,C02356,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 54,GPL16791,HCM,1.0,Male,1,54.0,possible_HCM
+GSM4215958,GSE141910,C02374,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 49,GPL16791,HCM,1.0,Female,0,49.0,possible_HCM
+GSM4215960,GSE141910,C02380,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 67,GPL16791,HCM,1.0,Male,1,67.0,possible_HCM
+GSM4215976,GSE141910,C02592,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 53,GPL16791,HCM,1.0,Male,1,53.0,possible_HCM
+GSM4215985,GSE141910,P01027,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: African American | age: 46,GPL16791,HCM,1.0,Female,0,46.0,possible_HCM
+GSM4215986,GSE141910,P01032,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 49,GPL16791,Control,0.0,Male,1,49.0,possible_control
+GSM4215989,GSE141910,P01052,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 44,GPL16791,Control,0.0,Male,1,44.0,possible_control
+GSM4215991,GSE141910,P01067,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 66,GPL16791,Control,0.0,Male,1,66.0,possible_control
+GSM4215992,GSE141910,P01070,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 71,GPL16791,Control,0.0,Male,1,71.0,possible_control
+GSM4215994,GSE141910,P01076,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 59,GPL16791,Control,0.0,Male,1,59.0,possible_control
+GSM4215998,GSE141910,P01100,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 59,GPL16791,Control,0.0,Male,1,59.0,possible_control
+GSM4215999,GSE141910,P01101,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 65,GPL16791,Control,0.0,Female,0,65.0,possible_control
+GSM4216001,GSE141910,P01106,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 65,GPL16791,Control,0.0,Female,0,65.0,possible_control
+GSM4216004,GSE141910,P01116,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 69,GPL16791,Control,0.0,Female,0,69.0,possible_control
+GSM4216005,GSE141910,P01117,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 61,GPL16791,Control,0.0,Male,1,61.0,possible_control
+GSM4216007,GSE141910,P01119,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 52,GPL16791,Control,0.0,Female,0,52.0,possible_control
+GSM4216008,GSE141910,P01121,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 33,GPL16791,Control,0.0,Male,1,33.0,possible_control
+GSM4216009,GSE141910,P01122,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 51,GPL16791,Control,0.0,Female,0,51.0,possible_control
+GSM4216010,GSE141910,P01124,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 73,GPL16791,Control,0.0,Female,0,73.0,possible_control
+GSM4216012,GSE141910,P01134,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 68,GPL16791,Control,0.0,Female,0,68.0,possible_control
+GSM4216014,GSE141910,P01137,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 53,GPL16791,Control,0.0,Male,1,53.0,possible_control
+GSM4216015,GSE141910,P01140,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 65,GPL16791,Control,0.0,Female,0,65.0,possible_control
+GSM4216016,GSE141910,P01146,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 55,GPL16791,Control,0.0,Female,0,55.0,possible_control
+GSM4216017,GSE141910,P01151,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 80,GPL16791,Control,0.0,Female,0,80.0,possible_control
+GSM4216018,GSE141910,P01155,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 20,GPL16791,Control,0.0,Female,0,20.0,possible_control
+GSM4216021,GSE141910,P01165,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 61,GPL16791,Control,0.0,Female,0,61.0,possible_control
+GSM4216022,GSE141910,P01167,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 51,GPL16791,Control,0.0,Male,1,51.0,possible_control
+GSM4216024,GSE141910,P01171,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 65,GPL16791,Control,0.0,Female,0,65.0,possible_control
+GSM4216025,GSE141910,P01173,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 64,GPL16791,Control,0.0,Female,0,64.0,possible_control
+GSM4216027,GSE141910,P01183,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 56,GPL16791,Control,0.0,Male,1,56.0,possible_control
+GSM4216028,GSE141910,P01184,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 45,GPL16791,Control,0.0,Female,0,45.0,possible_control
+GSM4216029,GSE141910,P01185,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 61,GPL16791,Control,0.0,Male,1,61.0,possible_control
+GSM4216030,GSE141910,P01197,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 34,GPL16791,Control,0.0,Male,1,34.0,possible_control
+GSM4216031,GSE141910,P01199,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 24,GPL16791,Control,0.0,Female,0,24.0,possible_control
+GSM4216032,GSE141910,P01202,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 56,GPL16791,Control,0.0,Male,1,56.0,possible_control
+GSM4216034,GSE141910,P01205,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 44,GPL16791,Control,0.0,Male,1,44.0,possible_control
+GSM4216035,GSE141910,P01206,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 37,GPL16791,Control,0.0,Female,0,37.0,possible_control
+GSM4216036,GSE141910,P01207,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 57,GPL16791,Control,0.0,Female,0,57.0,possible_control
+GSM4216037,GSE141910,P01208,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 64,GPL16791,Control,0.0,Male,1,64.0,possible_control
+GSM4216038,GSE141910,P01209,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 65,GPL16791,HCM,1.0,Female,0,65.0,possible_HCM
+GSM4216039,GSE141910,P01211,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 46,GPL16791,Control,0.0,Male,1,46.0,possible_control
+GSM4216040,GSE141910,P01215,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 59,GPL16791,Control,0.0,Female,0,59.0,possible_control
+GSM4216042,GSE141910,P01221,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 52,GPL16791,Control,0.0,Female,0,52.0,possible_control
+GSM4216043,GSE141910,P01222,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 44,GPL16791,Control,0.0,Male,1,44.0,possible_control
+GSM4216044,GSE141910,P01224,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 59,GPL16791,Control,0.0,Male,1,59.0,possible_control
+GSM4216045,GSE141910,P01226,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 42,GPL16791,Control,0.0,Male,1,42.0,possible_control
+GSM4216046,GSE141910,P01228,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 35,GPL16791,HCM,1.0,Male,1,35.0,possible_HCM
+GSM4216047,GSE141910,P01233,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 48,GPL16791,Control,0.0,Male,1,48.0,possible_control
+GSM4216048,GSE141910,P01238,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 67,GPL16791,Control,0.0,Female,0,67.0,possible_control
+GSM4216049,GSE141910,P01241,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 50,GPL16791,Control,0.0,Female,0,50.0,possible_control
+GSM4216050,GSE141910,P01245,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 56,GPL16791,Control,0.0,Male,1,56.0,possible_control
+GSM4216053,GSE141910,P01248,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 56,GPL16791,Control,0.0,Male,1,56.0,possible_control
+GSM4216054,GSE141910,P01252,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 62,GPL16791,Control,0.0,Male,1,62.0,possible_control
+GSM4216056,GSE141910,P01259,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 58,GPL16791,Control,0.0,Male,1,58.0,possible_control
+GSM4216061,GSE141910,P01279,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 56,GPL16791,Control,0.0,Female,0,56.0,possible_control
+GSM4216063,GSE141910,P01287,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 78,GPL16791,Control,0.0,Female,0,78.0,possible_control
+GSM4216064,GSE141910,P01288,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 53,GPL16791,HCM,1.0,Female,0,53.0,possible_HCM
+GSM4216069,GSE141910,P01294,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 53,GPL16791,Control,0.0,Male,1,53.0,possible_control
+GSM4216070,GSE141910,P01296,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 57,GPL16791,Control,0.0,Female,0,57.0,possible_control
+GSM4216075,GSE141910,P01307,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 59,GPL16791,Control,0.0,Male,1,59.0,possible_control
+GSM4216077,GSE141910,P01310,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 56,GPL16791,Control,0.0,Male,1,56.0,possible_control
+GSM4216078,GSE141910,P01318,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 56,GPL16791,HCM,1.0,Male,1,56.0,possible_HCM
+GSM4216079,GSE141910,P01320,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 26,GPL16791,HCM,1.0,Male,1,26.0,possible_HCM
+GSM4216081,GSE141910,P01323,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 67,GPL16791,Control,0.0,Female,0,67.0,possible_control
+GSM4216082,GSE141910,P01325,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 53,GPL16791,Control,0.0,Male,1,53.0,possible_control
+GSM4216083,GSE141910,P01329,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 66,GPL16791,Control,0.0,Female,0,66.0,possible_control
+GSM4216084,GSE141910,P01330,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 58,GPL16791,Control,0.0,Male,1,58.0,possible_control
+GSM4216085,GSE141910,P01334,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 77,GPL16791,Control,0.0,Female,0,77.0,possible_control
+GSM4216086,GSE141910,P01337,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 74,GPL16791,Control,0.0,Female,0,74.0,possible_control
+GSM4216087,GSE141910,P01339,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 36,GPL16791,Control,0.0,Male,1,36.0,possible_control
+GSM4216088,GSE141910,P01340,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 67,GPL16791,HCM,1.0,Male,1,67.0,possible_HCM
+GSM4216089,GSE141910,P01347,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 57,GPL16791,Control,0.0,Female,0,57.0,possible_control
+GSM4216090,GSE141910,P01348,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 68,GPL16791,Control,0.0,Female,0,68.0,possible_control
+GSM4216093,GSE141910,P01354,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 65,GPL16791,Control,0.0,Female,0,65.0,possible_control
+GSM4216094,GSE141910,P01356,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 51,GPL16791,Control,0.0,Female,0,51.0,possible_control
+GSM4216095,GSE141910,P01357,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 75,GPL16791,Control,0.0,Male,1,75.0,possible_control
+GSM4216097,GSE141910,P01359,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 52,GPL16791,Control,0.0,Female,0,52.0,possible_control
+GSM4216098,GSE141910,P01360,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 75,GPL16791,Control,0.0,Female,0,75.0,possible_control
+GSM4216099,GSE141910,P01362,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 51,GPL16791,Control,0.0,Male,1,51.0,possible_control
+GSM4216100,GSE141910,P01365,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 69,GPL16791,Control,0.0,Male,1,69.0,possible_control
+GSM4216101,GSE141910,P01367,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 56,GPL16791,Control,0.0,Female,0,56.0,possible_control
+GSM4216102,GSE141910,P01369,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 75,GPL16791,Control,0.0,Female,0,75.0,possible_control
+GSM4216104,GSE141910,P01374,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 60,GPL16791,Control,0.0,Female,0,60.0,possible_control
+GSM4216105,GSE141910,P01375,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 41,GPL16791,Control,0.0,Male,1,41.0,possible_control
+GSM4216106,GSE141910,P01377,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 77,GPL16791,Control,0.0,Male,1,77.0,possible_control
+GSM4216107,GSE141910,P01379,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 42,GPL16791,HCM,1.0,Male,1,42.0,possible_HCM
+GSM4216108,GSE141910,P01380,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 59,GPL16791,Control,0.0,Female,0,59.0,possible_control
+GSM4216109,GSE141910,P01381,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 44,GPL16791,Control,0.0,Male,1,44.0,possible_control
+GSM4216110,GSE141910,P01383,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 59,GPL16791,Control,0.0,Male,1,59.0,possible_control
+GSM4216111,GSE141910,P01385,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 38,GPL16791,Control,0.0,Male,1,38.0,possible_control
+GSM4216112,GSE141910,P01387,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 53,GPL16791,Control,0.0,Female,0,53.0,possible_control
+GSM4216113,GSE141910,P01388,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 51,GPL16791,Control,0.0,Male,1,51.0,possible_control
+GSM4216114,GSE141910,P01396,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 46,GPL16791,Control,0.0,Male,1,46.0,possible_control
+GSM4216115,GSE141910,P01397,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 38,GPL16791,Control,0.0,Female,0,38.0,possible_control
+GSM4216116,GSE141910,P01400,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 22,GPL16791,Control,0.0,Female,0,22.0,possible_control
+GSM4216118,GSE141910,P01404,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 50,GPL16791,Control,0.0,Female,0,50.0,possible_control
+GSM4216119,GSE141910,P01406,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 51,GPL16791,Control,0.0,Female,0,51.0,possible_control
+GSM4216120,GSE141910,P01412,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 49,GPL16791,Control,0.0,Female,0,49.0,possible_control
+GSM4216121,GSE141910,P01413,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 57,GPL16791,Control,0.0,Female,0,57.0,possible_control
+GSM4216122,GSE141910,P01414,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 74,GPL16791,Control,0.0,Male,1,74.0,possible_control
+GSM4216123,GSE141910,P01420,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 64,GPL16791,Control,0.0,Female,0,64.0,possible_control
+GSM4216124,GSE141910,P01421,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 58,GPL16791,Control,0.0,Female,0,58.0,possible_control
+GSM4216125,GSE141910,P01422,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 54,GPL16791,HCM,1.0,Male,1,54.0,possible_HCM
+GSM4216126,GSE141910,P01425,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 40,GPL16791,HCM,1.0,Male,1,40.0,possible_HCM
+GSM4216129,GSE141910,P01436,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 57,GPL16791,Control,0.0,Female,0,57.0,possible_control
+GSM4216131,GSE141910,P01440,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 74,GPL16791,Control,0.0,Female,0,74.0,possible_control
+GSM4216132,GSE141910,P01444,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 53,GPL16791,Control,0.0,Male,1,53.0,possible_control
+GSM4216133,GSE141910,P01447,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 63,GPL16791,HCM,1.0,Female,0,63.0,possible_HCM
+GSM4216134,GSE141910,P01452,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 47,GPL16791,Control,0.0,Female,0,47.0,possible_control
+GSM4216135,GSE141910,P01454,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 63,GPL16791,Control,0.0,Female,0,63.0,possible_control
+GSM4216136,GSE141910,P01457,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 71,GPL16791,Control,0.0,Female,0,71.0,possible_control
+GSM4216137,GSE141910,P01462,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 51,GPL16791,HCM,1.0,Male,1,51.0,possible_HCM
+GSM4216138,GSE141910,P01463,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 83,GPL16791,Control,0.0,Female,0,83.0,possible_control
+GSM4216139,GSE141910,P01465,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 58,GPL16791,Control,0.0,Male,1,58.0,possible_control
+GSM4216141,GSE141910,P01469,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 52,GPL16791,Control,0.0,Female,0,52.0,possible_control
+GSM4216142,GSE141910,P01471,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 55,GPL16791,Control,0.0,Female,0,55.0,possible_control
+GSM4216144,GSE141910,P01473,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 47,GPL16791,Control,0.0,Male,1,47.0,possible_control
+GSM4216145,GSE141910,P01479,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 29,GPL16791,HCM,1.0,Male,1,29.0,possible_HCM
+GSM4216146,GSE141910,P01481,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 76,GPL16791,Control,0.0,Female,0,76.0,possible_control
+GSM4216147,GSE141910,P01485,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 78,GPL16791,Control,0.0,Male,1,78.0,possible_control
+GSM4216148,GSE141910,P01488,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 81,GPL16791,Control,0.0,Male,1,81.0,possible_control
+GSM4216149,GSE141910,P01490,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 71,GPL16791,Control,0.0,Female,0,71.0,possible_control
+GSM4216150,GSE141910,P01492,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 60,GPL16791,Control,0.0,Male,1,60.0,possible_control
+GSM4216151,GSE141910,P01497,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 53,GPL16791,Control,0.0,Female,0,53.0,possible_control
+GSM4216152,GSE141910,P01498,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 73,GPL16791,Control,0.0,Female,0,73.0,possible_control
+GSM4216153,GSE141910,P01500,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 56,GPL16791,Control,0.0,Female,0,56.0,possible_control
+GSM4216154,GSE141910,P01503,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 25,GPL16791,Control,0.0,Male,1,25.0,possible_control
+GSM4216156,GSE141910,P01507,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 51,GPL16791,Control,0.0,Female,0,51.0,possible_control
+GSM4216157,GSE141910,P01508,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Female | race: Caucasian | age: 60,GPL16791,HCM,1.0,Female,0,60.0,possible_HCM
+GSM4216159,GSE141910,P01510,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 58,GPL16791,HCM,1.0,Male,1,58.0,possible_HCM
+GSM4216160,GSE141910,P01513,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 75,GPL16791,Control,0.0,Female,0,75.0,possible_control
+GSM4216161,GSE141910,P01515,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 54,GPL16791,Control,0.0,Female,0,54.0,possible_control
+GSM4216162,GSE141910,P01516,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 66,GPL16791,Control,0.0,Female,0,66.0,possible_control
+GSM4216163,GSE141910,P01521,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 65,GPL16791,Control,0.0,Male,1,65.0,possible_control
+GSM4216164,GSE141910,P01528,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 52,GPL16791,Control,0.0,Female,0,52.0,possible_control
+GSM4216169,GSE141910,P01539,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 47,GPL16791,Control,0.0,Female,0,47.0,possible_control
+GSM4216170,GSE141910,P01540,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 72,GPL16791,Control,0.0,Female,0,72.0,possible_control
+GSM4216171,GSE141910,P01543,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 69,GPL16791,Control,0.0,Male,1,69.0,possible_control
+GSM4216172,GSE141910,P01545,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 44,GPL16791,Control,0.0,Male,1,44.0,possible_control
+GSM4216173,GSE141910,P01547,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 62,GPL16791,Control,0.0,Female,0,62.0,possible_control
+GSM4216174,GSE141910,P01549,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 49,GPL16791,Control,0.0,Male,1,49.0,possible_control
+GSM4216175,GSE141910,P01556,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 57,GPL16791,Control,0.0,Male,1,57.0,possible_control
+GSM4216176,GSE141910,P01558,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 58,GPL16791,Control,0.0,Female,0,58.0,possible_control
+GSM4216177,GSE141910,P01559,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 60,GPL16791,Control,0.0,Female,0,60.0,possible_control
+GSM4216178,GSE141910,P01561,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 65,GPL16791,Control,0.0,Male,1,65.0,possible_control
+GSM4216179,GSE141910,P01562,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 67,GPL16791,Control,0.0,Male,1,67.0,possible_control
+GSM4216184,GSE141910,P01578,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 52,GPL16791,Control,0.0,Male,1,52.0,possible_control
+GSM4216185,GSE141910,P01580,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: African American | age: 35,GPL16791,Control,0.0,Male,1,35.0,possible_control
+GSM4216186,GSE141910,P01581,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 66,GPL16791,Control,0.0,Female,0,66.0,possible_control
+GSM4216187,GSE141910,P01582,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 58,GPL16791,Control,0.0,Female,0,58.0,possible_control
+GSM4216188,GSE141910,P01584,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 22,GPL16791,Control,0.0,Male,1,22.0,possible_control
+GSM4216190,GSE141910,P01588,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 69,GPL16791,Control,0.0,Male,1,69.0,possible_control
+GSM4216192,GSE141910,P01591,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 69,GPL16791,Control,0.0,Female,0,69.0,possible_control
+GSM4216194,GSE141910,P01593,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 57,GPL16791,Control,0.0,Male,1,57.0,possible_control
+GSM4216195,GSE141910,P01595,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 40,GPL16791,Control,0.0,Male,1,40.0,possible_control
+GSM4216198,GSE141910,P01600,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 51,GPL16791,Control,0.0,Female,0,51.0,possible_control
+GSM4216199,GSE141910,P01602,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 46,GPL16791,HCM,1.0,Male,1,46.0,possible_HCM
+GSM4216200,GSE141910,P01603,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 69,GPL16791,Control,0.0,Female,0,69.0,possible_control
+GSM4216205,GSE141910,P01610,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 63,GPL16791,Control,0.0,Female,0,63.0,possible_control
+GSM4216208,GSE141910,P01616,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 75,GPL16791,Control,0.0,Male,1,75.0,possible_control
+GSM4216211,GSE141910,P01621,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 54,GPL16791,Control,0.0,Female,0,54.0,possible_control
+GSM4216212,GSE141910,P01622,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 56,GPL16791,Control,0.0,Male,1,56.0,possible_control
+GSM4216213,GSE141910,P01623,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 62,GPL16791,Control,0.0,Male,1,62.0,possible_control
+GSM4216214,GSE141910,P01626,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: Caucasian | age: 54,GPL16791,Control,0.0,Female,0,54.0,possible_control
+GSM4216216,GSE141910,P01628,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Male | race: Caucasian | age: 52,GPL16791,Control,0.0,Male,1,52.0,possible_control
+GSM4216218,GSE141910,P01630,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 49,GPL16791,HCM,1.0,Male,1,49.0,possible_HCM
+GSM4216219,GSE141910,P01631,Left Ventricle,Homo sapiens,etiology: Hypertrophic cardiomyopathy (HCM) | Sex: Male | race: Caucasian | age: 46,GPL16791,HCM,1.0,Male,1,46.0,possible_HCM
+GSM4216224,GSE141910,P01635,Left Ventricle,Homo sapiens,etiology: Non-Failing Donor | Sex: Female | race: African American | age: 62,GPL16791,Control,0.0,Female,0,62.0,possible_control

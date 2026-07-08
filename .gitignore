@@ -243,3 +243,10 @@ data/raw/clinvar/*.tbi
 # Secrets / tokens
 *.secret
 # Python / notebook cache
+# Raw large data files - keep out of GitHub
+*.bam
+*.fastq
+*.fq
+# Large processed matrices - keep local / Drive / Zenodo, not GitHub
+data/processed/expression_matrices/*.csv
+results/differential_expression/*/*normalized_counts*.csv

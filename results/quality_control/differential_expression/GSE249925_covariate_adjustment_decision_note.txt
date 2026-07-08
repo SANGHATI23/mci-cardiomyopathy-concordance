@@ -1,0 +1,41 @@
+GSE249925 Step 3 Differential Expression Model Decision
+======================================================
+
+Cohort: GSE249925
+Updated: 2026-07-08T09:53:00.600682
+
+Final model selected for MCI:
+DESeq2 disease-only model
+
+Formula:
+counts ~ condition
+
+Comparison:
+HCM vs Control
+
+log2FC definition:
+HCM minus Control
+
+Reason:
+The intended covariate-adjusted model counts ~ age_years + sex + condition could not be estimated because age_years and sex were missing for all 120 samples. After complete-case filtering, zero samples remained. Therefore, the disease-only DESeq2 result is the only valid real differential-expression output for this cohort.
+
+Sample counts:
+Total samples: 120
+HCM samples: 97
+Control samples: 23
+
+Covariate availability:
+age_years missing: 120
+sex missing: 120
+
+Correction note:
+The earlier CODE 6 printout showed sex missing or blank count as 240. That was a counting artifact caused by double-counting NaN values. The corrected count is 120, matching the total sample count.
+
+Final DE output files:
+/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE249925/GSE249925_FINAL_DE_for_MCI_full_gene_level.csv
+/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE249925/GSE249925_FINAL_DE_for_MCI_locked_MCI_target_genes.csv
+
+Target-gene matching:
+Target rows: 101
+Matched rows: 99
+Unmatched rows: 2

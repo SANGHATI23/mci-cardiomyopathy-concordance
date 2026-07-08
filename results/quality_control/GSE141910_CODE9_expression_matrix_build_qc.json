@@ -1,0 +1,38 @@
+{
+    "step": "MCI Step 3 Code 9 GSE141910 corrected expression matrix build",
+    "timestamp": "2026-07-08T10:00:03.508104",
+    "raw_tar_path": "/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE141910/GSE141910_RAW.tar",
+    "raw_metadata_path": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_sample_metadata_raw.csv",
+    "n_tar_csv_gz_members": 366,
+    "n_successfully_read_samples": 366,
+    "n_read_errors": 0,
+    "n_expression_rows_ensembl_genes": 20781,
+    "n_full_metadata_samples": 366,
+    "n_expression_samples": 366,
+    "n_matched_metadata_expression_samples": 366,
+    "n_metadata_only_samples": 0,
+    "n_expression_only_samples": 0,
+    "n_hcm_control_design_samples": 194,
+    "n_hcm_control_available_samples": 194,
+    "hcm_control_group_counts": {
+        "Control": 166,
+        "HCM": 28
+    },
+    "expression_value_note": "Files contain continuous expression-like values, not raw integer counts. Use limma-style linear modeling, not DESeq2.",
+    "expression_distribution": {
+        "min_value": 1.0,
+        "max_value": 22.3871031264175,
+        "mean_value": 10.020168136941974,
+        "median_value": 10.5005531292225,
+        "non_missing_values": 7605846,
+        "missing_values": 0
+    },
+    "full_expression_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE141910_expression_matrix_ensembl_values_all_samples.csv",
+    "hcm_control_expression_output": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE141910_expression_matrix_ensembl_values_HCM_Control.csv",
+    "clean_metadata_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_sample_metadata_clean.csv",
+    "design_table_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_analysis_design_table.csv",
+    "available_design_table_output": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_analysis_design_table_available_samples.csv",
+    "member_manifest_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_CODE9_member_read_manifest.csv",
+    "read_errors_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_CODE9_read_errors.csv",
+    "status": "completed"
+}

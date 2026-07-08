@@ -1,0 +1,7 @@
+{
+    "step": "MCI Step 3 Code 6 GSE249925 final DE lock",
+    "timestamp": "2026-07-08T09:49:35.717217",
+    "status": "completed",
+    "final_summary": "/content/drive/MyDrive/MCI_Project/results/quality_control/differential_expression/GSE249925_FINAL_DE_for_MCI_summary.json",
+    "decision_note": "/content/drive/MyDrive/MCI_Project/results/quality_control/differential_expression/GSE249925_covariate_adjustment_decision_note.txt"
+}
