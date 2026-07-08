@@ -1,0 +1,8 @@
+TASK7 H4 HCM sarcomeric vs non-sarcomeric MCI test complete.
+Completed at: 2026-07-08T22:39:52.423458
+Input: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv
+Primary score: MCI
+Primary directional p-value: 0.1770547053999298
+Primary directional BH-FDR p-value: 0.24353207673475324
+Direction supported: True
+Interpretation: report as confirmed only if FDR < 0.05; otherwise report as directional support only.

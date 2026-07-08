@@ -1,0 +1,59 @@
+{
+  "task": "TASK7_H4_HCM_sarcomeric_vs_non_sarcomeric_MCI",
+  "timestamp": "2026-07-08T22:39:52.389819",
+  "input_table": "results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv",
+  "primary_score_used": "MCI",
+  "hypothesis": "HCM sarcomeric genes have lower MCI than HCM non-sarcomeric genes",
+  "primary_result": {
+    "comparison_id": "H4_primary_MCI_sarcomeric_lower_than_non_sarcomeric",
+    "score_used": "MCI",
+    "is_primary": true,
+    "status": "RUN",
+    "test": "Mann-Whitney U",
+    "alternative": "HCM_sarcomeric < HCM_non_sarcomeric",
+    "n_sarcomeric": 8,
+    "n_non_sarcomeric": 7,
+    "sarcomeric_mean": 0.441447827649046,
+    "sarcomeric_median": 0.34245846662279644,
+    "non_sarcomeric_mean": 0.5642361075192938,
+    "non_sarcomeric_median": 0.6431434629210778,
+    "median_difference_non_sarc_minus_sarc": 0.3006849962982814,
+    "hodges_lehmann_sarc_minus_non_sarc": -0.1718327158545434,
+    "cliffs_delta_sarc_vs_non_sarc": -0.30357142857142855,
+    "mannwhitney_u_directional": 19.5,
+    "p_directional": 0.1770547053999298,
+    "mannwhitney_u_two_sided": 19.5,
+    "p_two_sided": 0.3541094107998596,
+    "p_directional_FDR_BH": 0.24353207673475324,
+    "direction_supported": true,
+    "statistically_significant_FDR_0_05": false
+  },
+  "n_h4_genes_total": 15,
+  "n_sarcomeric": 8,
+  "n_non_sarcomeric": 7,
+  "sarcomeric_genes_used": [
+    "ACTC1",
+    "MYBPC3",
+    "MYH7",
+    "MYL2",
+    "MYL3",
+    "TNNI3",
+    "TNNT2",
+    "TPM1"
+  ],
+  "non_sarcomeric_genes_used": [
+    "BAG3",
+    "CSRP3",
+    "FLNC",
+    "JPH2",
+    "LMNA",
+    "PLN",
+    "RBM20"
+  ],
+  "output_files": {
+    "h4_result_table": "results/mci_scores/TASK7_H4_HCM_SARCOMERIC_VS_NON_SARCOMERIC_RESULT.csv",
+    "h4_gene_table": "results/mci_scores/TASK7_H4_HCM_GENE_TABLE_WITH_GTEx_AND_BOOTSTRAP.csv",
+    "h4_summary_json": "results/quality_control/h4_mechanistic_stratification/TASK7_H4_HCM_SARCOMERIC_VS_NON_SARCOMERIC_SUMMARY.json",
+    "h4_completion_marker": "results/mci_scores/TASK7_H4_HCM_SARCOMERIC_VS_NON_SARCOMERIC_COMPLETE.txt"
+  }
+}

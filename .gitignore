@@ -293,3 +293,37 @@ data/external/gtex_v8/GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt
 __pycache__/
 *.pyc
 
+# TASK7 safety additions
+# Raw / large external data
+data/raw/
+data/external/
+*.vcf
+*.vcf.gz
+*.gct
+*.gct.gz
+*.tar
+*.tar.gz
+*.zip
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+
+# Large processed expression matrices
+data/processed/expression_matrices/*matrix*
+data/processed/expression_matrices/*.csv.gz
+
+# Secrets and tokens
+.env
+*.env
+*token*
+*TOKEN*
+*secret*
+*SECRET*
+credentials.json
+
+# Notebook/runtime artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store

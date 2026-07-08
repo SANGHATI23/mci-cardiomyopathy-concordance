@@ -1,0 +1,28 @@
+MCI STEP 7
+H4 Mechanistic Stratification Test: HCM Sarcomeric vs Non-sarcomeric MCI
+
+Input:
+- results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv
+
+Primary test:
+- Score used: MCI
+- Test: one-sided Mann-Whitney U
+- Alternative: HCM sarcomeric MCI < HCM non-sarcomeric MCI
+- FDR correction: Benjamini-Hochberg across H4 primary/sensitivity score tests
+
+Primary result:
+- Sarcomeric n = 8
+- Non-sarcomeric n = 7
+- Sarcomeric median MCI = 0.342458
+- Non-sarcomeric median MCI = 0.643143
+- Median difference, non-sarcomeric minus sarcomeric = 0.300685
+- Directional p-value = 0.177055
+- Directional BH-FDR p-value = 0.243532
+- Cliff's delta, sarcomeric vs non-sarcomeric = -0.303571
+- Interpretation status = DIRECTIONAL_SUPPORT_NOT_STATISTICALLY_SIGNIFICANT
+
+Interpretation:
+The observed H4 pattern followed the pre-specified direction, with lower median MCI in sarcomeric genes than in non-sarcomeric genes, but the directional Mann-Whitney test did not reach FDR-adjusted statistical significance. This should be reported as directional support rather than confirmed H4.
+
+Manuscript-ready wording:
+H4 was tested by comparing pre-specified HCM sarcomeric and non-sarcomeric gene strata using a directional Mann-Whitney U test, with the alternative hypothesis that sarcomeric genes have lower Molecular Concordance Index scores. Sarcomeric genes had median MCI 0.342, whereas non-sarcomeric genes had median MCI 0.643. The directional Mann-Whitney p-value was 0.177, with BH-FDR-adjusted p-value 0.244. Therefore, the result should be interpreted as directional support not statistically significant.

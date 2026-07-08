@@ -1,0 +1,8 @@
+file,exists,size_mb,github_safe,purpose
+results/mci_scores/TASK7_H4_HCM_SARCOMERIC_VS_NON_SARCOMERIC_RESULT.csv,True,0.001426,True,TASK7 H4 mechanistic stratification output
+results/mci_scores/TASK7_H4_HCM_GENE_TABLE_WITH_GTEx_AND_BOOTSTRAP.csv,True,0.002011,True,TASK7 H4 mechanistic stratification output
+results/quality_control/h4_mechanistic_stratification/TASK7_H4_HCM_SARCOMERIC_VS_NON_SARCOMERIC_SUMMARY.json,True,0.001969,True,TASK7 H4 mechanistic stratification output
+results/mci_scores/TASK7_H4_HCM_SARCOMERIC_VS_NON_SARCOMERIC_COMPLETE.txt,True,0.000443,True,TASK7 H4 mechanistic stratification output
+results/mci_scores/TASK7_FINAL_H4_HCM_INTERPRETATION_SUMMARY.txt,True,0.00154,True,TASK7 H4 mechanistic stratification output
+results/figures/h4_mechanistic_stratification/TASK7_H4_HCM_sarcomeric_vs_non_sarcomeric_MCI_boxplot.png,True,0.122089,True,TASK7 H4 mechanistic stratification output
+results/figures/h4_mechanistic_stratification/TASK7_H4_HCM_gene_level_MCI_bootstrap_CI_forest_plot.png,True,0.213275,True,TASK7 H4 mechanistic stratification output
