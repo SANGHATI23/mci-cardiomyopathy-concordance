@@ -1,8 +1,10 @@
 TASK 6 COMPLETE: Bootstrap confidence intervals for primary HCM MCI
-Execution date: 2026-07-08T21:56:04.261823
+Execution date: 2026-07-08T22:12:22.599183
+Formula note: Corrected CV denominator uses abs(mean(log2FC)) per preregistered CV logic.
 Bootstrap iterations per eligible gene: 1000
 Random seed: 20260708
 Genes with bootstrap CI: 47
-Median CI width: 0.34598684077968234
-Mean CI width: 0.32763353620482694
+Median CI width: 0.4373554275755479
+Mean CI width: 0.48965893607708755
 Main output: /content/drive/MyDrive/MCI_Project/results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv
+Audit output: /content/drive/MyDrive/MCI_Project/results/quality_control/bootstrap_confidence_intervals/TASK6_MCI_ORIGINAL_VS_BOOTSTRAP_POINT_AUDIT.csv

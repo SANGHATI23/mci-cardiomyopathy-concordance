@@ -1,8 +1,10 @@
 file_path,exists,size_mb,github_safe,purpose
-results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv,True,0.0394,True,Step 6 bootstrap confidence interval output
-results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_HCM_MCI_CI_summary_by_gene.csv,True,0.0083,True,Step 6 bootstrap confidence interval output
-results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_HCM_MCI_CI_all_draws.csv,True,1.7644,True,Step 6 bootstrap confidence interval output
-results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_CONFIDENCE_INTERVALS_SUMMARY.json,True,0.0013,True,Step 6 bootstrap confidence interval output
-results/mci_scores/TASK6_BOOTSTRAP_CONFIDENCE_INTERVALS_COMPLETE.txt,True,0.0004,True,Step 6 bootstrap confidence interval output
-results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_gene_cohort_coverage.csv,True,0.0004,True,Step 6 bootstrap confidence interval output
-results/figures/bootstrap_confidence_intervals/TASK6_HCM_MCI_bootstrap_95CI_forest_plot.png,True,0.2693,True,Step 6 bootstrap confidence interval output
+results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv,True,0.0406,True,Corrected Step 6 bootstrap confidence interval output
+results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_HCM_MCI_CI_summary_by_gene.csv,True,0.0075,True,Corrected Step 6 bootstrap confidence interval output
+results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_HCM_MCI_CI_all_draws.csv,True,1.6665,True,Corrected Step 6 bootstrap confidence interval output
+results/quality_control/bootstrap_confidence_intervals/TASK6_RECOMPUTED_MCI_POINT_ESTIMATES_FROM_DE.csv,True,0.0035,True,Corrected Step 6 bootstrap confidence interval output
+results/quality_control/bootstrap_confidence_intervals/TASK6_MCI_ORIGINAL_VS_BOOTSTRAP_POINT_AUDIT.csv,True,0.0049,True,Corrected Step 6 bootstrap confidence interval output
+results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_CONFIDENCE_INTERVALS_SUMMARY.json,True,0.0019,True,Corrected Step 6 bootstrap confidence interval output
+results/mci_scores/TASK6_BOOTSTRAP_CONFIDENCE_INTERVALS_COMPLETE.txt,True,0.0006,True,Corrected Step 6 bootstrap confidence interval output
+results/quality_control/bootstrap_confidence_intervals/TASK6_BOOTSTRAP_gene_cohort_coverage.csv,True,0.0004,True,Corrected Step 6 bootstrap confidence interval output
+results/figures/bootstrap_confidence_intervals/TASK6_HCM_MCI_bootstrap_95CI_forest_plot.png,True,0.2697,True,Corrected Step 6 bootstrap confidence interval output
