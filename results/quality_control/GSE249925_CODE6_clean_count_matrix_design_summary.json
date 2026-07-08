@@ -1,0 +1,50 @@
+{
+    "step": "MCI Step 3 Code 6 GSE249925 clean count matrix and design table build",
+    "timestamp": "2026-07-08T08:58:25.902110",
+    "gse_id": "GSE249925",
+    "raw_count_shape": [
+        64253,
+        122
+    ],
+    "raw_metadata_shape": [
+        120,
+        11
+    ],
+    "n_count_sample_columns": 120,
+    "n_mapped_gsm_columns": 120,
+    "ensembl_count_matrix_shape": [
+        64253,
+        120
+    ],
+    "gene_symbol_count_matrix_shape": [
+        58674,
+        120
+    ],
+    "design_shape": [
+        120,
+        13
+    ],
+    "design_order_matches_count_matrix": true,
+    "disease_group_counts": {
+        "HCM": 97,
+        "Control": 23
+    },
+    "missing_count_values": 0,
+    "library_size_min": 42135002.0,
+    "library_size_median": 53807210.0,
+    "library_size_max": 109606788.0,
+    "detected_genes_min": 25390,
+    "detected_genes_median": 28110.0,
+    "detected_genes_max": 32339,
+    "unique_target_symbols": 75,
+    "matched_target_symbols": 74,
+    "missing_target_symbols": 1,
+    "outputs": {
+        "ensembl_count_matrix": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE249925_count_matrix_ensembl_raw_counts.csv",
+        "gene_symbol_count_matrix": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE249925_count_matrix_gene_symbol_raw_counts.csv",
+        "gene_annotation": "/content/drive/MyDrive/MCI_Project/data/processed/expression_matrices/GSE249925_gene_annotation_from_Gene_Index.csv",
+        "analysis_design_table": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE249925_analysis_design_table.csv",
+        "sample_count_qc": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE249925_sample_count_qc.csv",
+        "target_gene_match_summary": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE249925_target_gene_symbol_match_summary.csv"
+    }
+}

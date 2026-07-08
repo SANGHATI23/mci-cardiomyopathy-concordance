@@ -1,0 +1,41 @@
+MCI STEP 3 — GSE36961 REAL DIFFERENTIAL EXPRESSION COMPLETE
+
+Cohort:
+- GSE36961
+- Disease comparison: HCM vs Control
+- Disease-only model: expression ~ HCM_status
+- Adjusted sensitivity model: expression ~ HCM_status + age_years + sex
+
+Disease-only DE:
+- Samples used: 145
+- HCM samples: 106
+- Control samples: 39
+- Features tested: 37846
+- Gene-level rows: 37846
+- FDR < 0.05 features: 7973
+- Locked MCI target disease-gene rows: 101
+- Locked MCI target rows matched in expression/DE: 89
+- Locked MCI target rows not matched: 12
+
+Adjusted age/sex DE:
+- Original samples: 145
+- Samples used after complete-covariate filtering: 142
+- Samples excluded because of missing covariates: 3
+- HCM samples: 106
+- Control samples: 36
+- Male samples: 73
+- Female samples: 69
+- Features tested: 37846
+- Gene-level rows: 37846
+- FDR < 0.05 features: 7483
+- Locked MCI target rows matched in adjusted DE: 89
+- Locked MCI target rows not matched in adjusted DE: 12
+
+Disease-only vs adjusted stability:
+- Compared genes: 37846
+- Direction agreement fraction: 0.9188289383290176
+- Median absolute log2FC change: 0.007908426477994734
+- Mean absolute log2FC change: 0.012945557706567239
+
+Interpretation:
+GSE36961 now has real per-cohort differential-expression outputs in the required MCI format, including log2FC, SE, p-value, and FDR. The adjusted sensitivity model confirms that most disease-only directions remain stable after age/sex adjustment. These outputs are ready for downstream target-gene extraction and later multi-cohort MCI scoring after additional cohorts are processed.

@@ -1,0 +1,367 @@
+gsm_id,rough_group_from_code9,_combined_text_for_group_scan
+GSM4215858,possible_control,gse141910 gsm4215858 c00039 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 18 gpl16791 possible_control
+GSM4215859,possible_control,gse141910 gsm4215859 c00055 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 26 gpl16791 possible_control
+GSM4215860,possible_control,gse141910 gsm4215860 c00074 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 17 gpl16791 possible_control
+GSM4215861,possible_control,gse141910 gsm4215861 c00085 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 59 gpl16791 possible_control
+GSM4215862,possible_control,gse141910 gsm4215862 c00105 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 59 gpl16791 possible_control
+GSM4215863,possible_control,gse141910 gsm4215863 c00120 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 50 gpl16791 possible_control
+GSM4215864,possible_control,gse141910 gsm4215864 c00132 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 15 gpl16791 possible_control
+GSM4215865,possible_control,gse141910 gsm4215865 c00158 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 53 gpl16791 possible_control
+GSM4215866,possible_control,gse141910 gsm4215866 c00168 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 62 gpl16791 possible_control
+GSM4215867,possible_control,gse141910 gsm4215867 c00186 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 16 gpl16791 possible_control
+GSM4215868,possible_control,gse141910 gsm4215868 c00188 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 51 gpl16791 possible_control
+GSM4215869,possible_control,gse141910 gsm4215869 c00190 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 25 gpl16791 possible_control
+GSM4215870,possible_control,gse141910 gsm4215870 c00192 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 54 gpl16791 possible_control
+GSM4215871,possible_control,gse141910 gsm4215871 c00193 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 62 gpl16791 possible_control
+GSM4215872,possible_control,gse141910 gsm4215872 c00195 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 75 gpl16791 possible_control
+GSM4215873,possible_control,gse141910 gsm4215873 c00196 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 62 gpl16791 possible_control
+GSM4215874,possible_control,gse141910 gsm4215874 c00197 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 58 gpl16791 possible_control
+GSM4215875,possible_control,gse141910 gsm4215875 c00198 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 33 gpl16791 possible_control
+GSM4215876,possible_control,gse141910 gsm4215876 c00199 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 67 gpl16791 possible_control
+GSM4215877,possible_control,gse141910 gsm4215877 c00202 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 58 gpl16791 possible_control
+GSM4215878,unknown,gse141910 gsm4215878 c01413 left ventricle homo sapiens etiology: peripartum cardiomyopathy (ppcm) | sex: female | race: caucasian | age: 30 gpl16791 unknown
+GSM4215879,unknown,gse141910 gsm4215879 c01418 left ventricle homo sapiens etiology: peripartum cardiomyopathy (ppcm) | sex: female | race: caucasian | age: 25 gpl16791 unknown
+GSM4215880,possible_HCM,gse141910 gsm4215880 c01631 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 38 gpl16791 possible_hcm
+GSM4215881,possible_DCM,gse141910 gsm4215881 c01776 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 32 gpl16791 possible_dcm
+GSM4215882,possible_DCM,gse141910 gsm4215882 c01783 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 48 gpl16791 possible_dcm
+GSM4215883,possible_DCM,gse141910 gsm4215883 c01794 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 41 gpl16791 possible_dcm
+GSM4215884,possible_DCM,gse141910 gsm4215884 c01809 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 28 gpl16791 possible_dcm
+GSM4215885,possible_DCM,gse141910 gsm4215885 c01814 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 46 gpl16791 possible_dcm
+GSM4215886,possible_DCM,gse141910 gsm4215886 c01816 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 52 gpl16791 possible_dcm
+GSM4215887,possible_HCM,gse141910 gsm4215887 c01862 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 21 gpl16791 possible_hcm
+GSM4215888,possible_DCM,gse141910 gsm4215888 c01875 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 57 gpl16791 possible_dcm
+GSM4215889,possible_DCM,gse141910 gsm4215889 c01881 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 41 gpl16791 possible_dcm
+GSM4215890,possible_DCM,gse141910 gsm4215890 c01895 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 54 gpl16791 possible_dcm
+GSM4215891,possible_DCM,gse141910 gsm4215891 c01902 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 65 gpl16791 possible_dcm
+GSM4215892,possible_DCM,gse141910 gsm4215892 c01904 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 56 gpl16791 possible_dcm
+GSM4215893,possible_DCM,gse141910 gsm4215893 c01905 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 53 gpl16791 possible_dcm
+GSM4215894,possible_DCM,gse141910 gsm4215894 c01910 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 53 gpl16791 possible_dcm
+GSM4215895,possible_DCM,gse141910 gsm4215895 c01912 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 46 gpl16791 possible_dcm
+GSM4215896,possible_DCM,gse141910 gsm4215896 c01914 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 63 gpl16791 possible_dcm
+GSM4215897,possible_DCM,gse141910 gsm4215897 c01926 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 59 gpl16791 possible_dcm
+GSM4215898,possible_DCM,gse141910 gsm4215898 c01929 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 50 gpl16791 possible_dcm
+GSM4215899,unknown,gse141910 gsm4215899 c01931 left ventricle homo sapiens etiology: peripartum cardiomyopathy (ppcm) | sex: female | race: caucasian | age: 51 gpl16791 unknown
+GSM4215900,possible_DCM,gse141910 gsm4215900 c01945 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 65 gpl16791 possible_dcm
+GSM4215901,possible_DCM,gse141910 gsm4215901 c01952 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 57 gpl16791 possible_dcm
+GSM4215902,possible_DCM,gse141910 gsm4215902 c01957 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 47 gpl16791 possible_dcm
+GSM4215903,possible_DCM,gse141910 gsm4215903 c01960 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 59 gpl16791 possible_dcm
+GSM4215904,possible_DCM,gse141910 gsm4215904 c01997 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 56 gpl16791 possible_dcm
+GSM4215905,possible_DCM,gse141910 gsm4215905 c02014 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 48 gpl16791 possible_dcm
+GSM4215906,possible_DCM,gse141910 gsm4215906 c02018 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 55 gpl16791 possible_dcm
+GSM4215907,possible_DCM,gse141910 gsm4215907 c02022 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 64 gpl16791 possible_dcm
+GSM4215908,possible_DCM,gse141910 gsm4215908 c02029 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 54 gpl16791 possible_dcm
+GSM4215909,possible_DCM,gse141910 gsm4215909 c02045 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 48 gpl16791 possible_dcm
+GSM4215910,possible_DCM,gse141910 gsm4215910 c02050 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 63 gpl16791 possible_dcm
+GSM4215911,possible_DCM,gse141910 gsm4215911 c02054 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 61 gpl16791 possible_dcm
+GSM4215912,possible_DCM,gse141910 gsm4215912 c02056 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 57 gpl16791 possible_dcm
+GSM4215913,possible_DCM,gse141910 gsm4215913 c02058 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 49 gpl16791 possible_dcm
+GSM4215914,possible_DCM,gse141910 gsm4215914 c02065 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 56 gpl16791 possible_dcm
+GSM4215915,possible_DCM,gse141910 gsm4215915 c02067 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 44 gpl16791 possible_dcm
+GSM4215916,possible_DCM,gse141910 gsm4215916 c02069 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 53 gpl16791 possible_dcm
+GSM4215917,possible_DCM,gse141910 gsm4215917 c02080 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 60 gpl16791 possible_dcm
+GSM4215918,possible_DCM,gse141910 gsm4215918 c02081 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 48 gpl16791 possible_dcm
+GSM4215919,possible_DCM,gse141910 gsm4215919 c02085 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 51 gpl16791 possible_dcm
+GSM4215920,possible_DCM,gse141910 gsm4215920 c02095 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 53 gpl16791 possible_dcm
+GSM4215921,possible_DCM,gse141910 gsm4215921 c02096 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 58 gpl16791 possible_dcm
+GSM4215922,possible_DCM,gse141910 gsm4215922 c02101 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 51 gpl16791 possible_dcm
+GSM4215923,possible_DCM,gse141910 gsm4215923 c02108 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 25 gpl16791 possible_dcm
+GSM4215924,possible_DCM,gse141910 gsm4215924 c02109 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 58 gpl16791 possible_dcm
+GSM4215925,possible_DCM,gse141910 gsm4215925 c02116 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 62 gpl16791 possible_dcm
+GSM4215926,possible_DCM,gse141910 gsm4215926 c02164 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 48 gpl16791 possible_dcm
+GSM4215927,possible_DCM,gse141910 gsm4215927 c02172 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 47 gpl16791 possible_dcm
+GSM4215928,possible_DCM,gse141910 gsm4215928 c02190 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 65 gpl16791 possible_dcm
+GSM4215929,possible_DCM,gse141910 gsm4215929 c02205 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 64 gpl16791 possible_dcm
+GSM4215930,possible_DCM,gse141910 gsm4215930 c02210 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 20 gpl16791 possible_dcm
+GSM4215931,possible_DCM,gse141910 gsm4215931 c02233 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 63 gpl16791 possible_dcm
+GSM4215932,possible_HCM,gse141910 gsm4215932 c02242 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 48 gpl16791 possible_hcm
+GSM4215933,possible_DCM,gse141910 gsm4215933 c02272 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 54 gpl16791 possible_dcm
+GSM4215934,possible_DCM,gse141910 gsm4215934 c02276 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 62 gpl16791 possible_dcm
+GSM4215935,possible_DCM,gse141910 gsm4215935 c02280 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 57 gpl16791 possible_dcm
+GSM4215936,possible_DCM,gse141910 gsm4215936 c02297 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 45 gpl16791 possible_dcm
+GSM4215937,possible_DCM,gse141910 gsm4215937 c02298 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 66 gpl16791 possible_dcm
+GSM4215938,possible_DCM,gse141910 gsm4215938 c02301 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 52 gpl16791 possible_dcm
+GSM4215939,possible_DCM,gse141910 gsm4215939 c02303 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 63 gpl16791 possible_dcm
+GSM4215940,possible_DCM,gse141910 gsm4215940 c02305 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 51 gpl16791 possible_dcm
+GSM4215941,possible_HCM,gse141910 gsm4215941 c02312 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 65 gpl16791 possible_hcm
+GSM4215942,possible_DCM,gse141910 gsm4215942 c02318 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 34 gpl16791 possible_dcm
+GSM4215943,possible_DCM,gse141910 gsm4215943 c02327 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 58 gpl16791 possible_dcm
+GSM4215944,possible_DCM,gse141910 gsm4215944 c02328 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 65 gpl16791 possible_dcm
+GSM4215945,possible_DCM,gse141910 gsm4215945 c02329 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 41 gpl16791 possible_dcm
+GSM4215946,possible_DCM,gse141910 gsm4215946 c02340 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 32 gpl16791 possible_dcm
+GSM4215947,possible_DCM,gse141910 gsm4215947 c02344 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 48 gpl16791 possible_dcm
+GSM4215948,possible_DCM,gse141910 gsm4215948 c02349 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 21 gpl16791 possible_dcm
+GSM4215949,possible_DCM,gse141910 gsm4215949 c02350 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 59 gpl16791 possible_dcm
+GSM4215950,possible_HCM,gse141910 gsm4215950 c02351 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 30 gpl16791 possible_hcm
+GSM4215951,possible_HCM,gse141910 gsm4215951 c02352 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 53 gpl16791 possible_hcm
+GSM4215952,possible_DCM,gse141910 gsm4215952 c02354 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 61 gpl16791 possible_dcm
+GSM4215953,possible_DCM,gse141910 gsm4215953 c02355 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 47 gpl16791 possible_dcm
+GSM4215954,possible_HCM,gse141910 gsm4215954 c02356 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 54 gpl16791 possible_hcm
+GSM4215955,possible_DCM,gse141910 gsm4215955 c02360 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 34 gpl16791 possible_dcm
+GSM4215956,possible_DCM,gse141910 gsm4215956 c02363 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 56 gpl16791 possible_dcm
+GSM4215957,possible_DCM,gse141910 gsm4215957 c02364 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 55 gpl16791 possible_dcm
+GSM4215958,possible_HCM,gse141910 gsm4215958 c02374 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 49 gpl16791 possible_hcm
+GSM4215959,possible_DCM,gse141910 gsm4215959 c02375 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 50 gpl16791 possible_dcm
+GSM4215960,possible_HCM,gse141910 gsm4215960 c02380 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 67 gpl16791 possible_hcm
+GSM4215961,possible_DCM,gse141910 gsm4215961 c02387 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 45 gpl16791 possible_dcm
+GSM4215962,possible_DCM,gse141910 gsm4215962 c02397 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 33 gpl16791 possible_dcm
+GSM4215963,possible_DCM,gse141910 gsm4215963 c02420 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 63.4 gpl16791 possible_dcm
+GSM4215964,possible_DCM,gse141910 gsm4215964 c02452 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 44.3 gpl16791 possible_dcm
+GSM4215965,possible_DCM,gse141910 gsm4215965 c02458 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 59 gpl16791 possible_dcm
+GSM4215966,possible_DCM,gse141910 gsm4215966 c02464 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 53 gpl16791 possible_dcm
+GSM4215967,possible_DCM,gse141910 gsm4215967 c02468 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 61 gpl16791 possible_dcm
+GSM4215968,possible_DCM,gse141910 gsm4215968 c02475 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 53 gpl16791 possible_dcm
+GSM4215969,possible_DCM,gse141910 gsm4215969 c02491 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 62 gpl16791 possible_dcm
+GSM4215970,possible_DCM,gse141910 gsm4215970 c02496 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 63 gpl16791 possible_dcm
+GSM4215971,possible_DCM,gse141910 gsm4215971 c02510 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 46 gpl16791 possible_dcm
+GSM4215972,possible_DCM,gse141910 gsm4215972 c02516 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 48 gpl16791 possible_dcm
+GSM4215973,possible_DCM,gse141910 gsm4215973 c02529 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 62 gpl16791 possible_dcm
+GSM4215974,possible_DCM,gse141910 gsm4215974 c02530 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 33 gpl16791 possible_dcm
+GSM4215975,possible_DCM,gse141910 gsm4215975 c02546 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 29 gpl16791 possible_dcm
+GSM4215976,possible_HCM,gse141910 gsm4215976 c02592 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 53 gpl16791 possible_hcm
+GSM4215977,possible_DCM,gse141910 gsm4215977 c02645 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 63 gpl16791 possible_dcm
+GSM4215978,possible_DCM,gse141910 gsm4215978 c02660 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 42 gpl16791 possible_dcm
+GSM4215979,possible_DCM,gse141910 gsm4215979 c02665 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 54 gpl16791 possible_dcm
+GSM4215980,possible_DCM,gse141910 gsm4215980 c02698 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 58 gpl16791 possible_dcm
+GSM4215981,possible_DCM,gse141910 gsm4215981 c02720 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 58 gpl16791 possible_dcm
+GSM4215982,possible_DCM,gse141910 gsm4215982 c02724 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 53 gpl16791 possible_dcm
+GSM4215983,possible_DCM,gse141910 gsm4215983 c02728 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 54 gpl16791 possible_dcm
+GSM4215984,possible_DCM,gse141910 gsm4215984 p01007 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 60 gpl16791 possible_dcm
+GSM4215985,possible_HCM,gse141910 gsm4215985 p01027 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: african american | age: 46 gpl16791 possible_hcm
+GSM4215986,possible_control,gse141910 gsm4215986 p01032 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 49 gpl16791 possible_control
+GSM4215987,possible_DCM,gse141910 gsm4215987 p01044 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 20 gpl16791 possible_dcm
+GSM4215988,possible_DCM,gse141910 gsm4215988 p01045 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 44 gpl16791 possible_dcm
+GSM4215989,possible_control,gse141910 gsm4215989 p01052 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 44 gpl16791 possible_control
+GSM4215990,possible_DCM,gse141910 gsm4215990 p01054 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 54 gpl16791 possible_dcm
+GSM4215991,possible_control,gse141910 gsm4215991 p01067 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 66 gpl16791 possible_control
+GSM4215992,possible_control,gse141910 gsm4215992 p01070 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 71 gpl16791 possible_control
+GSM4215993,possible_DCM,gse141910 gsm4215993 p01071 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 38 gpl16791 possible_dcm
+GSM4215994,possible_control,gse141910 gsm4215994 p01076 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 59 gpl16791 possible_control
+GSM4215995,possible_DCM,gse141910 gsm4215995 p01077 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 50 gpl16791 possible_dcm
+GSM4215996,possible_DCM,gse141910 gsm4215996 p01095 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 39 gpl16791 possible_dcm
+GSM4215997,possible_DCM,gse141910 gsm4215997 p01097 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 56 gpl16791 possible_dcm
+GSM4215998,possible_control,gse141910 gsm4215998 p01100 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 59 gpl16791 possible_control
+GSM4215999,possible_control,gse141910 gsm4215999 p01101 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 65 gpl16791 possible_control
+GSM4216000,possible_DCM,gse141910 gsm4216000 p01104 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 48 gpl16791 possible_dcm
+GSM4216001,possible_control,gse141910 gsm4216001 p01106 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 65 gpl16791 possible_control
+GSM4216002,possible_DCM,gse141910 gsm4216002 p01109 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 59 gpl16791 possible_dcm
+GSM4216003,possible_DCM,gse141910 gsm4216003 p01110 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 44 gpl16791 possible_dcm
+GSM4216004,possible_control,gse141910 gsm4216004 p01116 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 69 gpl16791 possible_control
+GSM4216005,possible_control,gse141910 gsm4216005 p01117 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 61 gpl16791 possible_control
+GSM4216006,possible_DCM,gse141910 gsm4216006 p01118 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 61 gpl16791 possible_dcm
+GSM4216007,possible_control,gse141910 gsm4216007 p01119 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 52 gpl16791 possible_control
+GSM4216008,possible_control,gse141910 gsm4216008 p01121 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 33 gpl16791 possible_control
+GSM4216009,possible_control,gse141910 gsm4216009 p01122 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 51 gpl16791 possible_control
+GSM4216010,possible_control,gse141910 gsm4216010 p01124 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 73 gpl16791 possible_control
+GSM4216011,possible_DCM,gse141910 gsm4216011 p01127 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 49 gpl16791 possible_dcm
+GSM4216012,possible_control,gse141910 gsm4216012 p01134 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 68 gpl16791 possible_control
+GSM4216013,possible_DCM,gse141910 gsm4216013 p01135 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 26 gpl16791 possible_dcm
+GSM4216014,possible_control,gse141910 gsm4216014 p01137 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 53 gpl16791 possible_control
+GSM4216015,possible_control,gse141910 gsm4216015 p01140 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 65 gpl16791 possible_control
+GSM4216016,possible_control,gse141910 gsm4216016 p01146 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 55 gpl16791 possible_control
+GSM4216017,possible_control,gse141910 gsm4216017 p01151 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 80 gpl16791 possible_control
+GSM4216018,possible_control,gse141910 gsm4216018 p01155 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 20 gpl16791 possible_control
+GSM4216019,possible_DCM,gse141910 gsm4216019 p01163 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 58 gpl16791 possible_dcm
+GSM4216020,possible_DCM,gse141910 gsm4216020 p01164 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 45 gpl16791 possible_dcm
+GSM4216021,possible_control,gse141910 gsm4216021 p01165 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 61 gpl16791 possible_control
+GSM4216022,possible_control,gse141910 gsm4216022 p01167 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 51 gpl16791 possible_control
+GSM4216023,unknown,gse141910 gsm4216023 p01168 left ventricle homo sapiens etiology: peripartum cardiomyopathy (ppcm) | sex: female | race: african american | age: 26 gpl16791 unknown
+GSM4216024,possible_control,gse141910 gsm4216024 p01171 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 65 gpl16791 possible_control
+GSM4216025,possible_control,gse141910 gsm4216025 p01173 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 64 gpl16791 possible_control
+GSM4216026,possible_DCM,gse141910 gsm4216026 p01179 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 40 gpl16791 possible_dcm
+GSM4216027,possible_control,gse141910 gsm4216027 p01183 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 56 gpl16791 possible_control
+GSM4216028,possible_control,gse141910 gsm4216028 p01184 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 45 gpl16791 possible_control
+GSM4216029,possible_control,gse141910 gsm4216029 p01185 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 61 gpl16791 possible_control
+GSM4216030,possible_control,gse141910 gsm4216030 p01197 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 34 gpl16791 possible_control
+GSM4216031,possible_control,gse141910 gsm4216031 p01199 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 24 gpl16791 possible_control
+GSM4216032,possible_control,gse141910 gsm4216032 p01202 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 56 gpl16791 possible_control
+GSM4216033,possible_DCM,gse141910 gsm4216033 p01204 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 56 gpl16791 possible_dcm
+GSM4216034,possible_control,gse141910 gsm4216034 p01205 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 44 gpl16791 possible_control
+GSM4216035,possible_control,gse141910 gsm4216035 p01206 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 37 gpl16791 possible_control
+GSM4216036,possible_control,gse141910 gsm4216036 p01207 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 57 gpl16791 possible_control
+GSM4216037,possible_control,gse141910 gsm4216037 p01208 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 64 gpl16791 possible_control
+GSM4216038,possible_HCM,gse141910 gsm4216038 p01209 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 65 gpl16791 possible_hcm
+GSM4216039,possible_control,gse141910 gsm4216039 p01211 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 46 gpl16791 possible_control
+GSM4216040,possible_control,gse141910 gsm4216040 p01215 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 59 gpl16791 possible_control
+GSM4216041,possible_DCM,gse141910 gsm4216041 p01217 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 56 gpl16791 possible_dcm
+GSM4216042,possible_control,gse141910 gsm4216042 p01221 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 52 gpl16791 possible_control
+GSM4216043,possible_control,gse141910 gsm4216043 p01222 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 44 gpl16791 possible_control
+GSM4216044,possible_control,gse141910 gsm4216044 p01224 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 59 gpl16791 possible_control
+GSM4216045,possible_control,gse141910 gsm4216045 p01226 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 42 gpl16791 possible_control
+GSM4216046,possible_HCM,gse141910 gsm4216046 p01228 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 35 gpl16791 possible_hcm
+GSM4216047,possible_control,gse141910 gsm4216047 p01233 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 48 gpl16791 possible_control
+GSM4216048,possible_control,gse141910 gsm4216048 p01238 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 67 gpl16791 possible_control
+GSM4216049,possible_control,gse141910 gsm4216049 p01241 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 50 gpl16791 possible_control
+GSM4216050,possible_control,gse141910 gsm4216050 p01245 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 56 gpl16791 possible_control
+GSM4216051,unknown,gse141910 gsm4216051 p01246 left ventricle homo sapiens etiology: peripartum cardiomyopathy (ppcm) | sex: female | race: african american | age: 33 gpl16791 unknown
+GSM4216052,possible_DCM,gse141910 gsm4216052 p01247 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 62 gpl16791 possible_dcm
+GSM4216053,possible_control,gse141910 gsm4216053 p01248 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 56 gpl16791 possible_control
+GSM4216054,possible_control,gse141910 gsm4216054 p01252 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 62 gpl16791 possible_control
+GSM4216055,possible_DCM,gse141910 gsm4216055 p01254 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 56 gpl16791 possible_dcm
+GSM4216056,possible_control,gse141910 gsm4216056 p01259 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 58 gpl16791 possible_control
+GSM4216057,possible_DCM,gse141910 gsm4216057 p01262 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 42 gpl16791 possible_dcm
+GSM4216058,possible_DCM,gse141910 gsm4216058 p01264 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 51 gpl16791 possible_dcm
+GSM4216059,possible_DCM,gse141910 gsm4216059 p01266 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 51 gpl16791 possible_dcm
+GSM4216060,possible_DCM,gse141910 gsm4216060 p01275 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 62 gpl16791 possible_dcm
+GSM4216061,possible_control,gse141910 gsm4216061 p01279 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 56 gpl16791 possible_control
+GSM4216062,possible_DCM,gse141910 gsm4216062 p01282 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 62 gpl16791 possible_dcm
+GSM4216063,possible_control,gse141910 gsm4216063 p01287 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 78 gpl16791 possible_control
+GSM4216064,possible_HCM,gse141910 gsm4216064 p01288 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 53 gpl16791 possible_hcm
+GSM4216065,possible_DCM,gse141910 gsm4216065 p01289 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 67 gpl16791 possible_dcm
+GSM4216066,possible_DCM,gse141910 gsm4216066 p01290 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 65 gpl16791 possible_dcm
+GSM4216067,possible_DCM,gse141910 gsm4216067 p01292 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 26 gpl16791 possible_dcm
+GSM4216068,unknown,gse141910 gsm4216068 p01293 left ventricle homo sapiens etiology: peripartum cardiomyopathy (ppcm) | sex: female | race: caucasian | age: 43 gpl16791 unknown
+GSM4216069,possible_control,gse141910 gsm4216069 p01294 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 53 gpl16791 possible_control
+GSM4216070,possible_control,gse141910 gsm4216070 p01296 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 57 gpl16791 possible_control
+GSM4216071,possible_DCM,gse141910 gsm4216071 p01298 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 40 gpl16791 possible_dcm
+GSM4216072,possible_DCM,gse141910 gsm4216072 p01300 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 45 gpl16791 possible_dcm
+GSM4216073,possible_DCM,gse141910 gsm4216073 p01304 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 63 gpl16791 possible_dcm
+GSM4216074,possible_DCM,gse141910 gsm4216074 p01305 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 52 gpl16791 possible_dcm
+GSM4216075,possible_control,gse141910 gsm4216075 p01307 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 59 gpl16791 possible_control
+GSM4216076,possible_DCM,gse141910 gsm4216076 p01309 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 52 gpl16791 possible_dcm
+GSM4216077,possible_control,gse141910 gsm4216077 p01310 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 56 gpl16791 possible_control
+GSM4216078,possible_HCM,gse141910 gsm4216078 p01318 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 56 gpl16791 possible_hcm
+GSM4216079,possible_HCM,gse141910 gsm4216079 p01320 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 26 gpl16791 possible_hcm
+GSM4216080,possible_DCM,gse141910 gsm4216080 p01322 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 52 gpl16791 possible_dcm
+GSM4216081,possible_control,gse141910 gsm4216081 p01323 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 67 gpl16791 possible_control
+GSM4216082,possible_control,gse141910 gsm4216082 p01325 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 53 gpl16791 possible_control
+GSM4216083,possible_control,gse141910 gsm4216083 p01329 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 66 gpl16791 possible_control
+GSM4216084,possible_control,gse141910 gsm4216084 p01330 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 58 gpl16791 possible_control
+GSM4216085,possible_control,gse141910 gsm4216085 p01334 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 77 gpl16791 possible_control
+GSM4216086,possible_control,gse141910 gsm4216086 p01337 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 74 gpl16791 possible_control
+GSM4216087,possible_control,gse141910 gsm4216087 p01339 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 36 gpl16791 possible_control
+GSM4216088,possible_HCM,gse141910 gsm4216088 p01340 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 67 gpl16791 possible_hcm
+GSM4216089,possible_control,gse141910 gsm4216089 p01347 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 57 gpl16791 possible_control
+GSM4216090,possible_control,gse141910 gsm4216090 p01348 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 68 gpl16791 possible_control
+GSM4216091,possible_DCM,gse141910 gsm4216091 p01350 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 56 gpl16791 possible_dcm
+GSM4216092,possible_DCM,gse141910 gsm4216092 p01352 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 21 gpl16791 possible_dcm
+GSM4216093,possible_control,gse141910 gsm4216093 p01354 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 65 gpl16791 possible_control
+GSM4216094,possible_control,gse141910 gsm4216094 p01356 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 51 gpl16791 possible_control
+GSM4216095,possible_control,gse141910 gsm4216095 p01357 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 75 gpl16791 possible_control
+GSM4216096,possible_DCM,gse141910 gsm4216096 p01358 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 42 gpl16791 possible_dcm
+GSM4216097,possible_control,gse141910 gsm4216097 p01359 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 52 gpl16791 possible_control
+GSM4216098,possible_control,gse141910 gsm4216098 p01360 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 75 gpl16791 possible_control
+GSM4216099,possible_control,gse141910 gsm4216099 p01362 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 51 gpl16791 possible_control
+GSM4216100,possible_control,gse141910 gsm4216100 p01365 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 69 gpl16791 possible_control
+GSM4216101,possible_control,gse141910 gsm4216101 p01367 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 56 gpl16791 possible_control
+GSM4216102,possible_control,gse141910 gsm4216102 p01369 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 75 gpl16791 possible_control
+GSM4216103,possible_DCM,gse141910 gsm4216103 p01371 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 54 gpl16791 possible_dcm
+GSM4216104,possible_control,gse141910 gsm4216104 p01374 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 60 gpl16791 possible_control
+GSM4216105,possible_control,gse141910 gsm4216105 p01375 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 41 gpl16791 possible_control
+GSM4216106,possible_control,gse141910 gsm4216106 p01377 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 77 gpl16791 possible_control
+GSM4216107,possible_HCM,gse141910 gsm4216107 p01379 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 42 gpl16791 possible_hcm
+GSM4216108,possible_control,gse141910 gsm4216108 p01380 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 59 gpl16791 possible_control
+GSM4216109,possible_control,gse141910 gsm4216109 p01381 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 44 gpl16791 possible_control
+GSM4216110,possible_control,gse141910 gsm4216110 p01383 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 59 gpl16791 possible_control
+GSM4216111,possible_control,gse141910 gsm4216111 p01385 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 38 gpl16791 possible_control
+GSM4216112,possible_control,gse141910 gsm4216112 p01387 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 53 gpl16791 possible_control
+GSM4216113,possible_control,gse141910 gsm4216113 p01388 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 51 gpl16791 possible_control
+GSM4216114,possible_control,gse141910 gsm4216114 p01396 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 46 gpl16791 possible_control
+GSM4216115,possible_control,gse141910 gsm4216115 p01397 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 38 gpl16791 possible_control
+GSM4216116,possible_control,gse141910 gsm4216116 p01400 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 22 gpl16791 possible_control
+GSM4216117,possible_DCM,gse141910 gsm4216117 p01402 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 40 gpl16791 possible_dcm
+GSM4216118,possible_control,gse141910 gsm4216118 p01404 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 50 gpl16791 possible_control
+GSM4216119,possible_control,gse141910 gsm4216119 p01406 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 51 gpl16791 possible_control
+GSM4216120,possible_control,gse141910 gsm4216120 p01412 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 49 gpl16791 possible_control
+GSM4216121,possible_control,gse141910 gsm4216121 p01413 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 57 gpl16791 possible_control
+GSM4216122,possible_control,gse141910 gsm4216122 p01414 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 74 gpl16791 possible_control
+GSM4216123,possible_control,gse141910 gsm4216123 p01420 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 64 gpl16791 possible_control
+GSM4216124,possible_control,gse141910 gsm4216124 p01421 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 58 gpl16791 possible_control
+GSM4216125,possible_HCM,gse141910 gsm4216125 p01422 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 54 gpl16791 possible_hcm
+GSM4216126,possible_HCM,gse141910 gsm4216126 p01425 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 40 gpl16791 possible_hcm
+GSM4216127,possible_DCM,gse141910 gsm4216127 p01430 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 62 gpl16791 possible_dcm
+GSM4216128,possible_DCM,gse141910 gsm4216128 p01433 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 62 gpl16791 possible_dcm
+GSM4216129,possible_control,gse141910 gsm4216129 p01436 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 57 gpl16791 possible_control
+GSM4216130,possible_DCM,gse141910 gsm4216130 p01437 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 63 gpl16791 possible_dcm
+GSM4216131,possible_control,gse141910 gsm4216131 p01440 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 74 gpl16791 possible_control
+GSM4216132,possible_control,gse141910 gsm4216132 p01444 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 53 gpl16791 possible_control
+GSM4216133,possible_HCM,gse141910 gsm4216133 p01447 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 63 gpl16791 possible_hcm
+GSM4216134,possible_control,gse141910 gsm4216134 p01452 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 47 gpl16791 possible_control
+GSM4216135,possible_control,gse141910 gsm4216135 p01454 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 63 gpl16791 possible_control
+GSM4216136,possible_control,gse141910 gsm4216136 p01457 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 71 gpl16791 possible_control
+GSM4216137,possible_HCM,gse141910 gsm4216137 p01462 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 51 gpl16791 possible_hcm
+GSM4216138,possible_control,gse141910 gsm4216138 p01463 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 83 gpl16791 possible_control
+GSM4216139,possible_control,gse141910 gsm4216139 p01465 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 58 gpl16791 possible_control
+GSM4216140,possible_DCM,gse141910 gsm4216140 p01466 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 64 gpl16791 possible_dcm
+GSM4216141,possible_control,gse141910 gsm4216141 p01469 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 52 gpl16791 possible_control
+GSM4216142,possible_control,gse141910 gsm4216142 p01471 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 55 gpl16791 possible_control
+GSM4216143,possible_DCM,gse141910 gsm4216143 p01472 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 41 gpl16791 possible_dcm
+GSM4216144,possible_control,gse141910 gsm4216144 p01473 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 47 gpl16791 possible_control
+GSM4216145,possible_HCM,gse141910 gsm4216145 p01479 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 29 gpl16791 possible_hcm
+GSM4216146,possible_control,gse141910 gsm4216146 p01481 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 76 gpl16791 possible_control
+GSM4216147,possible_control,gse141910 gsm4216147 p01485 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 78 gpl16791 possible_control
+GSM4216148,possible_control,gse141910 gsm4216148 p01488 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 81 gpl16791 possible_control
+GSM4216149,possible_control,gse141910 gsm4216149 p01490 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 71 gpl16791 possible_control
+GSM4216150,possible_control,gse141910 gsm4216150 p01492 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 60 gpl16791 possible_control
+GSM4216151,possible_control,gse141910 gsm4216151 p01497 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 53 gpl16791 possible_control
+GSM4216152,possible_control,gse141910 gsm4216152 p01498 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 73 gpl16791 possible_control
+GSM4216153,possible_control,gse141910 gsm4216153 p01500 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 56 gpl16791 possible_control
+GSM4216154,possible_control,gse141910 gsm4216154 p01503 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 25 gpl16791 possible_control
+GSM4216155,possible_DCM,gse141910 gsm4216155 p01504 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 49 gpl16791 possible_dcm
+GSM4216156,possible_control,gse141910 gsm4216156 p01507 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 51 gpl16791 possible_control
+GSM4216157,possible_HCM,gse141910 gsm4216157 p01508 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: female | race: caucasian | age: 60 gpl16791 possible_hcm
+GSM4216158,possible_DCM,gse141910 gsm4216158 p01509 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 54 gpl16791 possible_dcm
+GSM4216159,possible_HCM,gse141910 gsm4216159 p01510 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 58 gpl16791 possible_hcm
+GSM4216160,possible_control,gse141910 gsm4216160 p01513 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 75 gpl16791 possible_control
+GSM4216161,possible_control,gse141910 gsm4216161 p01515 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 54 gpl16791 possible_control
+GSM4216162,possible_control,gse141910 gsm4216162 p01516 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 66 gpl16791 possible_control
+GSM4216163,possible_control,gse141910 gsm4216163 p01521 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 65 gpl16791 possible_control
+GSM4216164,possible_control,gse141910 gsm4216164 p01528 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 52 gpl16791 possible_control
+GSM4216165,possible_DCM,gse141910 gsm4216165 p01532 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 53 gpl16791 possible_dcm
+GSM4216166,possible_DCM,gse141910 gsm4216166 p01535 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 58 gpl16791 possible_dcm
+GSM4216167,possible_DCM,gse141910 gsm4216167 p01537 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 64 gpl16791 possible_dcm
+GSM4216168,possible_DCM,gse141910 gsm4216168 p01538 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 56 gpl16791 possible_dcm
+GSM4216169,possible_control,gse141910 gsm4216169 p01539 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 47 gpl16791 possible_control
+GSM4216170,possible_control,gse141910 gsm4216170 p01540 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 72 gpl16791 possible_control
+GSM4216171,possible_control,gse141910 gsm4216171 p01543 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 69 gpl16791 possible_control
+GSM4216172,possible_control,gse141910 gsm4216172 p01545 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 44 gpl16791 possible_control
+GSM4216173,possible_control,gse141910 gsm4216173 p01547 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 62 gpl16791 possible_control
+GSM4216174,possible_control,gse141910 gsm4216174 p01549 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 49 gpl16791 possible_control
+GSM4216175,possible_control,gse141910 gsm4216175 p01556 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 57 gpl16791 possible_control
+GSM4216176,possible_control,gse141910 gsm4216176 p01558 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 58 gpl16791 possible_control
+GSM4216177,possible_control,gse141910 gsm4216177 p01559 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 60 gpl16791 possible_control
+GSM4216178,possible_control,gse141910 gsm4216178 p01561 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 65 gpl16791 possible_control
+GSM4216179,possible_control,gse141910 gsm4216179 p01562 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 67 gpl16791 possible_control
+GSM4216180,possible_DCM,gse141910 gsm4216180 p01563 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 57 gpl16791 possible_dcm
+GSM4216181,possible_DCM,gse141910 gsm4216181 p01567 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 56 gpl16791 possible_dcm
+GSM4216182,possible_DCM,gse141910 gsm4216182 p01568 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 67 gpl16791 possible_dcm
+GSM4216183,possible_DCM,gse141910 gsm4216183 p01573 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 58 gpl16791 possible_dcm
+GSM4216184,possible_control,gse141910 gsm4216184 p01578 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 52 gpl16791 possible_control
+GSM4216185,possible_control,gse141910 gsm4216185 p01580 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: african american | age: 35 gpl16791 possible_control
+GSM4216186,possible_control,gse141910 gsm4216186 p01581 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 66 gpl16791 possible_control
+GSM4216187,possible_control,gse141910 gsm4216187 p01582 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 58 gpl16791 possible_control
+GSM4216188,possible_control,gse141910 gsm4216188 p01584 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 22 gpl16791 possible_control
+GSM4216189,possible_DCM,gse141910 gsm4216189 p01585 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 59 gpl16791 possible_dcm
+GSM4216190,possible_control,gse141910 gsm4216190 p01588 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 69 gpl16791 possible_control
+GSM4216191,possible_DCM,gse141910 gsm4216191 p01590 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 59 gpl16791 possible_dcm
+GSM4216192,possible_control,gse141910 gsm4216192 p01591 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 69 gpl16791 possible_control
+GSM4216193,possible_DCM,gse141910 gsm4216193 p01592 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 56 gpl16791 possible_dcm
+GSM4216194,possible_control,gse141910 gsm4216194 p01593 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 57 gpl16791 possible_control
+GSM4216195,possible_control,gse141910 gsm4216195 p01595 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 40 gpl16791 possible_control
+GSM4216196,possible_DCM,gse141910 gsm4216196 p01596 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 67 gpl16791 possible_dcm
+GSM4216197,possible_DCM,gse141910 gsm4216197 p01597 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 34 gpl16791 possible_dcm
+GSM4216198,possible_control,gse141910 gsm4216198 p01600 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 51 gpl16791 possible_control
+GSM4216199,possible_HCM,gse141910 gsm4216199 p01602 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 46 gpl16791 possible_hcm
+GSM4216200,possible_control,gse141910 gsm4216200 p01603 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 69 gpl16791 possible_control
+GSM4216201,possible_DCM,gse141910 gsm4216201 p01605 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 57 gpl16791 possible_dcm
+GSM4216202,possible_DCM,gse141910 gsm4216202 p01606 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 56 gpl16791 possible_dcm
+GSM4216203,possible_DCM,gse141910 gsm4216203 p01608 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 59 gpl16791 possible_dcm
+GSM4216204,possible_DCM,gse141910 gsm4216204 p01609 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 66 gpl16791 possible_dcm
+GSM4216205,possible_control,gse141910 gsm4216205 p01610 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 63 gpl16791 possible_control
+GSM4216206,possible_DCM,gse141910 gsm4216206 p01611 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: african american | age: 64 gpl16791 possible_dcm
+GSM4216207,possible_DCM,gse141910 gsm4216207 p01615 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 49 gpl16791 possible_dcm
+GSM4216208,possible_control,gse141910 gsm4216208 p01616 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 75 gpl16791 possible_control
+GSM4216209,possible_DCM,gse141910 gsm4216209 p01617 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 64 gpl16791 possible_dcm
+GSM4216210,possible_DCM,gse141910 gsm4216210 p01618 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 53 gpl16791 possible_dcm
+GSM4216211,possible_control,gse141910 gsm4216211 p01621 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 54 gpl16791 possible_control
+GSM4216212,possible_control,gse141910 gsm4216212 p01622 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 56 gpl16791 possible_control
+GSM4216213,possible_control,gse141910 gsm4216213 p01623 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 62 gpl16791 possible_control
+GSM4216214,possible_control,gse141910 gsm4216214 p01626 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: caucasian | age: 54 gpl16791 possible_control
+GSM4216215,possible_DCM,gse141910 gsm4216215 p01627 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: male | race: caucasian | age: 61 gpl16791 possible_dcm
+GSM4216216,possible_control,gse141910 gsm4216216 p01628 left ventricle homo sapiens etiology: non-failing donor | sex: male | race: caucasian | age: 52 gpl16791 possible_control
+GSM4216217,possible_DCM,gse141910 gsm4216217 p01629 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: caucasian | age: 52 gpl16791 possible_dcm
+GSM4216218,possible_HCM,gse141910 gsm4216218 p01630 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 49 gpl16791 possible_hcm
+GSM4216219,possible_HCM,gse141910 gsm4216219 p01631 left ventricle homo sapiens etiology: hypertrophic cardiomyopathy (hcm) | sex: male | race: caucasian | age: 46 gpl16791 possible_hcm
+GSM4216221,possible_DCM,gse141910 gsm4216221 p01634 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 54 gpl16791 possible_dcm
+GSM4216224,possible_control,gse141910 gsm4216224 p01635 left ventricle homo sapiens etiology: non-failing donor | sex: female | race: african american | age: 62 gpl16791 possible_control
+GSM4216226,possible_DCM,gse141910 gsm4216226 p01639 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 56 gpl16791 possible_dcm
+GSM4216228,possible_DCM,gse141910 gsm4216228 p01640 left ventricle homo sapiens etiology: dilated cardiomyopathy (dcm) | sex: female | race: african american | age: 49 gpl16791 possible_dcm

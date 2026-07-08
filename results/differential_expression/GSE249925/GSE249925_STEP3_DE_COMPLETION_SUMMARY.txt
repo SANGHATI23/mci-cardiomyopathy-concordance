@@ -1,0 +1,36 @@
+MCI STEP 3 — GSE249925 REAL DIFFERENTIAL EXPRESSION COMPLETE
+
+Cohort:
+- GSE249925
+- Disease comparison: HCM vs Control
+- Model: log2(CPM + 1) ~ HCM_status
+- log2FC definition: HCM minus Control on log2CPM scale
+
+Input preparation:
+- Raw gene-symbol count matrix: [58674, 120]
+- Design table samples: 120
+- HCM samples: 97
+- Control samples: 23
+
+RNA-seq filtering and normalization:
+- Original gene count: 58674
+- Filter rule: CPM >= 1 in at least 20 percent of samples
+- Minimum samples expressed: 24
+- Filtered gene count: 15826
+- Removed gene count: 42848
+- Normalization: CPM
+- Transformation: log2(CPM + 1)
+
+Differential expression:
+- FDR < 0.05 genes: 8678
+- FDR < 0.10 genes: 9678
+- Nominal p < 0.05 genes: 9418
+
+Locked MCI target matching:
+- Target universe disease-gene rows: 101
+- Target rows matched in DE: 97
+- Target rows not matched in DE: 4
+- H4 pre-specified rows matched in DE: 22
+
+Interpretation:
+GSE249925 now has a real RNA-seq differential-expression table in MCI-compatible format, including log2FC, SE, p-value, and FDR. This cohort can now contribute to multi-cohort HCM MCI scoring after the remaining cohorts are processed.

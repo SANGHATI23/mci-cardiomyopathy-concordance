@@ -1,0 +1,4 @@
+STEP 3 GSE36961 REAL DIFFERENTIAL EXPRESSION COMPLETE
+Timestamp: 2026-07-08T08:47:49.626995
+Disease-only and age/sex-adjusted DE outputs created.
+Outputs include full feature-level, gene-level, locked MCI target-gene tables, QA metrics, and file manifest.

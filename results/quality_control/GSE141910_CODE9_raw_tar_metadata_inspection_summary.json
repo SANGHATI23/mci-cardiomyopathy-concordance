@@ -1,0 +1,106 @@
+{
+    "step": "MCI Step 3 Code 9 GSE141910 RAW tar and metadata inspection",
+    "timestamp": "2026-07-08T09:15:01.190317",
+    "gse_id": "GSE141910",
+    "raw_tar_path": "/content/drive/MyDrive/MCI_Project/data/raw/geo_supplementary/GSE141910/GSE141910_RAW.tar",
+    "raw_metadata_path": "/content/drive/MyDrive/MCI_Project/data/processed/sample_metadata/GSE141910_sample_metadata_raw.csv",
+    "metadata_shape": [
+        366,
+        13
+    ],
+    "metadata_columns": [
+        "gse_id",
+        "gsm_id",
+        "title",
+        "source_name_ch1",
+        "organism_ch1",
+        "characteristics_ch1",
+        "description",
+        "platform_id",
+        "supplementary_file",
+        "rough_group_label",
+        "_combined_text_for_group_scan",
+        "rough_group_from_code9",
+        "title_str"
+    ],
+    "metadata_sample_column": "gsm_id",
+    "rough_group_counts_code9": {
+        "possible_control": 166,
+        "possible_DCM": 166,
+        "possible_HCM": 28,
+        "unknown": 6
+    },
+    "tar_member_count": 366,
+    "tar_manifest_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_RAW_tar_member_manifest.csv",
+    "extension_summary": {
+        ".csv.gz": 366
+    },
+    "metadata_gsm_count": 366,
+    "file_gsm_count": 366,
+    "matched_gsm_count": 366,
+    "metadata_only_gsm_count": 0,
+    "file_only_gsm_count": 0,
+    "group_scan_output": "/content/drive/MyDrive/MCI_Project/results/quality_control/GSE141910_metadata_group_scan_from_CODE9.csv",
+    "previewed_files": [
+        {
+            "member_name": "GSM4216080_P01322.csv.gz",
+            "basename": "GSM4216080_P01322.csv.gz",
+            "size_mb": 0.11307907104492188,
+            "first_lines": [
+                "\u001f\ufffd\b\bXn\ufffd]\u0000\u0003GSM4216080_P01322.csv\u0000\ufffd\ufffdY\ufffdmI\ufffd\u0004\ufffd\ufffd\ufffda\ufffd\ufffd",
+                "\ufffd\ufffd\u0000",
+                "\ufffd'\b\ufffd\ufffd\ufffd\"3'W\b\ufffd\ufffdH*#++#\ufffd\ufffd\u06abq\ufffd\ufffd1\u001a\u007f~\ufffd\ufffd\ufffd\ufffd*\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdQ\ufffd\ufffdW\ufffd\ufffd\ufffdZ\ufffd\ufffdRo\u001bk\ufffd\ufffdW\ufffd\ufffd\ufffd\ufffd?\ufffd__\ufffd\ufffd\ufffd\ufffd-\ufffd\ufffd\ufffd\u001b2\ufffd\ufffdU\ufffd\ufffd2Fk\ufffd\ufffd[V\ufffd\ufffd\ufffd\ufffd\u000f\ufffdzv_e\ufffd>\ufffd\ufffd\ufffd\ufffd\ufffd?\ufffd_\ufffd\ufffd\ufffdQ\ufffd9w\ufffd\ufffd\u001br\ufffd!\ufffd\ufffd\ufffd\u0001\ufffd\u0532\ufffd\ufffd\ufffd\u001f\u001a\ufffdp\u0017",
+                "\ufffd\ufffd\ufffd<w\ufffd\ufffd\ufffd\ufffd\u0017 \ufffd\ufffd=\ufffd\ufffd~\ufffd.\ufffd,\u00039\ufffd\ufffd\ue725\ufffd\ufffdKk\ufffd<t\ufffd+{\ufffd\ufffd?\u0011 \ufffd\ufffdK\ufffd\ufffd\u0349\ufffd\ufffd\ufffd\ufffdU\ufffd~\ufffd}\ufffdm\ufffd\ufffdg\ufffd\ufffd\ufffd\u026b\ufffd\uf96e\u02ab\ufffd\u007fc\ufffd6\ufffd\u99cfV",
+                "\ufffd\ufffd\ufffd\u007f\\\t\ufffd\ufffd\ufffd\ufffd\u062dY\ufffd}\u000f\ufffd\ufffd^x\ufffd\u0005op\u062b\ufffd\ufffd e\u28f7v\ufffd\ufffd\ufffd\ufffd\ufffd4\ufffd2\b\ufffd\ufffd[R{\ufffd\ufffdf\ufffdc\ufffd\ufffd\ufffd\ufffd\ufffd"
+            ]
+        },
+        {
+            "member_name": "GSM4215942_C02318.csv.gz",
+            "basename": "GSM4215942_C02318.csv.gz",
+            "size_mb": 0.12216758728027344,
+            "first_lines": [
+                "\u001f\ufffd\b\bIn\ufffd]\u0000\u0003GSM4215942_C02318.csv\u0000\ufffd\ufffd\u02eel;\ufffd$8\ufffd\ufffd\ufffdqbc\ufffd-\ufffd",
+                "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffdL\ufffd:h\ufffd_\ufffd7\u0012\ufffd\ufffd{\ufffd\ufffdzI\u0014\u001fF\ufffd\ufffd\ufffd?\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffd\u007f}\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd?\ufffd\ufffd?\ufffd\ufffd\ufffd\ufffd\ufffdYw\ufffds\ufffdi!\ufffd\ufffd?\ufffdo\ufffd9\ua735\ufffd\u057b\ufffd\ufffdr\ufffd+\ufffd\ufffd\ufffd9\u05eec\ufffd~\ufffd\ufffd\ufffdu/tJ\ufffdu\ufffd6\ufffd\ufffd\ufffd\u0307\u0017\ufffd\ufffdz*\ufffd\ufffdz\ufffd\ufffd\ufffd\u001br\u06be\ufffd\ufffd\ufffd<\ufffd\ufffd3Kk\u0006\ufffd\u02bd\ufffd\ufffdZyN9k\ufffdU\ufffd \u0005\u0017\ufffd\ufffdU\ufffd}\ufffd\ufffd\ufffd=J7\ufffd\ufffd\u0001)\u007f\ufffd\ufffd{\ufffdz\ufffdz\ufffd\ufffd\ufffd2\ufffd@\ufffdo\ufffd\ufffd\ufffdYx\ufffdv\ufffd\ufffd\u0003\ufffd\ufffd@\ufffd\ufffd\ufffd7\ufffd\u001b\ufffdd\ufffdb!\ufffd^\ufffd\ufffd3\ufffd3p\ufffdk\ufffd{\ufffdo\ufffd\ufffd\u034e\ufffd;\ufffd?\ufffd\ufffd\ufffdq\u007f\ufffd\ufffd{F\ufffdx",
+                "\ufffd",
+                "|\ufffdo\ufffd,\ufffd^\ufffd\ufffd",
+                "4\ufffd\ufffdi\ufffd\u0019H\ufffd{\ufffd\u007f\ufffd-\ufffd\t\ufffd\ufffdl\ufffdL"
+            ]
+        },
+        {
+            "member_name": "GSM4216154_P01503.csv.gz",
+            "basename": "GSM4216154_P01503.csv.gz",
+            "size_mb": 0.1283111572265625,
+            "first_lines": [
+                "\u001f\ufffd\b\b_n\ufffd]\u0000\u0003GSM4216154_P01503.csv\u0000\ufffd\ufffd[\ufffd4\ufffd\ufffd\u0004\ufffd\ufffde\ufffd\ufffd\ufffd\u0017\ufffd;\ufffd\u0000\ufffd\ufffd",
+                "\ufffd\ufffd\ufffd\ufffd\ufffdL\u0000\ufffd\ufffd\u001b-\ufffdG3::R\ufffd\ufffd.$\ufffdK\"\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdy\ufffdx\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u007f=\ufffd\ufffd\ufffd>\ufffdS\ufffd\u07f3K\ufffd\ufffd\u0019\ufffd\ufffd9=d|\ufffd\ufffd\ufffd=u>m\u03f2{\u001f\ufffdAz9r\ufffdyJ[\ufffd\ufffdc\ufffdg8\ufffdX\ufffd<\u007f\ufffd\ufffd3J\ufffd\ufffdl\ufffdC\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdw\u007f\u0299\ufffd\ufffdUO\ufffd\ufffd\ufffd\ufffd\ufffdJ\ufffd\ufffd\ufffd\u001f\ufffd?\ufffd8\ufffd*\ufffdt@\ufffdRp\u001f\ufffd\ufffd\u057e \ufffdi\u0013\ufffd\ufffdWG\ufffd\u0003O^j\ufffd\ufffdAv\ufffd\ufffd",
+                "OY\ufffd>\ufffd\ufffd2\ufffd\u001bR\ufffd>Qi\ufffd\u03fbF\ufffd\ufffd\ufffd\ufffd\ufffd<\u0011 \ufffd\ufffd]G\u0019\u0007\ufffd\ufffd<\ufffd\ufffd[\ufffdV\ufffd\ufffdc\ufffd=\ufffd\ufffd\ufffd~\ufffd@\ufffd9s\ufffd\ufffd'n{}C\ufffd\\\ufffd\ufffd\u00db{\ufffd\ufffd\ufffd\ufffdS\ufffd\u000f\ufffdbW\ufffd\ufffd\t|\ufffd\ufffdGr\ufffd\ufffd\ufffd2\ufffdZ_g\ufffdUZkuU\u000f\ufffd/]q\u0017}-\ufffd\ufffd\ufffdh\ufffd\ufffd\ufffd\ufffd{\ufffdZF?\ufffd\ufffd*\ufffd2Snw\ufffd\u034e\ufffd7~p|\ufffd\ufffd\ufffd\ufffd#\ufffd\u0011\ufffd`\ufffd\ufffdqO\u02ed\ufffd\ufffd",
+                "\ufffdg",
+                "\\JX"
+            ]
+        },
+        {
+            "member_name": "GSM4216166_P01535.csv.gz",
+            "basename": "GSM4216166_P01535.csv.gz",
+            "size_mb": 0.12835025787353516,
+            "first_lines": [
+                "\u001f\ufffd\b\b`n\ufffd]\u0000\u0003GSM4216166_P01535.csv\u0000\ufffd\ufffd[\ufffd,;\ufffd",
+                "\ufffd\ufffda\ufffd\ufffd\u000f\ufffd\ufffd4\u0000\ufffdoF\u0003=\ufffd\ufffdt\u0004\ufffd\\\ufffdb\ufffd$\ufffd}\ufffdq\ufffd\u06b1\ufffd\ufffd\"Q\ufffd\u0004\ufffd\ufffd\ufffd\u007f>\ufffd\ufffdSF\u001b\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd_\u03ff\u007f\ufffd\ufffd?\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdQ\ufffd\ufffd\ufffd\ufffd\u007f\ufffd\u001f\u0000\ufffd\ufffdY\ufffd\ufffdk\ufffdoH/\u0007W\ufffd\u007f\ufffd\ufffd\ufffdK?\ufffd\ufffd5",
+                "d,\ufffd\ufffdR\u01f3K\u0019\ufffd\u03df\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd<g\ufffd\ufffdv+\ufffd~CN\u06f8J\ufffdk",
+                "w\ufffd\ufffdj\ufffd\ufffd\ufffd@V\u0001\ufffd\ufffd\ufffd\ufffd\u072b\ufffd:\ufffd\ufffdU\ufffd\ufffd\u61749",
+                "0m\ufffd]"
+            ]
+        },
+        {
+            "member_name": "GSM4216133_P01447.csv.gz",
+            "basename": "GSM4216133_P01447.csv.gz",
+            "size_mb": 0.13365840911865234,
+            "first_lines": [
+                "\u001f\ufffd\b\b]n\ufffd]\u0000\u0003GSM4216133_P01447.csv\u0000\ufffd\ufffdI\ufffd$\u034e$\ufffd\ufffdc\ufffd:\ufffd\ufffdt\ufffd",
+                "\ufffdQ\ufffdF\u0001u\ufffd\ufffd\ufffd\bI\ufffd\ufffd\ufffd\u007f\ufffd\ufffd\ufffdD\"_\u0004\ufffd\ufffdL\u0007\ufffdB\ufffd\ufffd\ufffd?\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd_\u03ff\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdot)\ufffd\ufffd\ufffd\u019a#\ufffd\ufffd\ufffd\ufffd\ucff6Fy\ufffd\u0011\ufffdO\ufffd\ufffd[\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd^F}\ufffd\ufffd\ufffdYe\u0007\ufffd\ufffd R\ufffd\ufffd\ufffd\ufffd\u07b3\ufffd\ufffd\ufffd",
+                "\"\ufffd\ufffd\ufffd\ufffd\ufffd={\u0fd4\ufffd;~O\ufffdEv\u0013}Ji\ufffd\u0015\ufffdR\ufffd?\"\ufffd@\ufffd\ufffd\ufffd:\u05e8\ufffd\ufffdZ\ufffd\ufffd\u0017\u0015|\ufffd\ufffdn",
+                "\ufffd\ufffd\"\ufffd\ufffd>{\u0010\ufffd\u000e\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdZ\ufffd\u05b6\ufffd?\ufffd\ufffdi_\ufffdk[Rv\u001b\ufffd\ufffd\ufffd-\ufffd_\ufffd\ufffd+",
+                "\ufffdz\ufffd\u0007+\ufffd~D\ufffd>E\ufffd\ufffd\ufffd\u000f*Qd/}\ufffdQ\ufffd\ufffd\ufffd\ufffd9\ufffd\ufffd\ufffd"
+            ]
+        }
+    ]
+}

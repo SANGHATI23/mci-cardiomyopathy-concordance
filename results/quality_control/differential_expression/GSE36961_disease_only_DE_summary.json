@@ -1,0 +1,22 @@
+{
+    "step": "MCI Step 3 Code 2 GSE36961 disease-only DE",
+    "timestamp": "2026-07-08T08:41:13.739720",
+    "cohort": "GSE36961",
+    "model": "expression ~ HCM_status",
+    "comparison": "HCM_vs_Control",
+    "log2FC_definition": "HCM minus Control",
+    "n_samples": 145,
+    "n_hcm": 106,
+    "n_control": 39,
+    "n_features_tested": 37846,
+    "n_gene_level_rows": 37846,
+    "n_fdr_lt_0_05_feature_level": 7973,
+    "n_fdr_lt_0_10_feature_level": 9061,
+    "n_nominal_p_lt_0_05_feature_level": 10462,
+    "target_universe_rows": 101,
+    "target_rows_matched_in_de": 89,
+    "target_rows_not_matched_in_de": 12,
+    "full_de_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE36961/GSE36961_disease_only_DE_full_feature_level.csv",
+    "gene_level_de_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE36961/GSE36961_disease_only_DE_gene_level.csv",
+    "target_gene_de_output": "/content/drive/MyDrive/MCI_Project/results/differential_expression/GSE36961/GSE36961_disease_only_DE_locked_MCI_target_genes.csv"
+}
