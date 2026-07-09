@@ -358,3 +358,6 @@ __pycache__/
 # Large expression matrices stay Drive/Zenodo-only
 data/processed/expression_matrices/*expression_matrix*
 data/processed/expression_matrices/*matrix*
+
+# Shiny runtime logs
+shiny_app/mci_concordance_browser/shiny_log.txt
