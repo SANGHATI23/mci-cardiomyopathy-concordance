@@ -175,22 +175,31 @@ server <- function(input, output, session) {
   
   output$gtexBox <- renderValueBox({
     x <- selected_mci()
-    flag <- ifelse(nrow(x) == 0, NA, x$GTEx_low_confidence_flag[1])
-    status <- ifelse(nrow(x) == 0, NA, as.character(x$GTEx_adjustment_status[1]))
     
-    label <- ifelse(
-      isTRUE(flag) || flag == TRUE,
-      "GTEx BASELINE",
-      ifelse(grepl("EXCEEDS", status, ignore.case = TRUE), "EXCEEDS GTEx", "GTEx CHECK")
-    )
-    
-    # Important: LOW CONF is not colored red because it is a separate evidence axis,
-    # not the same thing as an UNSTABLE MCI tier.
-    color <- ifelse(
-      isTRUE(flag) || flag == TRUE,
-      "yellow",
-      ifelse(grepl("EXCEEDS", status, ignore.case = TRUE), "purple", "aqua")
-    )
+    if (nrow(x) == 0) {
+      label <- "GTEx CHECK"
+      color <- "aqua"
+    } else {
+      ratio <- suppressWarnings(as.numeric(x$sigma_disease_to_GTEx_ratio[1]))
+      flag <- x$GTEx_low_confidence_flag[1]
+      
+      # GTEx status is intentionally separate from MCI tier.
+      # BELOW GTEx means disease variability does not exceed normal GTEx LV variability.
+      # EXCEEDS GTEx means disease variability is larger than the GTEx LV baseline.
+      if (!is.na(ratio) && ratio <= 1.0) {
+        label <- "BELOW GTEx"
+        color <- "yellow"
+      } else if (!is.na(ratio) && ratio > 1.0) {
+        label <- "EXCEEDS GTEx"
+        color <- "aqua"
+      } else if (isTRUE(flag) || flag == TRUE) {
+        label <- "BELOW GTEx"
+        color <- "yellow"
+      } else {
+        label <- "GTEx CHECK"
+        color <- "aqua"
+      }
+    }
     
     valueBox(
       value = label,
