@@ -1,0 +1,3 @@
+is_HIGH_MCI_primary,n_genes,n_catalog_hcm_gwas_match,n_nominal_p_lt_0_05,n_FDR_lt_0_05,n_genomewide_p_lt_5e_8,n_top_decile_signal,median_gwas_p,min_gwas_p,median_minus_log10_gwas_p,max_minus_log10_gwas_p,catalog_match_rate,nominal_signal_rate,FDR_signal_rate,genomewide_signal_rate,top_decile_signal_rate
+False,31,3,3,3,2,2,1.0,6e-28,-0.0,27.221848749616356,0.0967741935483871,0.0967741935483871,0.0967741935483871,0.06451612903225806,0.06451612903225806
+True,18,4,4,4,3,3,1.0,3e-67,-0.0,66.52287874528034,0.2222222222222222,0.2222222222222222,0.2222222222222222,0.16666666666666666,0.16666666666666666

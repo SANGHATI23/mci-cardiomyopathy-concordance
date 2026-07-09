@@ -1,0 +1,2 @@
+test,high_validated,high_not_validated,nonhigh_validated,nonhigh_not_validated,odds_ratio,p_value,alternative,strict_validation_definition,important_caveat
+PathA_HIGH_MCI_enriched_for_strict_heldout_validation_GSE160997,2,15,0,29,inf,0.13140096618357489,HIGH MCI genes have greater strict held-out validation rate,heldout matched + same direction as primary consensus + heldout FDR < 0.05,GSE160997 has small control count and was previously treated as sensitivity/held-out only.

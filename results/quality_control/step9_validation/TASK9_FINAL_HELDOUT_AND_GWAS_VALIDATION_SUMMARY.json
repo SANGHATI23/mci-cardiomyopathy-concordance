@@ -1,0 +1,61 @@
+{
+  "step": "MCI STEP 9",
+  "title": "Held-out validation and GWAS convergence validation",
+  "timestamp": "2026-07-09T03:16:46.334882",
+  "pathA_heldout_validation": {
+    "completed": true,
+    "heldout_cohort": "GSE160997",
+    "n_HIGH_MCI_genes": 18,
+    "n_HIGH_matched": 17,
+    "n_HIGH_strict_validated": 2,
+    "HIGH_strict_validation_rate": 0.1176470588235294,
+    "HIGH_directional_validation_rate": 0.5294117647058824,
+    "n_nonHIGH_MCI_genes": 31,
+    "n_nonHIGH_matched": 29,
+    "n_nonHIGH_strict_validated": 0,
+    "nonHIGH_strict_validation_rate": 0.0,
+    "nonHIGH_directional_validation_rate": 0.5172413793103449,
+    "fisher_odds_ratio": Infinity,
+    "fisher_p_value": 0.1314009661835748
+  },
+  "pathB_gwas_convergence": {
+    "completed": true,
+    "method": "GWAS Catalog curated top-association gene-mapping convergence screen",
+    "n_HIGH_MCI_genes": 18,
+    "n_HIGH_catalog_matches": 4,
+    "HIGH_catalog_match_rate": 0.2222222222222222,
+    "n_nonHIGH_MCI_genes": 31,
+    "n_nonHIGH_catalog_matches": 3,
+    "nonHIGH_catalog_match_rate": 0.0967741935483871,
+    "matched_genes": [
+      "ACTN2",
+      "BAG3",
+      "ALPK3",
+      "FLNC",
+      "PLN",
+      "TTN",
+      "CEP85L"
+    ],
+    "HIGH_matched_genes": [
+      "ACTN2",
+      "BAG3",
+      "ALPK3",
+      "FLNC"
+    ],
+    "nonHIGH_matched_genes": [
+      "PLN",
+      "TTN",
+      "CEP85L"
+    ],
+    "best_nominal_test": "PathB_HIGH_MCI_has_larger_minus_log10_GWAS_p",
+    "best_nominal_p_value": 0.1198569912171024,
+    "best_BH_FDR": 0.2532235836055051
+  },
+  "overall_interpretation": "Dual validation is directionally supportive but not statistically definitive. Report both arms honestly with limitations.",
+  "main_limitations": [
+    "GSE160997 is a small held-out/sensitivity cohort with limited controls.",
+    "GWAS Catalog convergence is curated top-association gene mapping, not full SNP-level summary-statistic enrichment.",
+    "Path A and Path B results are not statistically significant after the reported tests."
+  ],
+  "final_interpretation_file": "results/mci_scores/TASK9_FINAL_HELDOUT_AND_GWAS_VALIDATION_INTERPRETATION_SUMMARY.txt"
+}

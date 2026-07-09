@@ -1,0 +1,25 @@
+{
+  "step": "MCI Step 9 GWAS input builder",
+  "method": "GWAS Catalog curated top-association gene-mapping convergence screen",
+  "timestamp": "2026-07-09T03:07:46.369160",
+  "primary_mci_table": "results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv",
+  "gwas_catalog_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/releases/latest/gwas-catalog-associations_ontology-annotated-full.zip",
+  "raw_catalog_zip_file": "data/external/gwas_validation/gwas-catalog-associations_ontology-annotated-full.zip",
+  "catalog_file_used": "data/external/gwas_validation/gwas_catalog_latest_extracted/gwas-catalog-download-associations-alt-full.tsv",
+  "filtered_hcm_catalog_rows": 454,
+  "parsed_gene_association_rows": 748,
+  "unique_catalog_genes_from_hcm_rows": 218,
+  "primary_mci_genes": 49,
+  "primary_mci_genes_with_catalog_hcm_gwas_match": 7,
+  "overlap_genes": [
+    "ACTN2",
+    "ALPK3",
+    "BAG3",
+    "CEP85L",
+    "FLNC",
+    "PLN",
+    "TTN"
+  ],
+  "locked_gwas_output": "data/external/gwas_validation/HCM_GWAS_gene_level_locked.csv",
+  "important_caveat": "Catalog top-association evidence is not the same as full SNP-level summary statistics. Use as conservative convergence screen unless full summary statistics are later downloaded and mapped."
+}

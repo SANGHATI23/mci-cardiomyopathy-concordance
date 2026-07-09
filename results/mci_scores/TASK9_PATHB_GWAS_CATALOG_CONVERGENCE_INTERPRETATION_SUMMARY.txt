@@ -1,0 +1,31 @@
+MCI STEP 9 PATH B — GWAS CATALOG CONVERGENCE VALIDATION COMPLETE
+
+GWAS input:
+- data/external/gwas_validation/HCM_GWAS_gene_level_locked.csv
+
+Primary MCI input:
+- results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv
+
+Validation method:
+- GWAS Catalog curated top-association gene-mapping convergence screen.
+- This is not full SNP-level summary-statistic enrichment.
+- Genes without HCM Catalog gene-level match were assigned conservative p = 1.0 in the locked GWAS file.
+
+Matched MCI genes with HCM GWAS Catalog evidence:
+- ['ACTN2', 'BAG3', 'ALPK3', 'FLNC', 'PLN', 'TTN', 'CEP85L']
+
+HIGH MCI matched genes:
+- ['ACTN2', 'BAG3', 'ALPK3', 'FLNC']
+
+Non-HIGH matched genes:
+- ['PLN', 'TTN', 'CEP85L']
+
+Outputs:
+- Gene-level Path B table: results/mci_scores/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_GENE_LEVEL.csv
+- Summary table: results/quality_control/step9_validation/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_SUMMARY.csv
+- Statistical tests: results/quality_control/step9_validation/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_TESTS.csv
+- Figure 1: results/figures/step9_validation/TASK9_PATHB_GWAS_CATALOG_SIGNAL_BY_MCI_GROUP.png
+- Figure 2: results/figures/step9_validation/TASK9_PATHB_MCI_vs_GWAS_CATALOG_SIGNAL_SCATTER.png
+
+Honest caveat:
+This Path B analysis supports cross-modality convergence screening, but should be described as GWAS Catalog convergence rather than full GWAS summary-statistic enrichment.

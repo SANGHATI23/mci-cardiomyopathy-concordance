@@ -1,0 +1,8 @@
+test,signal_definition,high_signal,high_no_signal,nonhigh_signal,nonhigh_no_signal,odds_ratio,p_value,alternative,BH_FDR_across_PathB_tests
+PathB_HIGH_MCI_enriched_for_catalog_HCM_GWAS_gene_match,catalog_hcm_gwas_match,4.0,14.0,3.0,28.0,2.6666666666666665,0.21357396126666614,HIGH MCI genes have greater GWAS convergence than non-HIGH genes,0.2532235836055051
+PathB_HIGH_MCI_enriched_for_nominal_GWAS_p_lt_0_05,gwas_nominal_p_lt_0_05,4.0,14.0,3.0,28.0,2.6666666666666665,0.21357396126666614,HIGH MCI genes have greater GWAS convergence than non-HIGH genes,0.2532235836055051
+PathB_HIGH_MCI_enriched_for_GWAS_FDR_lt_0_05,gwas_FDR_lt_0_05,4.0,14.0,3.0,28.0,2.6666666666666665,0.21357396126666614,HIGH MCI genes have greater GWAS convergence than non-HIGH genes,0.2532235836055051
+PathB_HIGH_MCI_enriched_for_genomewide_GWAS_p_lt_5e_8,gwas_genomewide_p_lt_5e_8,3.0,15.0,2.0,29.0,2.9,0.2532235836055051,HIGH MCI genes have greater GWAS convergence than non-HIGH genes,0.2532235836055051
+PathB_HIGH_MCI_enriched_for_top_decile_GWAS_signal,gwas_top_decile_signal,3.0,15.0,2.0,29.0,2.9,0.2532235836055051,HIGH MCI genes have greater GWAS convergence than non-HIGH genes,0.2532235836055051
+PathB_HIGH_MCI_has_smaller_GWAS_p_values,continuous_gwas_p_value,,,,,,0.11985699121710247,HIGH MCI genes have smaller GWAS p-values than non-HIGH genes,0.2532235836055051
+PathB_HIGH_MCI_has_larger_minus_log10_GWAS_p,continuous_minus_log10_gwas_p,,,,,,0.11985699121710247,HIGH MCI genes have larger -log10(GWAS p) than non-HIGH genes,0.2532235836055051

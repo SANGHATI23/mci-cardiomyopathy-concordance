@@ -1,0 +1,42 @@
+{
+  "step": "MCI STEP 9 Path B",
+  "validation_arm": "GWAS convergence",
+  "method": "GWAS Catalog curated top-association gene-mapping convergence screen",
+  "primary_mci_input": "results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv",
+  "gwas_locked_input": "data/external/gwas_validation/HCM_GWAS_gene_level_locked.csv",
+  "n_primary_mci_genes": 49,
+  "n_HIGH_MCI_genes": 18,
+  "n_nonHIGH_MCI_genes": 31,
+  "n_catalog_matched_mci_genes": 7,
+  "n_catalog_matched_HIGH_MCI_genes": 4,
+  "n_catalog_matched_nonHIGH_MCI_genes": 3,
+  "catalog_matched_genes": [
+    "ACTN2",
+    "BAG3",
+    "ALPK3",
+    "FLNC",
+    "PLN",
+    "TTN",
+    "CEP85L"
+  ],
+  "HIGH_catalog_matched_genes": [
+    "ACTN2",
+    "BAG3",
+    "ALPK3",
+    "FLNC"
+  ],
+  "nonHIGH_catalog_matched_genes": [
+    "PLN",
+    "TTN",
+    "CEP85L"
+  ],
+  "outputs": {
+    "gene_level": "results/mci_scores/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_GENE_LEVEL.csv",
+    "summary": "results/quality_control/step9_validation/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_SUMMARY.csv",
+    "tests": "results/quality_control/step9_validation/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_TESTS.csv",
+    "figure_signal_by_group": "results/figures/step9_validation/TASK9_PATHB_GWAS_CATALOG_SIGNAL_BY_MCI_GROUP.png",
+    "figure_mci_vs_gwas": "results/figures/step9_validation/TASK9_PATHB_MCI_vs_GWAS_CATALOG_SIGNAL_SCATTER.png",
+    "interpretation": "results/mci_scores/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_INTERPRETATION_SUMMARY.txt"
+  },
+  "important_caveat": "GWAS Catalog top-association gene mapping is not equivalent to full SNP-level GWAS enrichment."
+}

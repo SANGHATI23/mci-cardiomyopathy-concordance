@@ -1,0 +1,26 @@
+MCI STEP 9 PATH A — HELD-OUT VALIDATION COMPLETE
+
+Held-out cohort:
+- GSE160997 HCM vs Control.
+- This cohort was not used in primary HCM MCI computation.
+- It is used here as held-out/sensitivity validation because it has a small control group.
+
+Primary input:
+- results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv
+
+Held-out input:
+- results/differential_expression/GSE160997/GSE160997_HELDOUT_HCM_vs_Control_locked_HCM_MCI_target_genes.csv
+
+Strict validation definition:
+- Gene matched in held-out table.
+- Held-out log2FC direction matches the primary HCM consensus direction.
+- Held-out FDR < 0.05.
+
+Outputs:
+- Gene-level Path A table: results/mci_scores/TASK9_PATHA_HELDOUT_GSE160997_VALIDATION_GENE_LEVEL.csv
+- Summary table: results/quality_control/step9_validation/TASK9_PATHA_HELDOUT_GSE160997_VALIDATION_SUMMARY.csv
+- Fisher test: results/quality_control/step9_validation/TASK9_PATHA_HELDOUT_GSE160997_FISHER_TEST.csv
+- Figure: results/figures/step9_validation/TASK9_PATHA_HELDOUT_GSE160997_VALIDATION_RATE.png
+
+Main caution:
+GSE160997 should be reported honestly as a small held-out/sensitivity cohort, not as a large definitive validation cohort.

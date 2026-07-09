@@ -1,0 +1,40 @@
+MCI STEP 9 — HELD-OUT VALIDATION AND GWAS CONVERGENCE VALIDATION COMPLETE
+
+Step 9 status:
+- Path A held-out validation: COMPLETE.
+- Path B GWAS convergence validation: COMPLETE.
+
+Path A held-out validation:
+- Held-out cohort: GSE160997 HCM vs Control.
+- GSE160997 was not used in the primary HCM MCI calculation.
+- Strict validation was defined as: matched in held-out table + same direction as primary HCM consensus + held-out FDR < 0.05.
+- HIGH MCI strict validation: 2 / 17 matched HIGH genes.
+- Non-HIGH strict validation: 0 / 29 matched non-HIGH genes.
+- Fisher p-value: 0.1314009661835748.
+- Interpretation: directionally supportive but not statistically significant. GSE160997 must be reported as a small held-out/sensitivity cohort.
+
+Path B GWAS convergence:
+- Method: GWAS Catalog curated top-association gene-mapping convergence screen.
+- HIGH MCI GWAS Catalog matches: 4 / 18.
+- Non-HIGH GWAS Catalog matches: 3 / 31.
+- HIGH matched genes: ['ACTN2', 'BAG3', 'ALPK3', 'FLNC'].
+- Non-HIGH matched genes: ['PLN', 'TTN', 'CEP85L'].
+- Best Path B nominal p-value: 0.1198569912171024.
+- Best Path B BH-FDR: 0.2532235836055051.
+- Interpretation: directionally supportive enrichment/convergence, but not statistically significant after testing.
+
+Honest manuscript framing:
+Step 9 provides dual external validation evidence that is supportive in direction but not statistically definitive.
+This should not be overclaimed. The strongest claim is that high-concordance HCM genes show partial replication in a small held-out cohort and partial cross-modality convergence with curated HCM GWAS Catalog associations.
+
+Important limitations:
+1. GSE160997 has a small control group and was previously treated as sensitivity/held-out only.
+2. GWAS Catalog convergence uses curated top-association gene mapping, not full SNP-level GWAS summary-statistic enrichment.
+3. Non-significant validation results must be reported as limitations rather than hidden.
+
+Main Step 9 outputs:
+- Path A gene-level table: results/mci_scores/TASK9_PATHA_HELDOUT_GSE160997_VALIDATION_GENE_LEVEL.csv
+- Path A summary: results/quality_control/step9_validation/TASK9_PATHA_HELDOUT_GSE160997_VALIDATION_SUMMARY.csv
+- Path B gene-level table: results/mci_scores/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_GENE_LEVEL.csv
+- Path B summary: results/quality_control/step9_validation/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_SUMMARY.csv
+- Path B tests: results/quality_control/step9_validation/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_TESTS.csv

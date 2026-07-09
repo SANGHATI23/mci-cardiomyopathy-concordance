@@ -1,0 +1,16 @@
+{
+  "step": "MCI STEP 9 Path A",
+  "validation_arm": "held-out HCM validation",
+  "heldout_cohort": "GSE160997",
+  "primary_mci_input": "results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv",
+  "heldout_de_input": "results/differential_expression/GSE160997/GSE160997_HELDOUT_HCM_vs_Control_locked_HCM_MCI_target_genes.csv",
+  "n_primary_mci_genes": 49,
+  "n_primary_HIGH_MCI_genes": 18,
+  "n_heldout_matched_genes": 46,
+  "n_HIGH_strict_validated": 2,
+  "n_nonHIGH_strict_validated": 0,
+  "fisher_odds_ratio": Infinity,
+  "fisher_p_value": 0.13140096618357489,
+  "strict_validation_definition": "matched + same direction + heldout FDR < 0.05",
+  "caveat": "GSE160997 has small control count; interpret as held-out/sensitivity validation."
+}
