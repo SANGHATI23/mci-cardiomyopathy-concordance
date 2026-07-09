@@ -17,14 +17,10 @@
     "INSUFFICIENT_COVERAGE": 5
   },
   "bootstrap_majority_tier_counts": {
-    "INSUFFICIENT_COVERAGE": 21,
-    "UNSTABLE": 10,
-    "HIGH": 9,
-    "NaN": 5,
-    "MODERATE": 5
+    "NOT_ESTIMATED_TWO_COHORT_DCM": 50
   },
   "n_h4_dcm_genes": 7,
   "h4_results_file": "results/mci_scores/TASK8_DCM_H4_MannWhitney_result.csv",
   "cross_disease_comparison_file": "results/mci_scores/TASK8_HCM_vs_DCM_cross_disease_comparison.csv",
-  "main_output": "results/mci_scores/TASK8_FINAL_DCM_MCI_GENERALIZATION_WITH_BOOTSTRAP_CI.csv"
+  "main_output": "results/mci_scores/TASK8_FINAL_DCM_MCI_GENERALIZATION_TWO_COHORT_DIAGNOSTIC.csv"
 }

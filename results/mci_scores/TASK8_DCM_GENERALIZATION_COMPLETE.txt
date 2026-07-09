@@ -1,4 +1,4 @@
 TASK8 DCM GENERALIZATION COMPLETE
-Main output: results/mci_scores/TASK8_FINAL_DCM_MCI_GENERALIZATION_WITH_BOOTSTRAP_CI.csv
+Main output: results/mci_scores/TASK8_FINAL_DCM_MCI_GENERALIZATION_TWO_COHORT_DIAGNOSTIC.csv
 Summary JSON: results/quality_control/dcm_generalization/TASK8_DCM_GENERALIZATION_SUMMARY.json
 Manifest: results/quality_control/dcm_generalization/TASK8_DCM_GENERALIZATION_FILE_MANIFEST.csv

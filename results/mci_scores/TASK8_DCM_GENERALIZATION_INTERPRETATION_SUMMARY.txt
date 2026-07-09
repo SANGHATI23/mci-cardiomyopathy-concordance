@@ -8,9 +8,8 @@ DCM genes scored: 50
 Tier counts: {'HIGH': 19, 'UNSTABLE': 17, 'MODERATE': 9, 'INSUFFICIENT_COVERAGE': 5}
 
 Primary DCM H4 generalization test:
-               score       low_group         high_group  n_low  n_high  median_low  median_high  median_difference_high_minus_low  mannwhitney_U  p_value_directional_low_less_than_high test_status  BH_FDR_p_value
-                 MCI DCM_TTN_related DCM_RNA_processing      3       3    0.662476         0.25                         -0.412476            6.0                                     0.8          OK             0.8
-bootstrap_median_MCI DCM_TTN_related DCM_RNA_processing      3       3    0.662476         0.25                         -0.412476            6.0                                     0.8          OK             0.8
+score       low_group         high_group  n_low  n_high  median_low  median_high  median_difference_high_minus_low  mannwhitney_U  p_value_directional_low_less_than_high test_status  BH_FDR_p_value
+  MCI DCM_TTN_related DCM_RNA_processing      3       3    0.662476         0.25                         -0.412476            6.0                                     0.8          OK             0.8
 
 Cross-disease comparison:
                                    comparison          hcm_group          dcm_group  n_hcm  n_dcm  median_hcm_MCI  median_dcm_MCI  median_dcm_minus_hcm  mannwhitney_U  p_value_two_sided test_status
