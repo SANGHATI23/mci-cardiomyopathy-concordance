@@ -1,0 +1,3 @@
+comparison,hcm_group,dcm_group,n_hcm,n_dcm,median_hcm_MCI,median_dcm_MCI,median_dcm_minus_hcm,mannwhitney_U,p_value_two_sided,test_status
+protein_contractile_or_TTN_related_similarity,HCM_sarcomeric,DCM_TTN_related,8,3,0.34245846662279644,0.6624764392918125,0.3200179726690161,6.0,0.2787878787878788,OK
+regulatory_or_RNA_processing_similarity,HCM_non_sarcomeric,DCM_RNA_processing,7,3,0.6431434629210778,0.25,-0.3931434629210778,15.0,0.3833333333333333,OK

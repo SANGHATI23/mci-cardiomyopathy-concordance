@@ -327,3 +327,34 @@ credentials.json
 __pycache__/
 *.pyc
 .DS_Store
+
+
+# MCI safety exclusions
+data/raw/
+data/external/
+*.tar
+*.tar.gz
+*.zip
+*.gz
+*.vcf
+*.vcf.gz
+*.gct
+*.gct.gz
+*.bam
+*.cram
+*.fastq
+*.fq
+*.h5
+*.hdf5
+*.rds
+*.RData
+*.env
+*token*
+*secret*
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large expression matrices stay Drive/Zenodo-only
+data/processed/expression_matrices/*expression_matrix*
+data/processed/expression_matrices/*matrix*
