@@ -1,0 +1,11 @@
+{
+  "step": "MCI Step 10",
+  "task": "Build Shiny concordance browser",
+  "created_at": "2026-07-09T04:23:16.364149",
+  "app_dir": "/content/drive/MyDrive/MCI_Project/shiny_app/mci_concordance_browser",
+  "app_file": "/content/drive/MyDrive/MCI_Project/shiny_app/mci_concordance_browser/app.R",
+  "mci_rows": 49,
+  "de_rows": 139,
+  "unique_genes": 49,
+  "status": "COMPLETE_LOCAL_BROWSER_BUILD_READY_FOR_TESTING_AND_GITHUB_PUSH"
+}

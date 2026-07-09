@@ -1,0 +1,5 @@
+relative_path,size_mb,github_safe
+shiny_app/mci_concordance_browser/app.R,0.0111,True
+shiny_app/mci_concordance_browser/README.md,0.0011,True
+shiny_app/mci_concordance_browser/data/mci_concordance_table.csv,0.0405,True
+shiny_app/mci_concordance_browser/data/mci_per_cohort_de_table.csv,0.0348,True
