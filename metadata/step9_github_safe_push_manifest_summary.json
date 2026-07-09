@@ -1,0 +1,8 @@
+{
+  "step": "STEP_9_GITHUB_SAFE_PUSH_MANIFEST",
+  "timestamp_utc": "2026-07-09T22:20:51.411041+00:00",
+  "n_safe_files_detected": 36,
+  "manifest_path": "results/quality_control/resource_tables/STEP9_GITHUB_SAFE_RESOURCE_PUSH_MANIFEST.csv",
+  "all_manifest_entries_safe": true,
+  "unsafe_entries": []
+}

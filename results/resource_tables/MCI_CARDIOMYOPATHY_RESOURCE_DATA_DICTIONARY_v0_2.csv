@@ -1,0 +1,19 @@
+column,description
+gene_symbol,HGNC-style gene symbol used as the primary resource key.
+disease_group,Primary disease context for the row.
+source_resource_layer,Resource layer from which the row was generated.
+stratum,Pre-specified biological mechanism group where available.
+MCI,Primary Molecular Concordance Index.
+Adj_MCI,GTEx-adjusted MCI.
+MCI_tier,Primary MCI tier classification.
+bootstrap_majority_tier,Most frequent tier across bootstrap resampling.
+MCI_CI95_lower,Lower bootstrap 95 percent CI bound.
+MCI_CI95_upper,Upper bootstrap 95 percent CI bound.
+sigma_disease,Disease-side cross-cohort log2FC variability.
+sigma_GTEx,GTEx v8 Heart - Left Ventricle normal expression variability.
+sigma_disease_to_GTEx_ratio,Disease variability divided by GTEx normal baseline variability.
+GTEx_low_confidence_flag,True where disease variability does not exceed GTEx baseline variability.
+GTEx_adjustment_status,Interpretive GTEx adjustment label.
+resource_interpretation,Plain-language interpretation for database/browser display.
+DCM_MCI_if_available,"DCM generalization MCI value, where available."
+DCM_tier_if_available,"DCM tier, where available."

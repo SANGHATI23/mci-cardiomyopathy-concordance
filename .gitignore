@@ -361,3 +361,9 @@ data/processed/expression_matrices/*matrix*
 
 # Shiny runtime logs
 shiny_app/mci_concordance_browser/shiny_log.txt
+# Resource reframe safety rules
+# Large/raw biological data should not be committed
+*gene_symbol_matrix*.csv
+*raw_CODE*.csv
+# Local runtime files
+.Rhistory

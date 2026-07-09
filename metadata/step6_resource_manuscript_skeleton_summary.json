@@ -1,0 +1,19 @@
+{
+  "step": "STEP_6_RESOURCE_MANUSCRIPT_SKELETON",
+  "timestamp_utc": "2026-07-09T21:53:53.755621+00:00",
+  "manuscript_skeleton": "manuscript/resource_paper/05_RESOURCE_PAPER_MANUSCRIPT_SKELETON.md",
+  "top_high_table": "manuscript/resource_paper/TABLE_top_high_concordance_HCM_genes_v0_2.csv",
+  "unstable_table": "manuscript/resource_paper/TABLE_most_unstable_HCM_genes_v0_2.csv",
+  "n_genes": 49,
+  "tier_counts": {
+    "UNSTABLE": 21,
+    "HIGH": 18,
+    "MODERATE": 8,
+    "INSUFFICIENT_COHORT_COVERAGE": 2
+  },
+  "gtex_low_confidence_counts": {
+    "True": 46,
+    "False": 3
+  },
+  "n_with_dcm_entry": 22
+}
