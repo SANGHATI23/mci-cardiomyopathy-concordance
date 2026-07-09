@@ -1,0 +1,13 @@
+{
+  "step": "STEP_2_RESOURCE_FRAMING_FILES",
+  "timestamp_utc": "2026-07-09T21:25:50.931090Z",
+  "files_created": [
+    "/content/drive/MyDrive/MCI_Project/mci-cardiomyopathy-concordance/manuscript/resource_paper/00_RESOURCE_PAPER_POSITIONING.md",
+    "/content/drive/MyDrive/MCI_Project/mci-cardiomyopathy-concordance/manuscript/resource_paper/01_REVISED_RESOURCE_ABSTRACT.md",
+    "/content/drive/MyDrive/MCI_Project/mci-cardiomyopathy-concordance/manuscript/resource_paper/02_REVISED_CONTRIBUTIONS.md",
+    "/content/drive/MyDrive/MCI_Project/mci-cardiomyopathy-concordance/manuscript/resource_paper/03_RESOURCE_MANUSCRIPT_OUTLINE.md",
+    "/content/drive/MyDrive/MCI_Project/mci-cardiomyopathy-concordance/manuscript/resource_paper/README.md",
+    "/content/drive/MyDrive/MCI_Project/mci-cardiomyopathy-concordance/docs/resource_framing/CLAIM_BOUNDARY_STATEMENT.md"
+  ],
+  "purpose": "Reframe the MCI cardiomyopathy project as a resource/database paper rather than a discovery article."
+}

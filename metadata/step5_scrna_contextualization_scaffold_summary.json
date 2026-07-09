@@ -1,0 +1,12 @@
+{
+  "step": "STEP_5_scRNA_CONTEXTUALIZATION_MODULE_SCAFFOLD",
+  "timestamp_utc": "2026-07-09T21:50:17.924756+00:00",
+  "n_target_genes": 49,
+  "files_created": [
+    "results/resource_tables/MCI_scRNA_contextualization_target_gene_list_v0_1.csv",
+    "scripts/scrna_contextualization/README.md",
+    "scripts/scrna_contextualization/run_scrna_contextualization.py",
+    "manuscript/resource_paper/04_OPTIONAL_scRNA_CONTEXTUALIZATION_MODULE_TEXT.md"
+  ],
+  "status": "Scaffold created. Dataset selection and execution pending."
+}

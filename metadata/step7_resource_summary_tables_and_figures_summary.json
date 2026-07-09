@@ -1,0 +1,27 @@
+{
+  "step": "STEP_7_RESOURCE_SUMMARY_TABLES_AND_FIGURES",
+  "timestamp_utc": "2026-07-09T21:57:07.992986+00:00",
+  "input_master_table": "results/resource_tables/MCI_CARDIOMYOPATHY_RESOURCE_MASTER_TABLE_v0_2.csv",
+  "tables_created": [
+    "results/resource_tables/RESOURCE_SUMMARY_MCI_TIER_COUNTS_v0_2.csv",
+    "results/resource_tables/RESOURCE_SUMMARY_GTEx_CONFIDENCE_COUNTS_v0_2.csv",
+    "results/resource_tables/MCI_BROWSER_READY_DISPLAY_TABLE_v0_2.csv"
+  ],
+  "figures_created": [
+    "results/figures/resource_paper/RESOURCE_FIGURE_MCI_TIER_DISTRIBUTION_v0_2.png",
+    "results/figures/resource_paper/RESOURCE_FIGURE_MCI_vs_GTEx_RATIO_v0_2.png",
+    "results/figures/resource_paper/RESOURCE_FIGURE_GTEx_CONFIDENCE_DISTRIBUTION_v0_2.png",
+    "results/figures/resource_paper/RESOURCE_FIGURE_TOP20_HCM_MCI_GENES_v0_2.png"
+  ],
+  "n_genes": 49,
+  "tier_counts": {
+    "HIGH": 18,
+    "MODERATE": 8,
+    "UNSTABLE": 21,
+    "INSUFFICIENT_COHORT_COVERAGE": 2
+  },
+  "gtex_counts": {
+    "True": 46,
+    "False": 3
+  }
+}
