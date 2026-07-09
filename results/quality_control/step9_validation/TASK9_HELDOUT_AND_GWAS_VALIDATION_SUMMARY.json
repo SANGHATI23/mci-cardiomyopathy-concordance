@@ -1,0 +1,21 @@
+{
+  "step": "MCI STEP 9",
+  "title": "Held-out validation and GWAS convergence validation",
+  "timestamp": "2026-07-09T00:58:04.287983",
+  "project_root": "/content/drive/MyDrive/MCI_Project",
+  "primary_mci_input": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv",
+  "clean_hcm_de_input": "/content/drive/MyDrive/MCI_Project/results/mci_scores/TASK4_CODE23_HCM_only_clean_DE_input_used_for_MCI.csv",
+  "n_primary_mci_genes": 49,
+  "n_primary_HIGH_MCI_genes": 18,
+  "pathA_heldout_validation_completed": false,
+  "pathA_heldout_input": null,
+  "pathB_gwas_validation_completed": false,
+  "pathB_gwas_input": "/content/drive/MyDrive/MCI_Project/data/external/gwas_validation/HCM_GWAS_gene_level_locked.csv",
+  "created_files": [],
+  "notes": [
+    "Path A requires a locked held-out HCM DE target-gene table not used in primary MCI computation.",
+    "Path B requires locked gene-level HCM GWAS summary statistics.",
+    "If one validation resource is absent, the code creates templates and records that the validation arm is pending.",
+    "Raw GWAS files, raw GEO files, large matrices, and secrets should not be pushed to GitHub."
+  ]
+}

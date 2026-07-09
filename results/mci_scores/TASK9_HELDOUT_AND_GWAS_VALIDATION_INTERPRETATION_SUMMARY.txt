@@ -1,0 +1,11 @@
+MCI STEP 9 — Held-out validation and GWAS convergence validation
+
+Primary HCM MCI input: TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv
+Primary MCI genes evaluated: 49
+Primary HIGH MCI genes: 18
+
+Path A held-out validation remains pending because no locked held-out HCM DE table was provided.
+
+Path B GWAS convergence validation remains pending because no filled gene-level HCM GWAS file was provided.
+
+Honest reporting rule: report both validation arms regardless of outcome. Non-significant GWAS convergence is a limitation, not a failed project.

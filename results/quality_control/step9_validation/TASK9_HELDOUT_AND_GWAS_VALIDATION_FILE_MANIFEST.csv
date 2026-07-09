@@ -1,0 +1,4 @@
+file,exists,size_mb,github_safe,purpose
+results/quality_control/step9_validation/TASK9_HELDOUT_AND_GWAS_VALIDATION_SUMMARY.json,True,0.001140594482421875,True,MCI Step 9 validation output
+results/mci_scores/TASK9_HELDOUT_AND_GWAS_VALIDATION_INTERPRETATION_SUMMARY.txt,True,0.0005283355712890625,True,MCI Step 9 validation output
+results/mci_scores/TASK9_HELDOUT_AND_GWAS_VALIDATION_COMPLETE.txt,True,0.000217437744140625,True,MCI Step 9 validation output
