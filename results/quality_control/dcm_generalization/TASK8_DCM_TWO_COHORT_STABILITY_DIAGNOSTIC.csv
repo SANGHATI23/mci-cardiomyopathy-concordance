@@ -1,0 +1,51 @@
+gene_symbol,n_dcm_cohorts_available,cohorts_available,same_direction_across_two_DCM_cohorts,both_DCM_cohorts_FDR_lt_0_05,one_or_more_DCM_cohorts_FDR_lt_0_05,absolute_log2FC_difference_between_DCM_cohorts,note
+ABCC9,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.4597338234925256,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+ACTC1,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,False,0.040766847985171495,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+ACTN2,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.1340830603326504,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+BAG3,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.1731530158822823,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+CCDC30,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.3482761597753235,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+CEP85L,1,GSE141910_DCM,,,,,Insufficient DCM cohort coverage.
+CSRP3,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.3357004092171892,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+DES,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.0048556166098805,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+DMD,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.37574309759433955,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+DSG2,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.4737715265040316,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+DSP,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.5944413999041398,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+EMD,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.2645224143686552,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+EYA4,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.7561467401009231,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+FKTN,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.2872587854799109,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+FLNC,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.3635081960489339,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+GATA4,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,False,0.10701107420091639,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+KIF5B,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.23942224708663312,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+LAMP2,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.3446664248368858,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+LDB3,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,True,0.1814962501081724,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+LMNA,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,True,0.2068051885667973,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+MT-TI,1,GSE141910_DCM,,,,,Insufficient DCM cohort coverage.
+MYBPC3,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.0499190548411841,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+MYH7,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.1572188021722454,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+MYPN,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,True,0.4627175142980952,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+NCAPH2,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.2882885275858219,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+NEXN,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,True,0.3058816646783374,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+NKX2-5,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.2372405196679597,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+PLN,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.3207608583845268,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+PMS2,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.17282754383574828,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+PPCS,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.10580390918690069,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+PPP1R13L,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,False,0.1114556560807606,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+PSEN1,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.1351800998597166,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+RAF1,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.10071902488009071,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+RBM20,1,GSE141910_DCM,,,,,Insufficient DCM cohort coverage.
+RNF220,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.0328936272719291,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+SCN5A,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.2759601782742442,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+SCO2,1,GSE57338_DCM_HF,,,,,Insufficient DCM cohort coverage.
+SDHA,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.095145852020007,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+SGCB,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.2692491622837014,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+SGCD,2,GSE141910_DCM;GSE57338_DCM_HF,False,True,True,0.4035715717914891,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TAB2,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.31344242736916517,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TARID,1,GSE141910_DCM,,,,,Insufficient DCM cohort coverage.
+TCAP,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,True,0.20297270933124328,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TMEM43,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.0037074819240299206,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TNNC1,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.16403517616884591,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TNNI3,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.4681436825830545,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TNNT2,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,False,0.061598844462737994,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TPM1,2,GSE141910_DCM;GSE57338_DCM_HF,False,False,True,0.1073506299608774,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TSFM,2,GSE141910_DCM;GSE57338_DCM_HF,True,True,True,0.002861464914973008,Two-cohort DCM diagnostic; percentile bootstrap not estimated.
+TTN,2,GSE141910_DCM;GSE57338_DCM_HF,True,False,True,0.474479912398234,Two-cohort DCM diagnostic; percentile bootstrap not estimated.

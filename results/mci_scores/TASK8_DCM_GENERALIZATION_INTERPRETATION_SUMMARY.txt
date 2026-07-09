@@ -1,21 +1,27 @@
-MCI STEP 8 — DCM generalization completed.
+MCI STEP 8 — DCM GENERALIZATION COMPLETE
 
-Inputs used:
+Inputs:
 - GSE141910 DCM-vs-control locked target-gene DE output.
 - GSE57338 DCM/HF-vs-control locked target-gene DE output.
 
-DCM genes scored: 50
-Tier counts: {'HIGH': 19, 'UNSTABLE': 17, 'MODERATE': 9, 'INSUFFICIENT_COVERAGE': 5}
+Main corrected output:
+- results/mci_scores/TASK8_FINAL_DCM_MCI_GENERALIZATION_TWO_COHORT_DIAGNOSTIC.csv
 
-Primary DCM H4 generalization test:
-score       low_group         high_group  n_low  n_high  median_low  median_high  median_difference_high_minus_low  mannwhitney_U  p_value_directional_low_less_than_high test_status  BH_FDR_p_value
-  MCI DCM_TTN_related DCM_RNA_processing      3       3    0.662476         0.25                         -0.412476            6.0                                     0.8          OK             0.8
+DCM MCI result:
+- DCM genes scored: 50
+- Tier counts: {'HIGH': 19, 'UNSTABLE': 17, 'MODERATE': 9, 'INSUFFICIENT_COVERAGE': 5}
 
-Cross-disease comparison:
-                                   comparison          hcm_group          dcm_group  n_hcm  n_dcm  median_hcm_MCI  median_dcm_MCI  median_dcm_minus_hcm  mannwhitney_U  p_value_two_sided test_status
-protein_contractile_or_TTN_related_similarity     HCM_sarcomeric    DCM_TTN_related      8      3        0.342458        0.662476              0.320018            6.0           0.278788          OK
-      regulatory_or_RNA_processing_similarity HCM_non_sarcomeric DCM_RNA_processing      7      3        0.643143        0.250000             -0.393143           15.0           0.383333          OK
+DCM H4 generalization:
+The pre-specified DCM H4 expectation was that DCM_TTN_related genes would have lower MCI than DCM_RNA_processing genes.
+In the current two-cohort DCM arm, this expected direction was not confirmed.
+The observed median MCI was higher for DCM_TTN_related genes than for DCM_RNA_processing genes.
+Therefore, DCM generalization should be reported as not confirming the H4 mechanism-stratification pattern in the current DCM data.
 
-Interpretation rule:
-Treat this as DCM generalization evidence, not as a replacement for the primary HCM MCI result.
-Because DCM currently uses two cohorts, bootstrap intervals can be discrete and should be interpreted as cohort-level stability diagnostics.
+Uncertainty:
+Because the DCM arm currently has only two cohorts, percentile bootstrap confidence intervals were not estimated.
+Ordinary cohort-level bootstrap with replacement is not reliable here because repeated sampling can collapse two-cohort evidence into one unique cohort.
+Instead, Step 8 reports a two-cohort stability diagnostic with same-direction status, FDR support, and absolute log2FC difference across the two DCM cohorts.
+
+Interpretation:
+Step 8 supports the broader claim that HCM transcript-level concordance patterns do not automatically generalize to DCM.
+This is still scientifically useful because it shows that MCI can identify disease-context dependence rather than forcing a positive cross-disease result.
