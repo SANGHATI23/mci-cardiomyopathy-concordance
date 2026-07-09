@@ -176,12 +176,26 @@ server <- function(input, output, session) {
   output$gtexBox <- renderValueBox({
     x <- selected_mci()
     flag <- ifelse(nrow(x) == 0, NA, x$GTEx_low_confidence_flag[1])
-    label <- ifelse(isTRUE(flag) || flag == TRUE, "LOW CONF", "OK / CHECK")
-    color <- ifelse(isTRUE(flag) || flag == TRUE, "red", "green")
+    status <- ifelse(nrow(x) == 0, NA, as.character(x$GTEx_adjustment_status[1]))
+    
+    label <- ifelse(
+      isTRUE(flag) || flag == TRUE,
+      "GTEx BASELINE",
+      ifelse(grepl("EXCEEDS", status, ignore.case = TRUE), "EXCEEDS GTEx", "GTEx CHECK")
+    )
+    
+    # Important: LOW CONF is not colored red because it is a separate evidence axis,
+    # not the same thing as an UNSTABLE MCI tier.
+    color <- ifelse(
+      isTRUE(flag) || flag == TRUE,
+      "yellow",
+      ifelse(grepl("EXCEEDS", status, ignore.case = TRUE), "purple", "aqua")
+    )
+    
     valueBox(
       value = label,
-      subtitle = "GTEx confidence flag",
-      icon = icon("triangle-exclamation"),
+      subtitle = "GTEx baseline status",
+      icon = icon("scale-balanced"),
       color = color
     )
   })
@@ -196,7 +210,21 @@ server <- function(input, output, session) {
       "sigma_disease", "sigma_GTEx", "sigma_disease_to_GTEx_ratio",
       "GTEx_low_confidence_flag", "GTEx_adjustment_status"
     ), names(x))
-    datatable(x[, keep, drop = FALSE], options = list(scrollX = TRUE, pageLength = 5))
+    
+    out <- x[, keep, drop = FALSE]
+    
+    # Display formatting only. Raw CSV stays full precision.
+    numeric_cols <- intersect(c(
+      "MCI", "Adj_MCI", "MCI_CI95_lower", "MCI_CI95_upper",
+      "bootstrap_prob_HIGH", "bootstrap_prob_MODERATE", "bootstrap_prob_UNSTABLE",
+      "sigma_disease", "sigma_GTEx", "sigma_disease_to_GTEx_ratio"
+    ), names(out))
+    
+    for (cc in numeric_cols) {
+      out[[cc]] <- ifelse(is.na(out[[cc]]), NA, sprintf("%.3f", as.numeric(out[[cc]])))
+    }
+    
+    datatable(out, options = list(scrollX = TRUE, pageLength = 5))
   })
   
   output$deTable <- renderDT({
