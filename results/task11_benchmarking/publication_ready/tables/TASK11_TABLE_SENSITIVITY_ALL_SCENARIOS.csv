@@ -1,0 +1,40 @@
+analysis_family,perturbation,scenario_type,genes_evaluable,rank_agreement,tier_changes_n,tier_changes_percent,high_recall
+Weight sensitivity,PRIMARY_40D_35S_25R,Primary,47,1.0,0,0.0,1.0
+Weight sensitivity,EQUAL_33D_33S_33R,Equal weight,47,0.9989565822271173,2,4.25531914893617,1.0
+Weight sensitivity,ALT_45D_35S_20R,Plausible alternative,47,0.9984928409947248,2,4.25531914893617,1.0
+Weight sensitivity,ALT_35D_40S_25R,Plausible alternative,47,0.9984928409947248,1,2.127659574468085,1.0
+Weight sensitivity,ALT_35D_30S_35R,Plausible alternative,47,0.997333487913744,2,4.25531914893617,1.0
+Weight sensitivity,DIRECTION_HEAVY_55D_25S_20R,Component-heavy adversarial,47,0.9998840646919018,4,8.51063829787234,1.0
+Weight sensitivity,CONSISTENCY_HEAVY_25D_55S_20R,Component-heavy adversarial,47,0.9960581995246652,4,8.51063829787234,0.9444444444444444
+Weight sensitivity,REPRODUCIBILITY_HEAVY_25D_20S_55R,Component-heavy adversarial,47,0.9777404208451684,11,23.404255319148938,0.9444444444444444
+Weight sensitivity,LEAVE_OUT_R_RENORMALIZED,Leave-one-component-out,47,0.9734737742157082,5,10.638297872340424,0.8888888888888888
+Weight sensitivity,LEAVE_OUT_S_RENORMALIZED,Leave-one-component-out,47,0.9752604466602252,14,29.78723404255319,1.0
+Weight sensitivity,LEAVE_OUT_D_RENORMALIZED,Leave-one-component-out,47,0.9701576579562692,19,40.42553191489362,1.0
+Threshold sensitivity,MODERATE=0.400; HIGH=0.650,Threshold-grid alternative,47,1.0,6,12.76595744680851,
+Threshold sensitivity,MODERATE=0.400; HIGH=0.675,Threshold-grid alternative,47,1.0,5,10.638297872340424,
+Threshold sensitivity,MODERATE=0.400; HIGH=0.700,Threshold-grid alternative,47,1.0,3,6.382978723404255,
+Threshold sensitivity,MODERATE=0.400; HIGH=0.725,Threshold-grid alternative,47,1.0,4,8.51063829787234,
+Threshold sensitivity,MODERATE=0.400; HIGH=0.750,Threshold-grid alternative,47,1.0,5,10.638297872340424,
+Threshold sensitivity,MODERATE=0.425; HIGH=0.650,Threshold-grid alternative,47,1.0,4,8.51063829787234,
+Threshold sensitivity,MODERATE=0.425; HIGH=0.675,Threshold-grid alternative,47,1.0,3,6.382978723404255,
+Threshold sensitivity,MODERATE=0.425; HIGH=0.700,Threshold-grid alternative,47,1.0,1,2.127659574468085,
+Threshold sensitivity,MODERATE=0.425; HIGH=0.725,Threshold-grid alternative,47,1.0,2,4.25531914893617,
+Threshold sensitivity,MODERATE=0.425; HIGH=0.750,Threshold-grid alternative,47,1.0,3,6.382978723404255,
+Threshold sensitivity,MODERATE=0.450; HIGH=0.650,Threshold-grid alternative,47,1.0,3,6.382978723404255,
+Threshold sensitivity,MODERATE=0.450; HIGH=0.675,Threshold-grid alternative,47,1.0,2,4.25531914893617,
+Threshold sensitivity,MODERATE=0.450; HIGH=0.700,Primary,47,1.0,0,0.0,
+Threshold sensitivity,MODERATE=0.450; HIGH=0.725,Threshold-grid alternative,47,1.0,1,2.127659574468085,
+Threshold sensitivity,MODERATE=0.450; HIGH=0.750,Threshold-grid alternative,47,1.0,2,4.25531914893617,
+Threshold sensitivity,MODERATE=0.475; HIGH=0.650,Threshold-grid alternative,47,1.0,3,6.382978723404255,
+Threshold sensitivity,MODERATE=0.475; HIGH=0.675,Threshold-grid alternative,47,1.0,2,4.25531914893617,
+Threshold sensitivity,MODERATE=0.475; HIGH=0.700,Threshold-grid alternative,47,1.0,0,0.0,
+Threshold sensitivity,MODERATE=0.475; HIGH=0.725,Threshold-grid alternative,47,1.0,1,2.127659574468085,
+Threshold sensitivity,MODERATE=0.475; HIGH=0.750,Threshold-grid alternative,47,1.0,2,4.25531914893617,
+Threshold sensitivity,MODERATE=0.500; HIGH=0.650,Threshold-grid alternative,47,1.0,3,6.382978723404255,
+Threshold sensitivity,MODERATE=0.500; HIGH=0.675,Threshold-grid alternative,47,1.0,2,4.25531914893617,
+Threshold sensitivity,MODERATE=0.500; HIGH=0.700,Threshold-grid alternative,47,1.0,0,0.0,
+Threshold sensitivity,MODERATE=0.500; HIGH=0.725,Threshold-grid alternative,47,1.0,1,2.127659574468085,
+Threshold sensitivity,MODERATE=0.500; HIGH=0.750,Threshold-grid alternative,47,1.0,2,4.25531914893617,
+Leave-one-cohort-out,Remove GSE141910,Cohort-removal audit,43,0.6470326861466322,15,34.88372093023256,0.6666666666666666
+Leave-one-cohort-out,Remove GSE249925,Cohort-removal audit,43,0.9183127089259095,5,11.627906976744184,0.8333333333333334
+Leave-one-cohort-out,Remove GSE36961,Cohort-removal audit,47,0.7791283192282007,13,27.659574468085108,0.7222222222222222

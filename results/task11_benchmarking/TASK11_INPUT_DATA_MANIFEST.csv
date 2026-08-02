@@ -1,0 +1,7 @@
+relative_path,role,file_size_bytes,sha256,rows,columns
+results/mci_scores/TASK4_CODE23_HCM_only_clean_DE_input_used_for_MCI.csv,Cohort-level HCM differential-expression evidence used for MCI reconstruction and benchmarking.,36500,9f5cd91f12d4ac7d609dd024d2e07fcc79e3add773a6710998a8379258b8670a,139,19
+results/mci_scores/TASK4_CODE23_REAL_HCM_MCI_scores_primary.csv,"Locked primary gene-level MCI components, scores, and tiers.",10989,08431d4ec13e8bede4a0f3064c4a646d1b3d598a584f5683147e9c75dfc27cb6,49,19
+results/mci_scores/TASK4_CODE23_REAL_HCM_MCI_scores_primary_wide_per_cohort.csv,"Primary MCI table containing per-cohort effect, SE, p-value, and FDR fields.",22033,1cc13f1a1331e74c011466779274b497def2d5c7bed7344bf84865afda539bc5,49,31
+results/mci_scores/TASK6_FINAL_HCM_MCI_WITH_GTEx_AND_BOOTSTRAP_CI.csv,Final HCM resource table containing GTEx and bootstrap audit fields.,42554,76fc69978166718e8bed21df9c4aac3111d9658fa6327349e176c0ea5cd846b0,49,72
+results/mci_scores/TASK9_PATHA_HELDOUT_GSE160997_VALIDATION_GENE_LEVEL.csv,Held-out GSE160997 expression-validation evidence.,49714,94970028d4ab31c262a146fe2a8c5fb5f25b303efebf377696eed9a8c3c2b668,49,87
+results/mci_scores/TASK9_PATHB_GWAS_CATALOG_CONVERGENCE_GENE_LEVEL.csv,GWAS Catalog HCM convergence evidence.,67757,aa8eed358996e131403408c0d8ec6e92d1fc96c52d93efd244592ae2eae9c5ee,49,93
