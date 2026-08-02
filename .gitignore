@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
-data/raw/
-data/processed/
-*.env
-token.txt
-github_token.txt
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -227,7 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> eaf8ef09bdc6480c9c28f89e13475ccd01d27c59
+
+# Project-specific local files and secrets
+.DS_Store
+*.env
+token.txt
+github_token.txt
+
 # Large raw downloaded data - do not commit to GitHub
 data/raw/geo/
 data/raw/geo_supplementary/

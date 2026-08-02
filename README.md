@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Molecular Concordance Index Cardiomyopathy Project
 
 Reproducible computational pipeline for Molecular Concordance Index scoring of ClinVar-annotated cardiomyopathy genes across public HCM/DCM transcriptomic cohorts.
@@ -27,86 +26,43 @@ This project evaluates whether clinically annotated cardiomyopathy genes show st
 ## Author
 
 Sanghati Basu
-=======
-# STEP 10 — Create README.md for GitHub repository
 
-from pathlib import Path
 
-PROJECT_ROOT = Path("/content/drive/MyDrive/MCI_Project")
+<!-- TASK11_START -->
+## Task 11: Benchmarking and Sensitivity Analysis
 
-readme_text = """# Molecular Concordance Index Cardiomyopathy Project
+The MCI resource now includes formal benchmarking against equal-weight
+scoring, direction voting, Fisher combined significance, signed Stouffer
+combined significance, and DerSimonian-Laird random-effects
+meta-analysis.
 
-## Project Overview
+Task 11 also includes:
 
-This repository implements the Molecular Concordance Index (MCI) framework for evaluating whether ClinVar-annotated cardiomyopathy genes show reproducible phenotype-associated transcriptomic signatures across independent public datasets.
+- alternative-weight and leave-one-component-out sensitivity analyses;
+- MODERATE and HIGH threshold-shift analyses;
+- leave-one-HCM-cohort-out recomputation;
+- held-out GSE160997 expression benchmarking;
+- GWAS Catalog convergence benchmarking;
+- publication-ready tables and vector figures.
 
-The project focuses on hypertrophic cardiomyopathy (HCM) and dilated cardiomyopathy (DCM), using public GEO transcriptomic datasets, ClinVar gene annotations, and GTEx left ventricle baseline expression variability.
+### Task 11 resources
 
-## Core Research Question
+- [Reproducibility instructions](results/task11_benchmarking/README.md)
+- [Methods and results summary](results/task11_benchmarking/TASK11_METHODS_AND_RESULTS_SUMMARY.md)
+- [Input-data manifest with SHA-256 checksums](results/task11_benchmarking/TASK11_INPUT_DATA_MANIFEST.csv)
+- [Google Colab notebook](notebooks/TASK11_MCI_BENCHMARKING_AND_SENSITIVITY_ANALYSIS.ipynb)
+- [Publication-ready outputs](results/task11_benchmarking/publication_ready/)
+- [Publication-output manifest](results/task11_benchmarking/publication_ready/TASK11_PUBLICATION_OUTPUT_MANIFEST.csv)
 
-Do clinically annotated pathogenic or likely pathogenic cardiomyopathy genes demonstrate stable and reproducible transcriptomic behavior across independent cohorts?
+### Task 11 environment
 
-## Main Hypothesis
+- `requirements-task11.txt`
+- `environment-task11.yml`
 
-Sarcomeric genes such as MYH7, MYBPC3, TNNT2, and related genes are expected to show lower transcript-level concordance than non-sarcomeric or RNA-processing genes such as LMNA, RBM20, PLN, FLNC, and BAG3.
+### Interpretation boundary
 
-## Molecular Concordance Index Formula
-
-MCI_g = 0.40 * D_g + 0.35 * S_g + 0.25 * R_g
-
-Where:
-
-- D_g = direction agreement across cohorts
-- S_g = effect size consistency across cohorts
-- R_g = statistical reproducibility across cohorts
-
-## MCI Tier Thresholds
-
-| Tier | Threshold | Interpretation |
-|---|---|---|
-| High | MCI >= 0.70 | Stable phenotype-associated transcriptomic signature |
-| Moderate | 0.45 <= MCI < 0.70 | Partial or conditional concordance |
-| Unstable | MCI < 0.45 | Inconsistent or cohort-dependent expression pattern |
-
-## Current Repository Status
-
-This repository currently contains the initial executable project scaffold:
-
-- Project configuration file
-- Dataset manifest
-- Dataset eligibility validation
-- Pre-specified target gene manifest
-- Reusable MCI scoring script
-- Mock differential-expression input
-- Mock MCI output table
-
-## Planned Pipeline
-
-1. Download and curate public GEO datasets
-2. Extract and filter ClinVar cardiomyopathy P/LP genes
-3. Harmonize gene identifiers
-4. Run per-cohort differential-expression analysis
-5. Compute MCI scores
-6. Add GTEx baseline variability adjustment
-7. Run sensitivity analyses
-8. Build interactive concordance browser
-9. Deposit final results to GitHub and Zenodo
-
-## Repository Structure
-
-```text
-MCI_Project/
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── metadata/
-├── results/
-│   ├── differential_expression/
-│   ├── mci_scores/
-│   └── figures/
-├── scripts/
-│   └── mci_scoring.py
-├── logs/
-├── project_config.json
-└── README.md
->>>>>>> eaf8ef09bdc6480c9c28f89e13475ccd01d27c59
+The benchmarking supports MCI as a transparent multidimensional
+transcriptomic evidence-audit framework. It does not establish MCI as a
+clinically validated predictor, demonstrate universal superiority over
+all simpler methods, or show complete cohort-invariant tier assignment.
+<!-- TASK11_END -->

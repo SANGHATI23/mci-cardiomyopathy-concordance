@@ -1,0 +1,7 @@
+method,score_column,membership_column,target_top_n,top_score_cutoff,inclusive_top_set_size,n_genes_tied_at_cutoff
+Original MCI,MCI,top18__original_mci,18,0.7086829235607361,18,1
+Equal-weight composite,equal_weight_composite,top18__equal_weight_composite,18,0.6749361176768915,18,1
+Direction vote,direction_vote_score,top18__direction_vote,18,1.0,26,26
+Fisher combined significance,fisher_minus_log10_p,top18__fisher_combined_significance,18,7.585861597356741,18,1
+Signed Stouffer significance,stouffer_minus_log10_p,top18__signed_stouffer_significance,18,5.713220532927872,18,1
+Random-effects meta-analysis,random_effect_minus_log10_p,top18__random_effects_meta_analysis,18,1.1934640432186423,18,1
