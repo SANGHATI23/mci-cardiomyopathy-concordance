@@ -6,6 +6,42 @@ Reproducible computational pipeline for Molecular Concordance Index scoring of C
 
 This project evaluates whether clinically annotated cardiomyopathy genes show stable phenotype-associated transcriptomic signatures across independent cohorts.
 
+
+MCI evaluates whether clinically annotated cardiomyopathy genes
+show reproducible transcriptomic evidence across independent cohorts.
+
+## Start Here
+
+For a step-by-step reproduction and demonstration of the project:
+
+1. [Project Setup and Data Acquisition](notebooks/01_MCI_Project_Setup_and_Data_Acquisition.ipynb)
+2. [GTEx Baseline Adjustment](notebooks/02_GTEx_Baseline_Adjustment.ipynb)
+3. [DCM Generalization and External Validation](notebooks/03_DCM_Generalization_and_External_Validation.ipynb)
+4. [MCI Resource and Browser](notebooks/04_MCI_Resource_and_Browser.ipynb)
+5. [Benchmarking and Sensitivity Analysis](notebooks/05_MCI_Benchmarking_and_Sensitivity_Analysis.ipynb)
+
+   Clinical gene evidence
+        ↓
+Eligible HCM cohorts
+        ↓
+Cohort-specific differential expression
+        ↓
+Cross-cohort concordance
+        ↓
+MCI
+        ↓
+GTEx baseline adjustment
+        ↓
+Bootstrap uncertainty
+        ↓
+DCM portability
+        ↓
+Held-out/GWAS validation
+        ↓
+Benchmarking & sensitivity
+        ↓
+Browsable MCI resource
+
 ## MCI Formula
 
 `MCI_g = 0.40 * D_g + 0.35 * S_g + 0.25 * R_g`
